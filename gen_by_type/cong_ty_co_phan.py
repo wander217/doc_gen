@@ -1,8 +1,6 @@
-import docx
 from docx import Document
 from python_docx_replace.docx_replace import docx_replace
-from python_docx_replace.docx_replace import RunTextChanger, MaxRetriesReached
-import copy
+from python_docx_replace.docx_replace import MaxRetriesReached
 
 paragraph_datas = {
     "city_name": "THÀNH PHỐ HÀ NỘI",
@@ -57,6 +55,50 @@ def _simple_replace(p, key, value):
             run.text = run.text.replace(f"${{{key}}}", value)
 
 
+class RunTextChanger:
+    def __init__(self, p, key, value):
+        self.p = p
+        self.key = key
+        self.value = value
+        self.run_text = ""
+        self.runs_indexes = []
+        self.run_char_indexes = []
+        self.runs_to_change = {}
+
+    def _initialize(self):
+        run_index = 0
+        for run in self.p.runs:
+            self.run_text += run.text
+            self.runs_indexes += [run_index for _ in run.text]
+            self.run_char_indexes += [char_index for char_index, char in enumerate(run.text)]
+            run_index += 1
+
+    def replace(self):
+        self._initialize()
+        parsed_key_length = len(self.key)
+        index_to_replace = self.run_text.find(self.key)
+
+        for i in range(parsed_key_length):
+            index = index_to_replace + i
+            run_index = self.runs_indexes[index]
+            run = self.p.runs[run_index]
+            run_char_index = self.run_char_indexes[index]
+
+            if not self.runs_to_change.get(run_index):
+                self.runs_to_change[run_index] = [char for char_index, char in enumerate(run.text)]
+
+            run_to_change = self.runs_to_change.get(run_index)
+            if index == index_to_replace:
+                run_to_change[run_char_index] = self.value
+            else:
+                run_to_change[run_char_index] = ""
+
+        # make the real replace
+        for index, text in self.runs_to_change.items():
+            run = self.p.runs[index]
+            run.text = "".join(text)
+
+
 def _complex_replace(p, key, value):
     """Complex alternative, which check all broken items inside the runs"""
     max_retries_replace_a_key = 100  # to avoid infinite loop, this value is set
@@ -77,19 +119,20 @@ def processing_table_data(key, value, document):
     table = get_table_from_keyword(key, document)
     first_row = table.rows[1]
     for i, row_data in enumerate(value):
-        temp_row_tr = copy.deepcopy(first_row._tr)
-        temp_row = table.add_row()
-        temp_row._tr = temp_row_tr
+        business_path: str = r'D:\python_project\doc_gen\template\business_type.docx'
+        business_doc: Document = Document(docx=business_path)
+        temp_row = business_doc.tables[0].rows[1]
         for col in temp_row.cells:
             for paragraph in col.paragraphs:
                 for k, v in row_data.items():
-                    if k in paragraph.text:
-                        _simple_replace(paragraph, k, v)
-                        if k in paragraph.text:
-                            _complex_replace(paragraph, k, v)
+                    k1 = f"${{{k}}}"
+                    if k1 in paragraph.text:
+                        _simple_replace(paragraph, k1, v)
+                        if k1 in paragraph.text:
+                            _complex_replace(paragraph, k1, v)
         last_row = table.rows[-1]
-        print(last_row)
         last_row._tr.addnext(temp_row._tr)
+    table._tbl.remove(first_row._tr)
 
 
 if __name__ == "__main__":
