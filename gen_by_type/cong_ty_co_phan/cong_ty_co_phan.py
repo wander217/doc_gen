@@ -13,6 +13,7 @@ document_data = {
         "vietnamese_name": "Công ty cổ phần ABC",
         "foreign_name": "Công ty ABC",
         "acronym_name": "ABC company",
+        "company_address": "Số 1, đường A, phố B, khu C, Thành phố D, Số 1, đường A, phố B, khu C, Thành phố D",
         "phone": "0328296433",
         "fax": "328296433",
         "email": "abc@gmail.com.vn",
@@ -30,7 +31,7 @@ document_data = {
         "own_idcard_code": "0123456788",
         "own_idcard_date": "12/03/2010",
         "own_idcard_place": "Công an Hà Nội",
-        "own_idcard_rp": "Số 1, đường A, phố B, khu C, Thành phố D",
+        "own_idcard_rp": "Số 1, đường A, phố B, khu C, Thành phố D, Số 1, đường A, phố B, khu C, Thành phố D",
         "own_idcard_lv": "Số 1, đường A, phố B, khu C, Thành phố D",
         "branch_name": "Abc",
         "branch_address": "Số 1, đường A, phố B, khu C, Thành phố D",
@@ -81,4 +82,3 @@ if __name__ == "__main__":
     document.save(doc_save_path)
     pdf_save_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\pdf_result\cong_ty_co_phan.pdf'
     convert(doc_save_path, pdf_save_path)
-

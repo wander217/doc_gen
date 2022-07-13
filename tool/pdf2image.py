@@ -13,7 +13,7 @@ def convert2image(pdf_path, save_dir):
         pix.save(os.path.join(save_dir, "{}.png".format(page.number)))
         image = Image.open(os.path.join(save_dir, "{}.png".format(page.number)))
         w, h = image.size
-        bg = Image.open(r"D:\python_project\doc_gen\background\bg4.png")
+        bg = Image.open(r"D:\python_project\doc_gen\background\bg1.png")
         bg = bg.resize((w, h))
         bg.paste(image, (0, 0), image)
         # bg = bg.resize((w * 2, h * 2))
