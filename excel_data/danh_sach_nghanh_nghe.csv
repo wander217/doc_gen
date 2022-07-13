@@ -1,0 +1,1057 @@
+	0	1	2	3	4	5
+0	Cấp 1	Cấp 2	Cấp 3	Cấp 4	Cấp 5	Tên ngành
+1	A					NÔNG NGHIỆP, LÂM NGHIỆP VÀ THUỶ SẢN
+2		01				Nông nghiệp và hoạt động dịch vụ có liên quan
+3			011			Trồng cây hàng năm
+4				0111	01110	Trồng lúa
+5				0112	01120	Trồng ngô và cây lương thực có hạt khác
+6				0113	01130	Trồng cây lấy củ có chất bột
+7				0114	01140	Trồng cây mía
+8				0115	01150	Trồng cây thuốc lá, thuốc lào
+9				0116	01160	Trồng cây lấy sợi
+10				0117	01170	Trồng cây có hạt chứa dầu
+11				0118		Trồng rau, đậu các loại và trồng hoa
+12					01181	Trồng rau các loại
+13					01182	Trồng đậu các loại
+14					01183	Trồng hoa hàng năm
+15				0119		Trồng cây hàng năm khác
+16					01191	Trồng cây gia vị hàng năm
+17					01192	Trồng cây dược liệu, hương liệu hàng năm
+18					01199	Trồng cây hàng năm khác còn lại
+19			012			Trồng cây lâu năm
+20				0121		Trồng cây ăn quả
+21					01211	Trồng nho
+22					01212	Trồng cây ăn quả vùng nhiệt đới và cận nhiệt đới
+23					01213	Trồng cam, quýt và các loại quả có múi khác
+24					01214	Trồng táo, mận và các loại quả có hạt như táo
+25					01215	Trồng nhãn, vải, chôm chôm
+26					01219	Trồng cây ăn quả khác
+27				0122	01220	Trồng cây lấy quả chứa dầu
+28				0123	01230	Trồng cây điều
+29				0124	01240	Trồng cây hồ tiêu
+30				0125	01250	Trồng cây cao su
+31				0126	01260	Trồng cây cà phê
+32				0127	01270	Trồng cây chè
+33				0128		Trồng cây gia vị, cây dược liệu, cây hương liệu lâu năm
+34					01281	Trồng cây gia vị lâu năm
+35					01282	Trồng cây dược liệu, hương liệu lâu năm
+36				0129		Trồng cây lâu năm khác
+37					01291	Trồng cây cảnh lâu năm
+38					01299	Trồng cây lâu năm khác còn lại
+39			013			Nhân và chăm sóc cây giống nông nghiệp
+40				0131	01310	Nhân và chăm sóc cây giống hàng năm
+41				0132	01320	Nhân và chăm sóc cây giống lâu năm
+42			014			Chăn nuôi
+43				0141		Chăn nuôi trâu, bò và sản xuất giống trâu, bò
+44					01411	Sản xuất giống trâu, bò
+45					01412	Chăn nuôi trâu, bò
+46				0142		Chăn nuôi ngựa, lừa, la và sản xuất giống ngựa, lừa
+47					01421	Sản xuất giống ngựa, lừa
+48					01422	Chăn nuôi ngựa, lừa, la
+49				0144		Chăn nuôi dê, cừu và sản xuất giống dê, cừu, hươu, nai
+50					01441	Sản xuất giống dê, cừu, hươu, nai
+51					01442	Chăn nuôi dê, cừu, hươu, nai
+52				0145		Chăn nuôi lợn và sản xuất giống lợn
+53					01451	Sản xuất giống lợn
+54					01452	Chăn nuôi lợn
+55				0146		Chăn nuôi gia cầm
+56					01461	Hoạt động ấp trứng và sản xuất giống gia cầm
+57					01462	Chăn nuôi gà
+58					01463	Chăn nuôi vịt, ngan, ngỗng
+59					01469	Chăn nuôi gia cầm khác
+60				0149	01490	Chăn nuôi khác
+61			015	0150	01500	Trồng trọt, chăn nuôi hỗn hợp
+62			016			Hoạt động dịch vụ nông nghiệp
+63				0161	01610	Hoạt động dịch vụ trồng trọt
+64				0162	01620	Hoạt động dịch vụ chăn nuôi
+65				0163	01630	Hoạt động dịch vụ sau thu hoạch
+66				0164	01640	Xử lý hạt giống để nhân giống
+67			017	0170	01700	Săn bắt, đánh bẫy và hoạt động dịch vụ có liên quan
+68		02				Lâm nghiệp và hoạt động dịch vụ có liên quan
+69			021	0210		Trồng rừng, chăm sóc rừng và ươm giống cây lâm nghiệp
+70					02101	Trồng rừng và chăm sóc rừng cây thân gỗ
+71					02102	Trồng rừng và chăm sóc rừng họ tre
+72					02103	Trồng rừng và chăm sóc rừng khác
+73					02104	Ươm giống cây lâm nghiệp
+74			022	0220	02200	Khai thác gỗ
+75			023			Khai thác, thu nhặt lâm sản khác trừ gỗ
+76				0231	02310	Khai thác lâm sản khác trừ gỗ
+77				0232	02320	Thu nhặt lâm sản khác trừ gỗ
+78			024	0240	02400	Hoạt động dịch vụ lâm nghiệp
+79		03				Khai thác, nuôi trồng thuỷ sản
+80			031			Khai thác thuỷ sản
+81				0311	03110	Khai thác thuỷ sản biển
+82				0312	03120	Khai thác thuỷ sản nội địa
+83			032			Nuôi trồng thuỷ sản
+84				0321		Nuôi trồng thuỷ sản biển
+85					03211	Nuôi cá
+86					03212	Nuôi tôm
+87					03213	Nuôi thủy sản khác
+88					03214	Sản xuất giống thủy sản biển
+89				0322		Nuôi trồng thuỷ sản nội địa
+90					03221	Nuôi cá
+91					03222	Nuôi tôm
+92					03223	Nuôi thủy sản khác
+93					03224	Sản xuất giống thủy sản nội địa
+94	B					KHAI KHOÁNG
+95		05				Khai thác than cứng và than non
+96			051	0510	05100	Khai thác và thu gom than cứng
+97			052	0520	05200	Khai thác và thu gom than non
+98		06				Khai thác dầu thô và khí đốt tự nhiên
+99			061	0610	06100	Khai thác dầu thô
+100			062	0620	06200	Khai thác khí đốt tự nhiên
+101		07				Khai thác quặng kim loại
+102			071	0710	07100	Khai thác quặng sắt
+103			072			Khai thác quặng không chứa sắt (trừ quặng kim loại quý hiếm)
+104				0721	07210	Khai thác quặng uranium và quặng thorium
+105				0722		Khai thác quặng kim loại khác không chứa sắt
+106					07221	Khai thác quặng bôxít
+107					07229	Khai thác quặng kim loại khác không chứa sắt chưa được phân vào đâu
+108			073	0730	07300	Khai thác quặng kim loại quý hiếm
+109		08				Khai khoáng khác
+110			081	0810		Khai thác đá, cát, sỏi, đất sét
+111					08101	Khai thác đá
+112					08102	Khai thác cát, sỏi
+113					08103	Khai thác đất sét
+114			089			Khai khoáng chưa được phân vào đâu
+115				0891	08910	Khai thác khoáng hoá chất và khoáng phân bón
+116				0892	08920	Khai thác và thu gom than bùn
+117				0893	08930	Khai thác muối
+118				0899	08990	Khai khoáng khác chưa được phân vào đâu
+119		09				Hoạt động dịch vụ hỗ trợ khai khoáng
+120			091	0910	09100	Hoạt động dịch vụ hỗ trợ khai thác dầu thô và khí tự nhiên
+121			099	0990	09900	Hoạt động dịch vụ hỗ trợ khai khoáng khác
+122	C					CÔNG NGHIỆP CHẾ BIẾN, CHẾ TẠO
+123		10				Sản xuất, chế biến thực phẩm
+124			101	1010		Chế biến, bảo quản thịt và các sản phẩm từ thịt
+125					10101	Giết mổ gia súc, gia cầm
+126					10102	Chế biến và bảo quản thịt
+127					10109	Chế biến và bảo quản các sản phẩm từ thịt
+128			102	1020		Chế biến, bảo quản thuỷ sản và các sản phẩm từ thuỷ sản
+129					10201	Chế biến và bảo quản thủy sản đông lạnh
+130					10202	Chế biến và bảo quản thủy sản khô
+131					10203	Chế biến và bảo quản nước mắm
+132					10209	Chế biến và bảo quản các sản phẩm khác từ thủy sản
+133			103	1030		Chế biến và bảo quản rau quả
+134					10301	Sản xuất nước ép từ rau quả
+135					10309	Chế biến và bảo quản rau quả khác
+136			104	1040		Sản xuất dầu, mỡ động, thực vật
+137					10401	Sản xuất dầu, mỡ động vật
+138					10402	Sản xuất dầu, bơ thực vật
+139			105	1050	10500	Chế biến sữa và các sản phẩm từ sữa
+140			106			Xay xát và sản xuất bột
+141				1061		Xay xát và sản xuất bột thô
+142					10611	Xay xát
+143					10612	Sản xuất bột thô
+144				1062	10620	Sản xuất tinh bột và các sản phẩm từ tinh bột
+145			107			Sản xuất thực phẩm khác
+146				1071	10710	Sản xuất các loại bánh từ bột
+147				1072	10720	Sản xuất đường
+148				1073	10730	Sản xuất ca cao, sôcôla và bánh kẹo
+149				1074	10740	Sản xuất mì ống, mỳ sợi và sản phẩm tương tự
+150				1075		Sản xuất món ăn, thức ăn chế biến sẵn
+151					10751	Sản xuất món ăn, thức ăn chế biến sẵn từ thịt
+152					10752	Sản xuất món ăn, thức ăn chế biến sẵn từ thủy sản
+153					10759	Sản xuất món ăn, thức ăn chế biến sẵn khác
+154				1076	10760	Sản xuất chè
+155				1077	10770	Sản xuất cà phê
+156				1079	10790	Sản xuất thực phẩm khác chưa được phân vào đâu
+157			108	1080	10800	Sản xuất thức ăn gia súc, gia cầm và thuỷ sản
+158		11	110			Sản xuất đồ uống
+159				1101	11010	Chưng, tinh cất và pha chế các loại rượu mạnh
+160				1102	11020	Sản xuất rượu vang
+161				1103	11030	Sản xuất bia và mạch nha ủ men bia
+162				1104		Sản xuất đồ uống không cồn, nước khoáng
+163					11041	Sản xuất nước khoáng, nước tinh khiết đóng chai
+164					11042	Sản xuất đồ uống không cồn
+165		12	120	1200		Sản xuất sản phẩm thuốc lá
+166					12001	Sản xuất thuốc lá
+167					12009	Sản xuất thuốc hút khác
+168		13				Dệt
+169			131			Sản xuất sợi, vải dệt thoi và hoàn thiện sản phẩm dệt
+170				1311	13110	Sản xuất sợi
+171				1312	13120	Sản xuất vải dệt thoi
+172				1313	13130	Hoàn thiện sản phẩm dệt
+173			139			Sản xuất hàng dệt khác
+174				1391	13910	Sản xuất vải dệt kim, vải đan móc và vải không dệt khác
+175				1392	13920	Sản xuất hàng dệt sẵn (trừ trang phục)
+176				1393	13930	Sản xuất thảm, chăn, đệm
+177				1394	13940	Sản xuất các loại dây bện và lưới
+178				1399	13990	Sản xuất các loại hàng dệt khác chưa được phân vào đâu
+179		14				Sản xuất trang phục
+180			141	1410	14100	May trang phục (trừ trang phục từ da lông thú)
+181			142	1420	14200	Sản xuất sản phẩm từ da lông thú
+182			143	1430	14300	Sản xuất trang phục dệt kim, đan móc
+183		15				Sản xuất da và các sản phẩm có liên quan
+184			151			Thuộc, sơ chế da; sản xuất va li, túi xách, yên đệm; sơ chế và nhuộm da lông thú
+185				1511	15110	Thuộc, sơ chế da; sơ chế và nhuộm da lông thú
+186				1512	15120	Sản xuất vali, túi xách và các loại tương tự, sản xuất yên đệm
+187			152	1520	15200	Sản xuất giày, dép
+188		16				Chế biến gỗ và sản xuất sản phẩm từ gỗ, tre, nứa (trừ giường, tủ, bàn, ghế); sản xuất sản phẩm từ rơm, rạ và vật liệu tết bện
+189			161	1610		Cưa, xẻ, bào gỗ và bảo quản gỗ
+190					16101	Cưa, xẻ và bào gỗ
+191					16102	Bảo quản gỗ
+192			162			Sản xuất sản phẩm từ gỗ, tre, nứa (trừ giường, tủ, bàn, ghế); sản xuất sản phẩm từ rơm, rạ và vật liệu tết bện
+193				1621	16210	Sản xuất gỗ dán, gỗ lạng, ván ép và ván mỏng khác
+194				1622	16220	Sản xuất đồ gỗ xây dựng
+195				1623	16230	Sản xuất bao bì bằng gỗ
+196				1629		Sản xuất sản phẩm khác từ gỗ; sản xuất sản phẩm từ tre, nứa, rơm, rạ và vật liệu tết bện
+197					16291	Sản xuất sản phẩm khác từ gỗ
+198					16292	Sản xuất sản phẩm từ lâm sản (trừ gỗ), cói và vật liệu tết bện
+199		17	170			Sản xuất giấy và sản phẩm từ giấy
+200				1701	17010	Sản xuất bột giấy, giấy và bìa
+201				1702		Sản xuất giấy nhăn, bìa nhăn, bao bì từ giấy và bìa
+202					17021	Sản xuất bao bì bằng giấy, bìa
+203					17022	Sản xuất giấy nhăn và bìa nhăn
+204				1709	17090	Sản xuất các sản phẩm khác từ giấy và bìa chưa được phân vào đâu
+205		18				In, sao chép bản ghi các loại
+206			181			In ấn và dịch vụ liên quan đến in
+207				1811	18110	In ấn
+208				1812	18120	Dịch vụ liên quan đến in
+209			182	1820	18200	Sao chép bản ghi các loại
+210		19				Sản xuất than cốc, sản phẩm dầu mỏ tinh chế
+211			191	1910	19100	Sản xuất than cốc
+212			192	1920	19200	Sản xuất sản phẩm dầu mỏ tinh chế
+213		20				Sản xuất hoá chất và sản phẩm hoá chất
+214			201			Sản xuất hoá chất cơ bản, phân bón và hợp chất ni tơ; sản xuất plastic và cao su tổng hợp dạng nguyên sinh
+215				2011		Sản xuất hoá chất cơ bản
+216					20111	Sản xuất khí công nghiệp
+217					20112	Sản xuất chất nhuộm và chất màu
+218					20113	Sản xuất hóa chất vô cơ cơ bản khác
+219					20114	Sản xuất hoá chất hữu cơ cơ bản khác
+220					20119	Sản xuất hóa chất cơ bản khác
+221				2012	20120	Sản xuất phân bón và hợp chất ni tơ
+222				2013		Sản xuất plastic và cao su tổng hợp dạng nguyên sinh
+223					20131	Sản xuất plastic nguyên sinh
+224					20132	Sản xuất cao su tổng hợp dạng nguyên sinh
+225			202			Sản xuất sản phẩm hoá chất khác
+226				2021	20210	Sản xuất thuốc trừ sâu và sản phẩm hoá chất khác dùng trong nông nghiệp
+227				2022		Sản xuất sơn, véc ni và các chất sơn, quét tương tự; sản xuất mực in và ma tít
+228					20221	Sản xuất sơn, véc ni và các chất sơn, quét tương tự, ma tít
+229					20222	Sản xuất mực in
+230				2023		Sản xuất mỹ phẩm, xà phòng, chất tẩy rửa, làm bóng và chế phẩm vệ sinh
+231					20231	Sản xuất mỹ phẩm
+232					20232	Sản xuất xà phòng, chất tẩy rửa, làm bóng và chế phẩm vệ sinh
+233				2029	20290	Sản xuất sản phẩm hoá chất khác chưa được phân vào đâu
+234			203	2030	20300	Sản xuất sợi nhân tạo
+235		21				Sản xuất thuốc, hoá dược và dược liệu
+236			210	2100		Sản xuất thuốc, hoá dược và dược liệu
+237					21001	Sản xuất thuốc các loại
+238					21002	Sản xuất hoá dược và dược liệu
+239		22				Sản xuất sản phẩm từ cao su và plastic
+240			221			Sản xuất sản phẩm từ cao su
+241				2211	22110	Sản xuất săm, lốp cao su; đắp và tái chế lốp cao su
+242				2219	22190	Sản xuất sản phẩm khác từ cao su
+243			222	2220		Sản xuất sản phẩm từ plastic
+244					22201	Sản xuất bao bì từ plastic
+245					22209	Sản xuất sản phẩm khác từ plastic
+246		23				Sản xuất sản phẩm từ khoáng phi kim loại khác
+247			231	2310		Sản xuất thuỷ tinh và sản phẩm từ thuỷ tinh
+248					23101	Sản xuất thủy tinh phẳng và sản phẩm từ thủy tinh phẳng
+249					23102	Sản xuất thủy tinh rỗng và sản phẩm từ thủy tinh rỗng
+250					23103	Sản xuất sợi thủy tinh và sản phẩm từ sợi thủy tinh
+251					23109	Sản xuất thủy tinh khác và các sản phẩm từ thủy tinh
+252			239			Sản xuất sản phẩm từ khoáng phi kim loại chưa được phân vào đâu
+253				2391	23910	Sản xuất sản phẩm chịu lửa
+254				2392	23920	Sản xuất vật liệu xây dựng từ đất sét
+255				2393	23930	Sản xuất sản phẩm gốm sứ khác
+256				2394		Sản xuất xi măng, vôi và thạch cao
+257					23941	Sản xuất xi măng
+258					23942	Sản xuất vôi
+259					23943	Sản xuất thạch cao
+260				2395	23950	Sản xuất bê tông và các sản phẩm từ bê tông, xi măng và thạch cao
+261				2396	23960	Cắt tạo dáng và hoàn thiện đá
+262				2399	23990	Sản xuất sản phẩm từ chất khoáng phi kim loại khác chưa được phân vào đâu
+263		24				Sản xuất kim loại
+264			241	2410	24100	Sản xuất sắt, thép, gang
+265			242	2420		Sản xuất kim loại quý và kim loại màu
+266					24201	Sản xuất kim loại quý
+267					24202	Sản xuất kim loại màu
+268			243			Đúc kim loại
+269				2431	24310	Đúc sắt, thép
+270				2432	24320	Đúc kim loại màu
+271		25				Sản xuất sản phẩm từ kim loại đúc sẵn (trừ máy móc, thiết bị)
+272			251			Sản xuất các cấu kiện kim loại, thùng, bể chứa và nồi hơi
+273				2511	25110	Sản xuất các cấu kiện kim loại
+274				2512	25120	Sản xuất thùng, bể chứa và dụng cụ chứa đựng bằng kim loại
+275				2513	25130	Sản xuất nồi hơi (trừ nồi hơi trung tâm)
+276			252	2520	25200	Sản xuất vũ khí và đạn dược
+277			259			Sản xuất sản phẩm khác bằng kim loại; các dịch vụ xử lý, gia công kim loại
+278				2591	25910	Rèn, dập, ép và cán kim loại; luyện bột kim loại
+279				2592	25920	Gia công cơ khí; xử lý và tráng phủ kim loại
+280				2593	25930	Sản xuất dao kéo, dụng cụ cầm tay và đồ kim loại thông dụng
+281				2599		Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu
+282					25991	Sản xuất đồ dùng bằng kim loại cho nhà bếp, nhà vệ sinh và nhà ăn
+283					25999	Sản xuất sản phẩm khác còn lại bằng kim loại chưa được phân vào đâu
+284		26				Sản xuất sản phẩm điện tử, máy vi tính và sản phẩm quang học
+285			261	2610	26100	Sản xuất linh kiện điện tử
+286			262	2620	26200	Sản xuất máy vi tính và thiết bị ngoại vi của máy vi tính
+287			263	2630	26300	Sản xuất thiết bị truyền thông
+288			264	2640	26400	Sản xuất sản phẩm điện tử dân dụng
+289			265			Sản xuất thiết bị đo lường, kiểm tra, định hướng và điều khiển; sản xuất đồng hồ
+290				2651	26510	Sản xuất thiết bị đo lường, kiểm tra, định hướng và điều khiển
+291				2652	26520	Sản xuất đồng hồ
+292			266	2660	26600	Sản xuất thiết bị bức xạ, thiết bị điện tử trong y học, điện liệu pháp
+293			267	2670	26700	Sản xuất thiết bị và dụng cụ quang học
+294			268	2680	26800	Sản xuất băng, đĩa từ tính và quang học
+295		27				Sản xuất thiết bị điện
+296			271	2710		Sản xuất mô tơ, máy phát, biến thế điện, thiết bị phân phối và điều khiển điện
+297					27101	Sản xuất mô tơ, máy phát
+298					27102	Sản xuất biến thế điện, thiết bị phân phối và điều khiển điện
+299			272	2720	27200	Sản xuất pin và ắc quy
+300			273			Sản xuất dây và thiết bị dây dẫn
+301				2731	27310	Sản xuất dây cáp, sợi cáp quang học
+302				2732	27320	Sản xuất dây, cáp điện và điện tử khác
+303				2733	27330	Sản xuất thiết bị dây dẫn điện các loại
+304			274	2740	27400	Sản xuất thiết bị điện chiếu sáng
+305			275	2750	27500	Sản xuất đồ điện dân dụng
+306			279	2790	27900	Sản xuất thiết bị điện khác
+307		28				Sản xuất máy móc, thiết bị chưa được phân vào đâu
+308			281			Sản xuất máy thông dụng
+309				2811	28110	Sản xuất động cơ, tua bin (trừ động cơ máy bay, ô tô, mô tô và xe máy)
+310				2812	28120	Sản xuất thiết bị sử dụng năng lượng chiết lưu
+311				2813	28130	Sản xuất máy bơm, máy nén, vòi và van khác
+312				2814	28140	Sản xuất bi, bánh răng, hộp số, các bộ phận điều khiển và truyền chuyển động
+313				2815	28150	Sản xuất lò nướng, lò luyện và lò nung
+314				2816	28160	Sản xuất các thiết bị nâng, hạ và bốc xếp
+315				2817	28170	Sản xuất máy móc và thiết bị văn phòng (trừ máy vi tính và thiết bị ngoại vi của máy vi tính)
+316				2818	28180	Sản xuất dụng cụ cầm tay chạy bằng mô tơ hoặc khí nén
+317				2819	28190	Sản xuất máy thông dụng khác
+318			282			Sản xuất máy chuyên dụng
+319				2821	28210	Sản xuất máy nông nghiệp và lâm nghiệp
+320				2822	28220	Sản xuất máy công cụ và máy tạo hình kim loại
+321				2823	28230	Sản xuất máy luyện kim
+322				2824	28240	Sản xuất máy khai thác mỏ và xây dựng
+323				2825	28250	Sản xuất máy chế biến thực phẩm, đồ uống và thuốc lá
+324				2826	28260	Sản xuất máy cho ngành dệt, may và da
+325				2829		Sản xuất máy chuyên dụng khác
+326					28291	Sản xuất máy sản xuất vật liệu xây dựng
+327					28299	Sản xuất máy chuyên dụng khác chưa được phân vào đâu
+328		29				Sản xuất ô tô và xe có động cơ khác
+329			291	2910	29100	Sản xuất ô tô và xe có động cơ khác
+330			292	2920	29200	Sản xuất thân xe ô tô và xe có động cơ khác, rơ moóc và bán rơ moóc
+331			293	2930	29300	Sản xuất phụ tùng và bộ phận phụ trợ cho xe ô tô và xe có động cơ khác
+332		30				Sản xuất phương tiện vận tải khác
+333			301			Đóng tàu và thuyền
+334				3011	30110	Đóng tàu và cấu kiện nổi
+335				3012	30120	Đóng thuyền, xuồng thể thao và giải trí
+336			302	3020	30200	Sản xuất đầu máy xe lửa, xe điện và toa xe
+337			303	3030	30300	Sản xuất máy bay, tàu vũ trụ và máy móc liên quan
+338			304	3040	30400	Sản xuất xe cơ giới chiến đấu dùng trong quân đội
+339			309			Sản xuất phương tiện và thiết bị vận tải chưa được phân vào đâu
+340				3091	30910	Sản xuất mô tô, xe máy
+341				3092	30920	Sản xuất xe đạp và xe cho người khuyết tật
+342				3099	30990	Sản xuất phương tiện và thiết bị vận tải khác chưa được phân vào đâu
+343		31	310	3100		Sản xuất giường, tủ, bàn, ghế
+344					31001	Sản xuất giường, tủ, bàn, ghế bằng gỗ
+345					31002	Sản xuất giường, tủ, bàn, ghế bằng kim loại
+346					31009	Sản xuất giường, tủ, bàn, ghế bằng vật liệu khác
+347		32				Công nghiệp chế biến, chế tạo khác
+348			321			Sản xuất đồ kim hoàn, đồ giả kim hoàn và các chi tiết liên quan
+349				3211	32110	Sản xuất đồ kim hoàn và chi tiết liên quan
+350				3212	32120	Sản xuất đồ giả kim hoàn và chi tiết liên quan
+351			322	3220	32200	Sản xuất nhạc cụ
+352			323	3230	32300	Sản xuất dụng cụ thể dục, thể thao
+353			324	3240	32400	Sản xuất đồ chơi, trò chơi
+354			325	3250		Sản xuất thiết bị, dụng cụ y tế, nha khoa, chỉnh hình và phục hồi chức năng
+355					32501	Sản xuất thiết bị, dụng cụ y tế, nha khoa
+356					32502	Sản xuất dụng cụ chỉnh hình, phục hồi chức năng
+357			329	3290	32900	Sản xuất khác chưa được phân vào đâu
+358		33				Sửa chữa, bảo dưỡng và lắp đặt máy móc và thiết bị
+359			331			Sửa chữa và bảo dưỡng máy móc, thiết bị và sản phẩm kim loại đúc sẵn
+360				3311	33110	Sửa chữa các sản phẩm kim loại đúc sẵn
+361				3312	33120	Sửa chữa máy móc, thiết bị
+362				3313	33130	Sửa chữa thiết bị điện tử và quang học
+363				3314	33140	Sửa chữa thiết bị điện
+364				3315	33150	Sửa chữa và bảo dưỡng phương tiện vận tải (trừ ô tô, mô tô, xe máy và xe có động cơ khác)
+365				3319	33190	Sửa chữa thiết bị khác
+366			332	3320	33200	Lắp đặt máy móc và thiết bị công nghiệp
+367	D					SẢN XUẤT VÀ PHÂN PHỐI ĐIỆN, KHÍ ĐỐT, NƯỚC NÓNG, HƠI NƯỚC VÀ ĐIỀU HOÀ KHÔNG KHÍ
+368		35				Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hoà không khí
+369			351			Sản xuất, truyền tải và phân phối điện
+370				3511		Sản xuất điện
+371					35111	Thủy điện
+372					35112	Nhiệt điện than
+373					35113	Nhiệt điện khí
+374					35114	Điện hạt nhân
+375					35115	Điện gió
+376					35116	Điện mặt trời
+377					35119	Điện khác
+378				3512		Truyền tải và phân phối điện
+379					35121	Truyền tải điện
+380					35122	Phân phối điện
+381			352	3520		Sản xuất khí đốt, phân phối nhiên liệu khí bằng đường ống
+382					35201	Sản xuất khí đốt
+383					35202	Phân phối nhiên liệu khí bằng đường ống
+384			353	3530		Sản xuất, phân phối hơi nước, nước nóng, điều hoà không khí và sản xuất nước đá
+385					35301	Sản xuất, phân phối hơi nước, nước nóng và điều hoà không khí
+386					35302	Sản xuất nước đá
+387	E					CUNG CẤP NƯỚC; HOẠT ĐỘNG QUẢN LÝ VÀ XỬ LÝ RÁC THẢI, NƯỚC THẢI
+388		36	360	3600	36000	Khai thác, xử lý và cung cấp nước
+389		37	370	3700		Thoát nước và xử lý nước thải
+390					37001	Thoát nước
+391					37002	Xử lý nước thải
+392		38				Hoạt động thu gom, xử lý và tiêu huỷ rác thải; tái chế phế liệu
+393			381			Thu gom rác thải
+394				3811	38110	Thu gom rác thải không độc hại
+395				3812		Thu gom rác thải độc hại
+396					38121	Thu gom rác thải y tế
+397					38129	Thu gom rác thải độc hại khác
+398			382			Xử lý và tiêu huỷ rác thải
+399				3821	38210	Xử lý và tiêu huỷ rác thải không độc hại
+400				3822		Xử lý và tiêu huỷ rác thải độc hại
+401					38221	Xử lý và tiêu huỷ rác thải y tế
+402					38229	Xử lý và tiêu huỷ rác thải độc hại khác
+403			383	3830		Tái chế phế liệu
+404					38301	Tái chế phế liệu kim loại
+405					38302	Tái chế phế liệu phi kim loại
+406		39	390	3900	39000	Xử lý ô nhiễm và hoạt động quản lý chất thải khác
+407	F					XÂY DỰNG
+408		41	410			Xây dựng nhà các loại
+409				4101	41010	Xây dựng nhà để ở
+410				4102	41020	Xây dựng nhà không để ở
+411		42				Xây dựng công trình kỹ thuật dân dụng
+412			421			Xây dựng công trình đường sắt và đường bộ
+413				4211	42110	Xây dựng công trình đường sắt
+414				4212	42120	Xây dựng công trình đường bộ
+415			422			Xây dựng công trình công ích
+416				4221	42210	Xây dựng công trình điện
+417				4222	42220	Xây dựng công trình cấp, thoát nước
+418				4223	42230	Xây dựng công trình viễn thông, thông tin liên lạc
+419				4229	42290	Xây dựng công trình công ích khác
+420			429			Xây dựng công trình kỹ thuật dân dụng khác
+421				4291	42910	Xây dựng công trình thủy
+422				4292	42920	Xây dựng công trình khai khoáng
+423				4293	42930	Xây dựng công trình chế biến, chế tạo
+424				4299	42990	Xây dựng công trình kỹ thuật dân dụng khác
+425		43				Hoạt động xây dựng chuyên dụng
+426			431			Phá dỡ và chuẩn bị mặt bằng
+427				4311	43110	Phá dỡ
+428				4312	43120	Chuẩn bị mặt bằng
+429			432			Lắp đặt hệ thống điện, hệ thống cấp thoát nước và lắp đặt xây dựng khác
+430				4321	43210	Lắp đặt hệ thống điện
+431				4322		Lắp đặt hệ thống cấp, thoát nước, hệ thống sưởi và điều hoà không khí
+432					43221	Lắp đặt hệ thống cấp, thoát nước
+433					43222	Lắp đặt hệ thống sưởi và điều hoà không khí
+434				4329	43290	Lắp đặt hệ thống xây dựng khác
+435			433	4330	43300	Hoàn thiện công trình xây dựng
+436			439	4390	43900	Hoạt động xây dựng chuyên dụng khác
+437	G					BÁN BUÔN VÀ BÁN LẺ; SỬA CHỮA Ô TÔ, MÔ TÔ, XE MÁY VÀ XE CÓ ĐỘNG CƠ KHÁC
+438		45				Bán, sửa chữa ô tô, mô tô, xe máy và xe có động cơ khác
+439			451			Bán ô tô và xe có động cơ khác
+440				4511		Bán buôn ô tô và xe có động cơ khác
+441					45111	Bán buôn ô tô con (loại 9 chỗ ngồi trở xuống)
+442					45119	Bán buôn xe có động cơ khác
+443				4512	45120	Bán lẻ ô tô con (loại 9 chỗ ngồi trở xuống)
+444				4513		Đại lý ô tô và xe có động cơ khác
+445					45131	Đại lý ô tô con (loại 9 chỗ ngồi trở xuống)
+446					45139	Đại lý xe có động cơ khác
+447			452	4520	45200	Bảo dưỡng, sửa chữa ô tô và xe có động cơ khác
+448			453	4530		Bán phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác
+449					45301	Bán buôn phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác
+450					45302	Bán lẻ phụ tùng và các bộ phận phụ trợ của ô tô con (loại 9 chỗ ngồi trở xuống)
+451					45303	Đại lý phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác
+452			454			Bán, bảo dưỡng và sửa chữa mô tô, xe máy, phụ tùng và các bộ phận phụ trợ của mô tô, xe máy
+453				4541		Bán mô tô, xe máy
+454					45411	Bán buôn mô tô, xe máy
+455					45412	Bán lẻ mô tô, xe máy
+456					45413	Đại lý mô tô, xe máy
+457				4542	45420	Bảo dưỡng và sửa chữa mô tô, xe máy
+458				4543		Bán phụ tùng và các bộ phận phụ trợ của mô tô, xe máy
+459					45431	Bán buôn phụ tùng và các bộ phận phụ trợ của mô tô, xe máy
+460					45432	Bán lẻ phụ tùng và các bộ phận phụ trợ của mô tô, xe máy
+461					45433	Đại lý phụ tùng và các bộ phận phụ trợ của mô tô, xe máy
+462		46				Bán buôn (trừ ô tô, mô tô, xe máy và xe có động cơ khác)
+463			461	4610		Đại lý, môi giới, đấu giá hàng hóa
+464					46101	Đại lý bán hàng hóa
+465					46102	Môi giới mua bán hàng hóa
+466					46103	Đấu giá hàng hóa
+467			462	4620		Bán buôn nông, lâm sản nguyên liệu (trừ gỗ, tre, nứa) và động vật sống
+468					46201	Bán buôn thóc, ngô và các loại hạt ngũ cốc khác
+469					46202	Bán buôn hoa và cây
+470					46203	Bán buôn động vật sống
+471					46204	Bán buôn thức ăn và nguyên liệu làm thức ăn cho gia súc, gia cầm và thuỷ sản
+472					46209	Bán buôn nông, lâm sản nguyên liệu khác (trừ gỗ, tre, nứa)
+473			463			Bán buôn lương thực, thực phẩm, đồ uống và sản phẩm thuốc lá, thuốc lào
+474				4631	46310	Bán buôn gạo, lúa mỳ, hạt ngũ cốc khác, bột mỳ
+475				4632		Bán buôn thực phẩm
+476					46321	Bán buôn thịt và các sản phẩm từ thịt
+477					46322	Bán buôn thủy sản
+478					46323	Bán buôn rau, quả
+479					46324	Bán buôn cà phê
+480					46325	Bán buôn chè
+481					46326	Bán buôn đường, sữa và các sản phẩm sữa, bánh kẹo và các sản phẩm chế biến từ ngũ cốc, bột, tinh bột
+482					46329	Bán buôn thực phẩm khác
+483				4633		Bán buôn đồ uống
+484					46331	Bán buôn đồ uống có cồn
+485					46332	Bán buôn đồ uống không có cồn
+486				4634	46340	Bán buôn sản phẩm thuốc lá, thuốc lào
+487			464			Bán buôn đồ dùng gia đình
+488				4641		Bán buôn vải, hàng may mặc, giày dép
+489					46411	Bán buôn vải
+490					46412	Bán buôn thảm, đệm, chăn, màn, rèm, ga trải giường, gối và hàng dệt khác
+491					46413	Bán buôn hàng may mặc
+492					46414	Bán buôn giày dép
+493				4649		Bán buôn đồ dùng khác cho gia đình
+494					46491	Bán buôn vali, cặp, túi, ví, hàng da và giả da khác
+495					46492	Bán buôn dược phẩm và dụng cụ y tế
+496					46493	Bán buôn nước hoa, hàng mỹ phẩm và chế phẩm vệ sinh
+497					46494	Bán buôn hàng gốm, sứ, thủy tinh
+498					46495	Bán buôn đồ điện gia dụng, đèn và bộ đèn điện
+499					46496	Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất tương tự
+500					46497	Bán buôn sách, báo, tạp chí, văn phòng phẩm
+501					46498	Bán buôn dụng cụ thể dục, thể thao
+502					46499	Bán buôn đồ dùng khác cho gia đình chưa được phân vào đâu
+503			465			Bán buôn máy móc, thiết bị và phụ tùng máy
+504				4651	46510	Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm
+505				4652	46520	Bán buôn thiết bị và linh kiện điện tử, viễn thông
+506				4653	46530	Bán buôn máy móc, thiết bị và phụ tùng máy nông nghiệp
+507				4659		Bán buôn máy móc, thiết bị và phụ tùng máy khác
+508					46591	Bán buôn máy móc, thiết bị và phụ tùng máy khai khoáng, xây dựng
+509					46592	Bán buôn máy móc, thiết bị điện, vật liệu điện (máy phát điện, động cơ điện, dây điện và thiết bị khác dùng trong mạch điện)
+510					46593	Bán buôn máy móc, thiết bị và phụ tùng máy dệt, may, da giày
+511					46594	Bán buôn máy móc, thiết bị và phụ tùng máy văn phòng (trừ máy vi tính và thiết bị ngoại vi)
+512					46595	Bán buôn máy móc, thiết bị y tế
+513					46599	Bán buôn máy móc, thiết bị và phụ tùng máy khác chưa được phân vào đâu
+514			466			Bán buôn chuyên doanh khác
+515				4661		Bán buôn nhiên liệu rắn, lỏng, khí và các sản phẩm liên quan
+516					46611	Bán buôn than đá và nhiên liệu rắn khác
+517					46612	Bán buôn dầu thô
+518					46613	Bán buôn xăng dầu và các sản phẩm liên quan
+519					46614	Bán buôn khí đốt và các sản phẩm liên quan
+520				4662		Bán buôn kim loại và quặng kim loại
+521					46621	Bán buôn quặng kim loại
+522					46622	Bán buôn sắt, thép
+523					46623	Bán buôn kim loại khác
+524					46624	Bán buôn vàng, bạc và kim loại quý khác
+525				4663		Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng
+526					46631	Bán buôn tre, nứa, gỗ cây và gỗ chế biến
+527					46632	Bán buôn xi măng
+528					46633	Bán buôn gạch xây, ngói, đá, cát, sỏi
+529					46634	Bán buôn kính xây dựng
+530					46635	Bán buôn sơn, vécni
+531					46636	Bán buôn gạch ốp lát và thiết bị vệ sinh
+532					46637	Bán buôn đồ ngũ kim
+533					46639	Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng
+534				4669		Bán buôn chuyên doanh khác chưa được phân vào đâu
+535					46691	Bán buôn phân bón, thuốc trừ sâu và hóa chất khác sử dụng trong nông nghiệp
+536					46692	Bán buôn hóa chất khác (trừ loại sử dụng trong nông nghiệp)
+537					46693	Bán buôn chất dẻo dạng nguyên sinh
+538					46694	Bán buôn cao su
+539					46695	Bán buôn tơ, xơ, sợi dệt
+540					46696	Bán buôn phụ liệu may mặc và giày dép
+541					46697	Bán buôn phế liệu, phế thải kim loại, phi kim loại
+542					46699	Bán buôn chuyên doanh khác còn lại chưa được phân vào đâu
+543			469	4690	46900	Bán buôn tổng hợp
+544		47				Bán lẻ (trừ ô tô, mô tô, xe máy và xe có động cơ khác)
+545			471			Bán lẻ trong các cửa hàng kinh doanh tổng hợp
+546				4711		Bán lẻ lương thực, thực phẩm, đồ uống, thuốc lá, thuốc lào chiếm tỷ trọng lớn trong các cửa hàng kinh doanh tổng hợp
+547					47111	Bán lẻ trong siêu thị (Supermarket)
+548					47112	Bán lẻ trong cửa hàng tiện lợi (Minimarket)
+549					47119	Bán lẻ trong cửa hàng kinh doanh tổng hợp khác
+550				4719		Bán lẻ khác trong các cửa hàng kinh doanh tổng hợp
+551					47191	Bán lẻ trong siêu thị (Supermarket)
+552					47192	Bán lẻ trong cửa hàng tiện lợi (Minimarket)
+553					47199	Bán lẻ trong cửa hàng kinh doanh tổng hợp khác
+554			472			Bán lẻ lương thực, thực phẩm, đồ uống hoặc thuốc lá, thuốc lào trong các cửa hàng chuyên doanh
+555				4721	47210	Bán lẻ lương thực trong các cửa hàng chuyên doanh
+556				4722		Bán lẻ thực phẩm trong các cửa hàng chuyên doanh
+557					47221	Bán lẻ thịt và các sản phẩm thịt trong các cửa hàng chuyên doanh
+558					47222	Bán lẻ thủy sản trong các cửa hàng chuyên doanh
+559					47223	Bán lẻ rau, quả trong các cửa hàng chuyên doanh
+560					47224	Bán lẻ đường, sữa và các sản phẩm sữa, bánh, mứt, kẹo và các sản phẩm chế biến từ ngũ cốc, bột, tinh bột trong các cửa hàng chuyên doanh
+561					47229	Bán lẻ thực phẩm khác trong các cửa hàng chuyên doanh
+562				4723	47230	Bán lẻ đồ uống trong các cửa hàng chuyên doanh
+563				4724	47240	Bán lẻ sản phẩm thuốc lá, thuốc lào trong các cửa hàng chuyên doanh
+564			473	4730	47300	Bán lẻ nhiên liệu động cơ trong các cửa hàng chuyên doanh
+565			474			Bán lẻ thiết bị công nghệ thông tin liên lạc trong các cửa hàng chuyên doanh
+566				4741		Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm và thiết bị viễn thông trong các cửa hàng chuyên doanh
+567					47411	Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm trong các cửa hàng chuyên doanh
+568					47412	Bán lẻ thiết bị viễn thông trong các cửa hàng chuyên doanh
+569				4742	47420	Bán lẻ thiết bị nghe nhìn trong các cửa hàng chuyên doanh
+570			475			Bán lẻ thiết bị gia đình khác trong các cửa hàng chuyên doanh
+571				4751		Bán lẻ vải, len, sợi, chỉ khâu và hàng dệt khác trong các cửa hàng chuyên doanh
+572					47511	Bán lẻ vải trong các cửa hàng chuyên doanh
+573					47519	Bán lẻ len, sợi, chỉ khâu và hàng dệt khác trong các cửa hàng chuyên doanh
+574				4752		Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh
+575					47521	Bán lẻ đồ ngũ kim trong các cửa hàng chuyên doanh
+576					47522	Bán lẻ sơn, màu, véc ni trong các cửa hàng chuyên doanh
+577					47523	Bán lẻ kính xây dựng trong các cửa hàng chuyên doanh
+578					47524	Bán lẻ xi măng, gạch xây, ngói, đá, cát sỏi, sắt thép và vật liệu xây dựng khác trong các cửa hàng chuyên doanh
+579					47525	Bán lẻ gạch ốp lát, thiết bị vệ sinh trong các cửa hàng chuyên doanh
+580					47529	Bán lẻ thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh
+581				4753	47530	Bán lẻ thảm, đệm, chăn, màn, rèm, vật liệu phủ tường và sàn trong các cửa hàng chuyên doanh
+582				4759		Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu trong các cửa hàng chuyên doanh
+583					47591	Bán lẻ đồ điện gia dụng, đèn và bộ đèn điện trong các cửa hàng chuyên doanh
+584					47592	Bán lẻ giường, tủ, bàn, ghế và đồ dùng nội thất tương tự trong các cửa hàng chuyên doanh
+585					47593	Bán lẻ đồ dùng gia đình bằng gốm, sứ, thủy tinh trong các cửa hàng chuyên doanh
+586					47594	Bán lẻ nhạc cụ trong các cửa hàng chuyên doanh
+587					47599	Bán lẻ đồ dùng gia đình khác còn lại chưa được phân vào đâu trong các cửa hàng chuyên doanh
+588			476			Bán lẻ hàng văn hóa, giải trí trong các cửa hàng chuyên doanh
+589				4761	47610	Bán lẻ sách, báo, tạp chí văn phòng phẩm trong các cửa hàng chuyên doanh
+590				4762	47620	Bán lẻ băng đĩa âm thanh, hình ảnh (kể cả băng, đĩa trắng) trong các cửa hàng chuyên doanh
+591				4763	47630	Bán lẻ thiết bị, dụng cụ thể dục, thể thao trong các cửa hàng chuyên doanh
+592				4764	47640	Bán lẻ trò chơi, đồ chơi trong các cửa hàng chuyên doanh
+593			477			Bán lẻ hàng hóa khác trong các cửa hàng chuyên doanh
+594				4771		Bán lẻ hàng may mặc, giày dép, hàng da và giả da trong các cửa hàng chuyên doanh
+595					47711	Bán lẻ hàng may mặc trong các cửa hàng chuyên doanh
+596					47712	Bán lẻ giày dép trong các cửa hàng chuyên doanh
+597					47713	Bán lẻ cặp, túi, ví, hàng da và giả da khác trong các cửa hàng chuyên doanh
+598				4772		Bán lẻ thuốc, dụng cụ y tế, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh
+599					47721	Bán lẻ dược phẩm, dụng cụ y tế trong các cửa hàng chuyên doanh
+600					47722	Bán lẻ nước hoa, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh
+601					47723	Bán thuốc đông y, bán thuốc nam trong các cửa hàng chuyên doanh
+602				4773		Bán lẻ hàng hóa khác mới trong các cửa hàng chuyên doanh
+603					47731	Bán lẻ hoa, cây cảnh, cá cảnh, chim cảnh, vật nuôi cảnh trong các cửa hàng chuyên doanh
+604					47732	Bán lẻ vàng, bạc, đá quí và đá bán quí, đồ trang sức trong các cửa hàng chuyên doanh
+605					47733	Bán lẻ hàng lưu niệm, hàng đan lát, hàng thủ công mỹ nghệ trong các cửa hàng chuyên doanh
+606					47734	Bán lẻ tranh, ảnh và các tác phẩm nghệ thuật khác (trừ đồ cổ) trong các cửa hàng chuyên doanh
+607					47735	Bán lẻ dầu hoả, gas, than nhiên liệu dùng cho gia đình trong các cửa hàng chuyên doanh
+608					47736	Bán lẻ đồng hồ, kính mắt trong các cửa hàng chuyên doanh
+609					47737	Bán lẻ máy ảnh, phim ảnh và vật liệu ảnh trong các cửa hàng chuyên doanh
+610					47738	Bán lẻ xe đạp và phụ tùng trong các cửa hàng chuyên doanh
+611					47739	Bán lẻ hàng hóa khác mới chưa được phân vào đâu trong các cửa hàng chuyên doanh
+612				4774		Bán lẻ hàng hóa đã qua sử dụng trong các cửa hàng chuyên doanh
+613					47741	Bán lẻ hàng may mặc đã qua sử dụng trong các cửa hàng chuyên doanh
+614					47749	Bán lẻ hàng hóa khác đã qua sử dụng trong các cửa hàng chuyên doanh
+615			478			Bán lẻ lưu động hoặc bán tại chợ
+616				4781		Bán lẻ lương thực, thực phẩm, đồ uống, thuốc lá, thuốc lào lưu động hoặc tại chợ
+617					47811	Bán lẻ lương thực lưu động hoặc tại chợ
+618					47812	Bán lẻ thực phẩm khô, thực phẩm công nghiệp, đường sữa bánh kẹo lưu động hoặc tại chợ
+619					47813	Bán lẻ đồ uống lưu động hoặc tại chợ
+620					47814	Bán lẻ sản phẩm thuốc lá, thuốc lào lưu động hoặc tại chợ
+621					47815	Bán lẻ thịt gia súc, gia cầm tươi sống, đông lạnh lưu động hoặc tại chợ
+622					47816	Bán lẻ thủy sản tươi sống, đông lạnh lưu động hoặc tại chợ
+623					47817	Bán lẻ rau quả lưu động hoặc tại chợ
+624					47818	Bán lẻ thực phẩm chín lưu động hoặc tại chợ
+625					47819	Bán lẻ thực phẩm loại khác chưa được phân vào đâu
+626				4782		Bán lẻ hàng dệt, may sẵn, giày dép lưu động hoặc tại chợ
+627					47821	Bán lẻ hàng dệt lưu động hoặc tại chợ
+628					47822	Bán lẻ hàng may mặc lưu động hoặc tại chợ
+629					47823	Bán lẻ giày dép lưu động hoặc tại chợ
+630				4783	47830	Bán lẻ thiết bị công nghệ thông tin liên lạc lưu động hoặc tại chợ
+631				4784		Bán lẻ thiết bị gia đình khác lưu động hoặc tại chợ
+632					47841	Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng lưu động hoặc tại chợ
+633					47842	Bán lẻ thảm, đệm, chăn, màn, rèm, vật liệu phủ tường và sàn lưu động hoặc tại chợ
+634					47843	Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu lưu động hoặc tại chợ
+635				4785	47850	Bán lẻ hàng văn hóa, giải trí lưu động hoặc tại chợ
+636				4789		Bán lẻ hàng hóa khác lưu động hoặc tại chợ
+637					47891	Bán lẻ mỹ phẩm và vật phẩm vệ sinh lưu động hoặc tại chợ
+638					47892	Bán lẻ hàng gốm sứ, thủy tinh lưu động hoặc tại chợ
+639					47893	Bán lẻ hoa tươi, cây cảnh lưu động hoặc tại chợ
+640					47894	Bán lẻ vàng, bạc, đá quí và đá bán quí, đồ trang sức lưu động hoặc tại chợ
+641					47895	Bán lẻ hàng lưu niệm, hàng đan lát, hàng thủ công mỹ nghệ lưu động hoặc tại chợ
+642					47896	Bán lẻ đồng hồ, kính mắt lưu động hoặc tại chợ
+643					47897	Bán lẻ xe đạp và phụ tùng lưu động hoặc tại chợ
+644					47898	Bán lẻ hàng hóa đã qua sử dụng lưu động hoặc tại chợ
+645					47899	Bán lẻ hàng hóa khác chưa được phân vào đâu, lưu động hoặc tại chợ
+646			479			Bán lẻ hình thức khác (trừ bán lẻ tại cửa hàng, lưu động hoặc tại chợ)
+647				4791	47910	Bán lẻ theo yêu cầu đặt hàng qua bưu điện hoặc internet
+648				4799	47990	Bán lẻ hình thức khác chưa được phân vào đâu
+649	H					VẬN TẢI KHO BÃI
+650		49				Vận tải đường sắt, đường bộ và vận tải đường ống
+651			491			Vận tải đường sắt
+652				4911	49110	Vận tải hành khách đường sắt
+653				4912	49120	Vận tải hàng hóa đường sắt
+654			492			Vận tải hành khách bằng xe buýt
+655				4921	49210	Vận tải hành khách bằng xe buýt trong nội thành
+656				4922	49220	Vận tải hành khách bằng xe buýt giữa nội thành và ngoại thành, liên tỉnh
+657				4929	49290	Vận tải hành khách bằng xe buýt loại khác
+658			493			Vận tải đường bộ khác
+659				4931		Vận tải hành khách đường bộ trong nội thành, ngoại thành (trừ vận tải bằng xe buýt)
+660					49311	Vận tải hành khách bằng hệ thống đường sắt ngầm hoặc đường sắt trên cao
+661					49312	Vận tải hành khách bằng taxi
+662					49313	Vận tải hành khách bằng mô tô, xe máy và xe có động cơ khác
+663					49319	Vận tải hành khách đường bộ loại khác trong nội thành, ngoại thành (trừ xe buýt)
+664				4932		Vận tải hành khách đường bộ khác
+665					49321	Vận tải hành khách bằng xe khách nội tỉnh, liên tỉnh
+666					49329	Vận tải hành khách đường bộ khác chưa được phân vào đâu
+667				4933		Vận tải hàng hóa bằng đường bộ
+668					49331	Vận tải hàng hóa bằng ô tô chuyên dụng
+669					49332	Vận tải hàng hóa bằng ô tô loại khác (trừ ô tô chuyên dụng)
+670					49333	Vận tải hàng hóa bằng xe có động cơ loại khác
+671					49334	Vận tải hàng hóa bằng xe thô sơ
+672					49339	Vận tải hàng hóa bằng phương tiện đường bộ khác
+673			494	4940	49400	Vận tải đường ống
+674		50				Vận tải đường thủy
+675			501			Vận tải ven biển và viễn dương
+676				5011		Vận tải hành khách ven biển và viễn dương
+677					50111	Vận tải hành khách ven biển
+678					50112	Vận tải hành khách viễn dương
+679				5012		Vận tải hàng hóa ven biển và viễn dương
+680					50121	Vận tải hàng hóa ven biển
+681					50122	Vận tải hàng hóa viễn dương
+682			502			Vận tải đường thuỷ nội địa
+683				5021		Vận tải hành khách đường thuỷ nội địa
+684					50211	Vận tải hành khách đường thuỷ nội địa bằng phương tiện cơ giới
+685					50212	Vận tải hành khách đường thuỷ nội địa bằng phương tiện thô sơ
+686				5022		Vận tải hàng hóa đường thuỷ nội địa
+687					50221	Vận tải hàng hóa đường thuỷ nội địa bằng phương tiện cơ giới
+688					50222	Vận tải hàng hóa đường thuỷ nội địa bằng phương tiện thô sơ
+689		51				Vận tải hàng không
+690			511	5110		Vận tải hành khách hàng không
+691					51101	Vận tải hành khách hàng không theo tuyến và lịch trình cố định
+692					51109	Vận tải hành khách hàng không loại khác
+693			512	5120		Vận tải hàng hóa hàng không
+694					51201	Vận tải hàng hóa hàng không theo tuyến và lịch trình cố định
+695					51209	Vận tải hàng hóa hàng không loại khác
+696		52				Kho bãi và các hoạt động hỗ trợ cho vận tải
+697			521	5210		Kho bãi và lưu giữ hàng hóa
+698					52101	Kho bãi và lưu giữ hàng hóa trong kho ngoại quan
+699					52102	Kho bãi và lưu giữ hàng hóa trong kho đông lạnh (trừ kho ngoại quan)
+700					52109	Kho bãi và lưu giữ hàng hóa trong kho loại khác
+701			522			Hoạt động dịch vụ hỗ trợ cho vận tải
+702				5221	52210	Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt
+703				5222		Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường thủy
+704					52221	Hoạt động điều hành cảng biển
+705					52222	Hoạt động dịch vụ hỗ trợ liên quan đến vận tải ven biển và viễn dương
+706					52223	Hoạt động điều hành cảng đường thủy nội địa
+707					52224	Hoạt động dịch vụ hỗ trợ liên quan đến vận tải đường thủy nội địa
+708				5223		Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải hàng không
+709					52231	Dịch vụ điều hành bay
+710					52232	Dịch vụ điều hành hoạt động cảng hàng không
+711					52239	Hoạt động dịch vụ hỗ trợ liên quan đến vận tải hàng không
+712				5224		Bốc xếp hàng hóa
+713					52241	Bốc xếp hàng hóa ga đường sắt
+714					52242	Bốc xếp hàng hóa đường bộ
+715					52243	Bốc xếp hàng hóa cảng biển
+716					52244	Bốc xếp hàng hóa cảng sông
+717					52245	Bốc xếp hàng hóa cảng hàng không
+718					52249	Bốc xếp hàng hóa loại khác
+719				5225		Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường bộ
+720					52251	Hoạt động điều hành bến xe
+721					52252	Hoạt động quản lý, điều hành đường cao tốc, cầu, hầm đường bộ
+722					52253	Hoạt động quản lý bãi đỗ, trông giữ phương tiện đường bộ
+723					52259	Hoạt động dịch vụ khác hỗ trợ liên quan đến vận tải đường bộ
+724				5229		Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải
+725					52291	Dịch vụ đại lý, giao nhận vận chuyển
+726					52292	Logistics
+727					52299	Dịch vụ hỗ trợ khác liên quan đến vận tải chưa được phân vào đâu
+728		53				Bưu chính và chuyển phát
+729			531	5310	53100	Bưu chính
+730			532	5320	53200	Chuyển phát
+731	I					DỊCH VỤ LƯU TRÚ VÀ ĂN UỐNG
+732		55				Dịch vụ lưu trú
+733			551	5510		Dịch vụ lưu trú ngắn ngày
+734					55101	Khách sạn
+735					55102	Biệt thự hoặc căn hộ kinh doanh dịch vụ lưu trú ngắn ngày
+736					55103	Nhà khách, nhà nghỉ kinh doanh dịch vụ lưu trú ngắn ngày
+737					55104	Nhà trọ, phòng trọ và các cơ sở lưu trú ngắn ngày tương tự
+738			559	5590		Cơ sở lưu trú khác
+739					55901	Ký túc xá học sinh, sinh viên
+740					55902	Chỗ nghỉ trọ trên xe lưu động, lều quán, trại dùng để nghỉ tạm
+741					55909	Cơ sở lưu trú khác chưa được phân vào đâu
+742		56				Dịch vụ ăn uống
+743			561	5610		Nhà hàng và các dịch vụ ăn uống phục vụ lưu động
+744					56101	Nhà hàng, quán ăn, hàng ăn uống (trừ cửa hàng ăn uống thuộc chuỗi cửa hàng ăn nhanh)
+745					56102	Cửa hàng ăn uống thuộc chuỗi cửa hàng ăn nhanh
+746					56109	Dịch vụ ăn uống phục vụ lưu động khác
+747			562			Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên và dịch vụ ăn uống khác
+748				5621	56210	Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên với khách hàng
+749				5629	56290	Dịch vụ ăn uống khác
+750			563	5630		Dịch vụ phục vụ đồ uống
+751					56301	Quán rượu, bia, quầy bar
+752					56302	Quán cà phê, giải khát
+753					56309	Dịch vụ phục vụ đồ uống khác
+754	J					THÔNG TIN VÀ TRUYỀN THÔNG
+755		58				Hoạt động xuất bản
+756			581			Xuất bản sách, ấn phẩm định kỳ và các hoạt động xuất bản khác
+757				5811		Xuất bản sách
+758					58111	Xuất bản sách trực tuyến
+759					58112	Xuất bản sách khác
+760				5812		Xuất bản các danh mục chỉ dẫn và địa chỉ
+761					58121	Xuất bản các danh mục chỉ dẫn và địa chỉ trực tuyến
+762					58122	Xuất bản các danh mục chỉ dẫn và địa chỉ khác
+763				5813		Xuất bản báo, tạp chí và các ấn phẩm định kỳ
+764					58131	Xuất bản báo, tạp chí và các ấn phẩm định kỳ trực tuyến
+765					58132	Xuất bản báo, tạp chí và các ấn phẩm định kỳ khác
+766				5819		Hoạt động xuất bản khác
+767					58191	Hoạt động xuất bản trực tuyến khác
+768					58192	Hoạt động xuất bản khác
+769			582	5820	58200	Xuất bản phần mềm
+770		59				Hoạt động điện ảnh, sản xuất chương trình truyền hình, ghi âm và xuất bản âm nhạc
+771			591			Hoạt động điện ảnh và sản xuất chương trình truyền hình
+772				5911		Hoạt động sản xuất phim điện ảnh, phim video và chương trình truyền hình
+773					59111	Hoạt động sản xuất phim điện ảnh
+774					59112	Hoạt động sản xuất phim video
+775					59113	Hoạt động sản xuất chương trình truyền hình
+776				5912	59120	Hoạt động hậu kỳ
+777				5913	59130	Hoạt động phát hành phim điện ảnh, phim video và chương trình truyền hình
+778				5914		Hoạt động chiếu phim
+779					59141	Hoạt động chiếu phim cố định
+780					59142	Hoạt động chiếu phim lưu động
+781			592	5920	59200	Hoạt động ghi âm và xuất bản âm nhạc
+782		60				Hoạt động phát thanh, truyền hình
+783			601	6010	60100	Hoạt động phát thanh
+784			602			Hoạt động truyền hình và cung cấp chương trình thuê bao
+785				6021	60210	Hoạt động truyền hình
+786				6022	60220	Chương trình cáp, vệ tinh và các chương trình thuê bao khác
+787		61				Viễn thông
+788			611	6110		Hoạt động viễn thông có dây
+789					61101	Hoạt động cung cấp trực tiếp dịch vụ viễn thông có dây
+790					61102	Hoạt động cung cấp dịch vụ viễn thông có dây sử dụng quyền truy cập hạ tầng viễn thông của đơn vị khác
+791			612	6120		Hoạt động viễn thông không dây
+792					61201	Hoạt động cung cấp trực tiếp dịch vụ viễn thông không dây
+793					61202	Hoạt động cung cấp dịch vụ viễn thông không dây sử dụng quyền truy cập hạ tầng viễn thông của đơn vị khác
+794			613	6130	61300	Hoạt động viễn thông vệ tinh
+795			619	6190		Hoạt động viễn thông khác
+796					61901	Hoạt động của các điểm truy cập internet
+797					61909	Hoạt động viễn thông khác chưa được phân vào đâu
+798		62	620			Lập trình máy vi tính, dịch vụ tư vấn và các hoạt động khác liên quan đến máy vi tính
+799				6201	62010	Lập trình máy vi tính
+800				6202	62020	Tư vấn máy vi tính và quản trị hệ thống máy vi tính
+801				6209	62090	Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính
+802		63				Hoạt động dịch vụ thông tin
+803			631			Xử lý dữ liệu, cho thuê và các hoạt động liên quan; cổng thông tin
+804				6311	63110	Xử lý dữ liệu, cho thuê và các hoạt động liên quan
+805				6312	63120	Cổng thông tin
+806			639			Dịch vụ thông tin khác
+807				6391	63910	Hoạt động thông tấn
+808				6399	63990	Dịch vụ thông tin khác chưa được phân vào đâu
+809	K					HOẠT ĐỘNG TÀI CHÍNH, NGÂN HÀNG VÀ BẢO HIỂM
+810		64				Hoạt động dịch vụ tài chính (trừ bảo hiểm và bảo hiểm xã hội)
+811			641			Hoạt động trung gian tiền tệ
+812				6411	64110	Hoạt động ngân hàng trung ương
+813				6419	64190	Hoạt động trung gian tiền tệ khác
+814			642	6420	64200	Hoạt động công ty nắm giữ tài sản
+815			643	6430	64300	Hoạt động quỹ tín thác, các quỹ và các tổ chức tài chính khác
+816			649			Hoạt động dịch vụ tài chính khác (trừ bảo hiểm và bảo hiểm xã hội)
+817				6491	64910	Hoạt động cho thuê tài chính
+818				6492	64920	Hoạt động cấp tín dụng khác
+819				6499	64990	Hoạt động dịch vụ tài chính khác chưa được phân vào đâu (trừ bảo hiểm và bảo hiểm xã hội)
+820		65				Bảo hiểm, tái bảo hiểm và bảo hiểm xã hội (trừ bảo đảm xã hội bắt buộc)
+821			651			Bảo hiểm
+822				6511	65110	Bảo hiểm nhân thọ
+823				6512	65120	Bảo hiểm phi nhân thọ
+824				6513		Bảo hiểm sức khỏe
+825					65131	Bảo hiểm y tế
+826					65139	Bảo hiểm sức khỏe khác
+827			652	6520	65200	Tái bảo hiểm
+828			653	6530	65300	Bảo hiểm xã hội
+829		66				Hoạt động tài chính khác
+830			661			Hoạt động hỗ trợ dịch vụ tài chính (trừ bảo hiểm và bảo hiểm xã hội)
+831				6611	66110	Quản lý thị trường tài chính
+832				6612	66120	Môi giới hợp đồng hàng hoá và chứng khoán
+833				6619	66190	Hoạt động hỗ trợ dịch vụ tài chính chưa được phân vào đâu
+834			662			Hoạt động hỗ trợ bảo hiểm và bảo hiểm xã hội
+835				6621	66210	Đánh giá rủi ro và thiệt hại
+836				6622	66220	Hoạt động của đại lý và môi giới bảo hiểm
+837				6629	66290	Hoạt động hỗ trợ khác cho bảo hiểm và bảo hiểm xã hội
+838			663	6630	66300	Hoạt động quản lý quỹ
+839	L					HOẠT ĐỘNG KINH DOANH BẤT ĐỘNG SẢN
+840		68				Hoạt động kinh doanh bất động sản
+841			681	6810		Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê
+842					68101	Mua, bán nhà ở và quyền sử dụng đất ở
+843					68102	Mua, bán nhà và quyền sử dụng đất không để ở
+844					68103	Cho thuê, điều hành, quản lý nhà và đất ở
+845					68104	Cho thuê, điều hành, quản lý nhà và đất không để ở
+846					68109	Kinh doanh bất động sản khác
+847			682	6820		Tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất
+848					68201	Tư vấn, môi giới bất động sản, quyền sử dụng đất
+849					68202	Đấu giá bất động sản, quyền sử dụng đất
+850	M					HOẠT ĐỘNG CHUYÊN MÔN, KHOA HỌC VÀ CÔNG NGHỆ
+851		69				Hoạt động pháp luật, kế toán và kiểm toán
+852			691	6910		Hoạt động pháp luật
+853					69101	Hoạt động đại diện, tư vấn pháp luật
+854					69102	Hướng dẫn chung và tư vấn, chuẩn bị các tài liệu pháp lý
+855					69109	Hoạt động pháp luật khác
+856			692	6920	69200	Hoạt động liên quan đến kế toán, kiểm toán và tư vấn về thuế
+857		70				Hoạt động của trụ sở văn phòng; hoạt động tư vấn quản lý
+858			701	7010	70100	Hoạt động của trụ sở văn phòng
+859			702	7020	70200	Hoạt động tư vấn quản lý
+860		71				Hoạt động kiến trúc; kiểm tra và phân tích kỹ thuật
+861			711	7110		Hoạt động kiến trúc và tư vấn kỹ thuật có liên quan
+862					71101	Hoạt động kiến trúc
+863					71102	Hoạt động đo đạc và bản đồ
+864					71103	Hoạt động thăm dò địa chất, nguồn nước
+865					71109	Hoạt động tư vấn kỹ thuật có liên quan khác
+866			712	7120	71200	Kiểm tra và phân tích kỹ thuật
+867		72				Nghiên cứu khoa học và phát triển công nghệ
+868			721			Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học tự nhiên và kỹ thuật
+869				7211	72110	Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học tự nhiên
+870				7212	72120	Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học kỹ thuật và công nghệ
+871				7213	72130	Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học y, dược
+872				7214	72140	Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học nông nghiệp
+873			722			Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học xã hội và nhân văn
+874				7221	72210	Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học xã hội
+875				7222	72220	Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học nhân văn
+876		73				Quảng cáo và nghiên cứu thị trường
+877			731	7310	73100	Quảng cáo
+878			732	7320	73200	Nghiên cứu thị trường và thăm dò dư luận
+879		74				Hoạt động chuyên môn, khoa học và công nghệ khác
+880			741	7410	74100	Hoạt động thiết kế chuyên dụng
+881			742	7420	74200	Hoạt động nhiếp ảnh
+882			749	7490		Hoạt động chuyên môn, khoa học và công nghệ khác chưa được phân vào đâu
+883					74901	Hoạt động khí tượng thuỷ văn
+884					74909	Hoạt động chuyên môn, khoa học và công nghệ khác còn lại chưa được phân vào đâu
+885		75	750	7500	75000	Hoạt động thú y
+886	N					HOẠT ĐỘNG HÀNH CHÍNH VÀ DỊCH VỤ HỖ TRỢ
+887		77				Cho thuê máy móc, thiết bị (không kèm người điều khiển); cho thuê đồ dùng cá nhân và gia đình; cho thuê tài sản vô hình phi tài chính
+888			771	7710		Cho thuê xe có động cơ
+889					77101	Cho thuê ôtô
+890					77109	Cho thuê xe có động cơ khác
+891			772			Cho thuê đồ dùng cá nhân và gia đình
+892				7721	77210	Cho thuê thiết bị thể thao, vui chơi giải trí
+893				7722	77220	Cho thuê băng, đĩa video
+894				7729	77290	Cho thuê đồ dùng cá nhân và gia đình khác
+895			773	7730		Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác không kèm người điều khiển
+896					77301	Cho thuê máy móc, thiết bị nông, lâm nghiệp không kèm người điều khiển
+897					77302	Cho thuê máy móc, thiết bị xây dựng không kèm người điều khiển
+898					77303	Cho thuê máy móc, thiết bị văn phòng (kể cả máy vi tính) không kèm người điều khiển
+899					77304	Cho thuê máy bay, phương tiện bay không kèm người điều khiển
+900					77305	Cho thuê tàu, thuyền và kết cấu nổi không kèm người điều khiển
+901					77309	Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác, không kèm người điều khiển chưa được phân vào đâu
+902			774	7740	77400	Cho thuê tài sản vô hình phi tài chính
+903		78				Hoạt động dịch vụ lao động và việc làm
+904			781	7810	78100	Hoạt động của các trung tâm, đại lý tư vấn, giới thiệu và môi giới lao động, việc làm
+905			782	7820	78200	Cung ứng lao động tạm thời
+906			783	7830		Cung ứng và quản lý nguồn lao động
+907					78301	Cung ứng và quản lý nguồn lao động trong nước
+908					78302	Cung ứng và quản lý nguồn lao động đi làm việc ở nước ngoài
+909		79				Hoạt động của các đại lý du lịch, kinh doanh tua du lịch và các dịch vụ hỗ trợ, liên quan đến quảng bá và tổ chức tua du lịch
+910			791			Hoạt động của các đại lý du lịch, kinh doanh tua du lịch
+911				7911	79110	Đại lý du lịch
+912				7912	79120	Điều hành tua du lịch
+913			799	7990	79900	Dịch vụ đặt chỗ và các dịch vụ hỗ trợ liên quan đến quảng bá và tổ chức tua du lịch
+914		80				Hoạt động điều tra bảo đảm an toàn
+915			801	8010	80100	Hoạt động bảo vệ tư nhân
+916			802	8020	80200	Dịch vụ hệ thống bảo đảm an toàn
+917			803	8030	80300	Dịch vụ điều tra
+918		81				Hoạt động dịch vụ vệ sinh nhà cửa, công trình và cảnh quan
+919			811	8110	81100	Dịch vụ hỗ trợ tổng hợp
+920			812			Dịch vụ vệ sinh
+921				8121	81210	Vệ sinh chung nhà cửa
+922				8129	81290	Vệ sinh công nghiệp và các công trình chuyên biệt
+923			813	8130	81300	Dịch vụ chăm sóc và duy trì cảnh quan
+924		82				Hoạt động hành chính, hỗ trợ văn phòng và các hoạt động hỗ trợ kinh doanh khác
+925			821			Hoạt động hành chính và hỗ trợ văn phòng
+926				8211	82110	Dịch vụ hành chính văn phòng tổng hợp
+927				8219		Photo, chuẩn bị tài liệu và các hoạt động hỗ trợ văn phòng đặc biệt khác
+928					82191	Photo, chuẩn bị tài liệu
+929					82199	Hoạt động hỗ trợ văn phòng đặc biệt khác
+930			822	8220	82200	Hoạt động dịch vụ liên quan đến các cuộc gọi
+931			823	8230	82300	Tổ chức giới thiệu và xúc tiến thương mại
+932			829			Hoạt động dịch vụ hỗ trợ kinh doanh khác chưa được phân vào đâu
+933				8291	82910	Hoạt động dịch vụ hỗ trợ thanh toán, tín dụng
+934				8292	82920	Dịch vụ đóng gói
+935				8299	82990	Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu
+936	O					HOẠT ĐỘNG CỦA ĐẢNG CỘNG SẢN, TỔ CHỨC CHÍNH TRỊ - XÃ HỘI, QUẢN LÝ NHÀ NƯỚC, AN NINH QUỐC PHÒNG; BẢO ĐẢM XÃ HỘI BẮT BUỘC
+937		84				Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước, an ninh quốc phòng, đối ngoại và bảo đảm xã hội bắt buộc
+938			841			Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước và quản lý chính sách kinh tế, xã hội
+939				8411		Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội, hoạt động quản lý nhà nước nói chung và kinh tế tổng hợp
+940					84111	Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội
+941					84112	Hoạt động quản lý nhà nước nói chung và kinh tế tổng hợp
+942				8412	84120	Hoạt động quản lý nhà nước trong các lĩnh vực y tế, giáo dục, văn hoá và các dịch vụ xã hội khác (trừ bảo đảm xã hội bắt buộc)
+943				8413	84130	Hoạt động quản lý nhà nước trong các lĩnh vực kinh tế chuyên ngành
+944			842			Hoạt động phục vụ chung cho toàn đất nước
+945				8421	84210	Hoạt động đối ngoại
+946				8422	84220	Hoạt động quốc phòng
+947				8423	84230	Hoạt động an ninh, trật tự an toàn xã hội
+948			843	8430	84300	Hoạt động bảo đảm xã hội bắt buộc
+949	P					GIÁO DỤC VÀ ĐÀO TẠO
+950		85				Giáo dục và đào tạo
+951			851			Giáo dục mầm non
+952				8511	85110	Giáo dục nhà trẻ
+953				8512	85120	Giáo dục mẫu giáo
+954			852			Giáo dục phổ thông
+955				8521	85210	Giáo dục tiểu học
+956				8522	85220	Giáo dục trung học cơ sở
+957				8523	85230	Giáo dục trung học phổ thông
+958			853			Giáo dục nghề nghiệp
+959				8531	85310	Đào tạo sơ cấp
+960				8532	85320	Đào tạo trung cấp
+961				8533	85330	Đào tạo cao đẳng
+962			854			Giáo dục đại học
+963				8541	85410	Đào tạo đại học
+964				8542	85420	Đào tạo thạc sỹ
+965				8543	85430	Đào tạo tiến sỹ
+966			855			Giáo dục khác
+967				8551	85510	Giáo dục thể thao và giải trí
+968				8552	85520	Giáo dục văn hoá nghệ thuật
+969				8559	85590	Giáo dục khác chưa được phân vào đâu
+970			856	8560	85600	Dịch vụ hỗ trợ giáo dục
+971	Q					Y TẾ VÀ HOẠT ĐỘNG TRỢ GIÚP XÃ HỘI
+972		86				Hoạt động y tế
+973			861	8610		Hoạt động của các bệnh viện, trạm y tế
+974					86101	Hoạt động của các bệnh viện
+975					86102	Hoạt động của các trạm y tế và trạm y tế bộ/ngành
+976			862	8620		Hoạt động của các phòng khám đa khoa, chuyên khoa và nha khoa
+977					86201	Hoạt động của các phòng khám đa khoa, chuyên khoa
+978					86202	Hoạt động của các phòng khám nha khoa
+979			869			Hoạt động y tế khác
+980				8691	86910	Hoạt động y tế dự phòng
+981				8692	86920	Hoạt động của hệ thống cơ sở chỉnh hình, phục hồi chức năng
+982				8699	86990	Hoạt động y tế khác chưa được phân vào đâu
+983		87				Hoạt động chăm sóc, điều dưỡng tập trung
+984			871	8710		Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng
+985					87101	Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng thương bệnh binh
+986					87109	Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng các đối tượng khác
+987			872	8720		Hoạt động chăm sóc sức khoẻ người bị thiểu năng, tâm thần và người nghiện
+988					87201	Hoạt động chăm sóc sức khoẻ người bị thiểu năng, tâm thần
+989					87202	Hoạt động chăm sóc sức khoẻ, cai nghiện phục hồi người nghiện
+990			873	8730		Hoạt động chăm sóc sức khoẻ người có công, người già và người khuyết tật không có khả năng tự chăm sóc
+991					87301	Hoạt động chăm sóc sức khoẻ người có công (trừ thương bệnh binh)
+992					87302	Hoạt động chăm sóc sức khoẻ người già
+993					87303	Hoạt động chăm sóc sức khoẻ người khuyết tật
+994			879	8790		Hoạt động chăm sóc tập trung khác
+995					87901	Hoạt động chữa bệnh, phục hồi nhân phẩm cho đối tượng mại dâm
+996					87909	Hoạt động chăm sóc tập trung khác chưa được phân vào đâu
+997		88				Hoạt động trợ giúp xã hội không tập trung
+998			881	8810		Hoạt động trợ giúp xã hội không tập trung đối với người có công, thương bệnh binh, người già và người khuyết tật
+999					88101	Hoạt động trợ giúp xã hội không tập trung đối với người có công (trừ thương bệnh binh)
+1000					88102	Hoạt động trợ giúp xã hội không tập trung đối với thương bệnh binh
+1001					88103	Hoạt động trợ giúp xã hội không tập trung đối với người già và người khuyết tật
+1002			889	8890	88900	Hoạt động trợ giúp xã hội không tập trung khác
+1003	R					NGHỆ THUẬT, VUI CHƠI VÀ GIẢI TRÍ
+1004		90	900	9000	90000	Hoạt động sáng tác, nghệ thuật và giải trí
+1005		91				Hoạt động của thư viện, lưu trữ, bảo tàng và các hoạt động văn hoá khác
+1006			910			Hoạt động của thư viện, lưu trữ, bảo tàng và các hoạt động văn hoá khác
+1007				9101	91010	Hoạt động thư viện và lưu trữ
+1008				9102	91020	Hoạt động bảo tồn, bảo tàng
+1009				9103	91030	Hoạt động của các vườn bách thảo, bách thú và khu bảo tồn tự nhiên
+1010		92	920	9200		Hoạt động xổ số, cá cược và đánh bạc
+1011					92001	Hoạt động xổ số
+1012					92002	Hoạt động cá cược và đánh bạc
+1013		93				Hoạt động thể thao, vui chơi và giải trí
+1014			931			Hoạt động thể thao
+1015				9311	93110	Hoạt động của các cơ sở thể thao
+1016				9312	93120	Hoạt động của các câu lạc bộ thể thao
+1017				9319	93190	Hoạt động thể thao khác
+1018			932			Hoạt động vui chơi giải trí khác
+1019				9321	93210	Hoạt động của các công viên vui chơi và công viên theo chủ đề
+1020				9329	93290	Hoạt động vui chơi giải trí khác chưa được phân vào đâu
+1021	S					HOẠT ĐỘNG DỊCH VỤ KHÁC
+1022		94				Hoạt động của các hiệp hội, tổ chức khác
+1023			941			Hoạt động của các hiệp hội kinh doanh, nghiệp chủ và nghề nghiệp
+1024				9411	94110	Hoạt động của các hiệp hội kinh doanh và nghiệp chủ
+1025				9412	94120	Hoạt động của các hội nghề nghiệp
+1026			942	9420	94200	Hoạt động của công đoàn
+1027			949			Hoạt động của các tổ chức khác
+1028				9491	94910	Hoạt động của các tổ chức tôn giáo
+1029				9499	94990	Hoạt động của các tổ chức khác chưa được phân vào đâu
+1030		95				Sửa chữa máy vi tính, đồ dùng cá nhân và gia đình
+1031			951			Sửa chữa máy vi tính và thiết bị liên lạc
+1032				9511	95110	Sửa chữa máy vi tính và thiết bị ngoại vi
+1033				9512	95120	Sửa chữa thiết bị liên lạc
+1034			952			Sửa chữa đồ dùng cá nhân và gia đình
+1035				9521	95210	Sửa chữa thiết bị nghe nhìn điện tử gia dụng
+1036				9522	95220	Sửa chữa thiết bị, đồ dùng gia đình
+1037				9523	95230	Sửa chữa giày, dép, hàng da và giả da
+1038				9524	95240	Sửa chữa giường, tủ, bàn, ghế và đồ nội thất tương tự
+1039				9529	95290	Sửa chữa xe đạp, đồng hồ, đồ dùng cá nhân và gia đình khác chưa được phân vào đâu
+1040		96				Hoạt động dịch vụ phục vụ cá nhân khác
+1041			961	9610	96100	Dịch vụ tắm hơi, massage và các dịch vụ tăng cường sức khoẻ tương tự (trừ hoạt động thể thao)
+1042			962	9620	96200	Giặt là, làm sạch các sản phẩm dệt và lông thú
+1043			963			Hoạt động dịch vụ phục vụ cá nhân khác chưa được phân vào đâu
+1044				9631	96310	Cắt tóc, làm đầu, gội đầu
+1045				9632	96320	Hoạt động dịch vụ phục vụ tang lễ
+1046				9633	96330	Hoạt động dịch vụ phục vụ hôn lễ
+1047				9639	96390	Hoạt động dịch vụ phục vụ cá nhân khác còn lại chưa được phân vào đâu
+1048	T					HOẠT ĐỘNG LÀM THUÊ CÁC CÔNG VIỆC TRONG CÁC HỘ GIA ĐÌNH, SẢN XUẤT SẢN PHẨM VẬT CHẤT VÀ DỊCH VỤ TỰ TIÊU DÙNG CỦA HỘ GIA ĐÌNH
+1049		97	970	9700	97000	Hoạt động làm thuê công việc gia đình trong các hộ gia đình
+1050		98				Hoạt động sản xuất sản phẩm vật chất và dịch vụ tự tiêu dùng của hộ gia đình
+1051			981	9810	98100	Hoạt động sản xuất các sản phẩm vật chất tự tiêu dùng của hộ gia đình
+1052			982	9820	98200	Hoạt động sản xuất các sản phẩm dịch vụ tự tiêu dùng của hộ gia đình
+1053	U					HOẠT ĐỘNG CỦA CÁC TỔ CHỨC VÀ CƠ QUAN QUỐC TẾ
+1054		99	990	9900	99000	Hoạt động của các tổ chức và cơ quan quốc tế
+1055	21	88	242	486	734	
