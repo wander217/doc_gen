@@ -1,0 +1,9497 @@
+[
+  {
+    "C1": "1",
+    "C2": "A",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "NÔNG NGHIỆP, LÂM NGHIỆP VÀ THUỶ SẢN"
+  },
+  {
+    "C1": "2",
+    "C2": null,
+    "C3": "01",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Nông nghiệp và hoạt động dịch vụ có liên quan"
+  },
+  {
+    "C1": "3",
+    "C2": null,
+    "C3": null,
+    "C4": "011",
+    "C5": null,
+    "C6": null,
+    "C7": "Trồng cây hàng năm"
+  },
+  {
+    "C1": "4",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0111",
+    "C6": "01110",
+    "C7": "Trồng lúa"
+  },
+  {
+    "C1": "5",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0112",
+    "C6": "01120",
+    "C7": "Trồng ngô và cây lương thực có hạt khác"
+  },
+  {
+    "C1": "6",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0113",
+    "C6": "01130",
+    "C7": "Trồng cây lấy củ có chất bột"
+  },
+  {
+    "C1": "7",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0114",
+    "C6": "01140",
+    "C7": "Trồng cây mía"
+  },
+  {
+    "C1": "8",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0115",
+    "C6": "01150",
+    "C7": "Trồng cây thuốc lá, thuốc lào"
+  },
+  {
+    "C1": "9",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0116",
+    "C6": "01160",
+    "C7": "Trồng cây lấy sợi"
+  },
+  {
+    "C1": "10",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0117",
+    "C6": "01170",
+    "C7": "Trồng cây có hạt chứa dầu"
+  },
+  {
+    "C1": "11",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0118",
+    "C6": null,
+    "C7": "Trồng rau, đậu các loại và trồng hoa"
+  },
+  {
+    "C1": "12",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01181",
+    "C7": "Trồng rau các loại"
+  },
+  {
+    "C1": "13",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01182",
+    "C7": "Trồng đậu các loại"
+  },
+  {
+    "C1": "14",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01183",
+    "C7": "Trồng hoa hàng năm"
+  },
+  {
+    "C1": "15",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0119",
+    "C6": null,
+    "C7": "Trồng cây hàng năm khác"
+  },
+  {
+    "C1": "16",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01191",
+    "C7": "Trồng cây gia vị hàng năm"
+  },
+  {
+    "C1": "17",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01192",
+    "C7": "Trồng cây dược liệu, hương liệu hàng năm"
+  },
+  {
+    "C1": "18",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01199",
+    "C7": "Trồng cây hàng năm khác còn lại"
+  },
+  {
+    "C1": "19",
+    "C2": null,
+    "C3": null,
+    "C4": "012",
+    "C5": null,
+    "C6": null,
+    "C7": "Trồng cây lâu năm"
+  },
+  {
+    "C1": "20",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0121",
+    "C6": null,
+    "C7": "Trồng cây ăn quả"
+  },
+  {
+    "C1": "21",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01211",
+    "C7": "Trồng nho"
+  },
+  {
+    "C1": "22",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01212",
+    "C7": "Trồng cây ăn quả vùng nhiệt đới và cận nhiệt đới"
+  },
+  {
+    "C1": "23",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01213",
+    "C7": "Trồng cam, quýt và các loại quả có múi khác"
+  },
+  {
+    "C1": "24",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01214",
+    "C7": "Trồng táo, mận và các loại quả có hạt như táo"
+  },
+  {
+    "C1": "25",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01215",
+    "C7": "Trồng nhãn, vải, chôm chôm"
+  },
+  {
+    "C1": "26",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01219",
+    "C7": "Trồng cây ăn quả khác"
+  },
+  {
+    "C1": "27",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0122",
+    "C6": "01220",
+    "C7": "Trồng cây lấy quả chứa dầu"
+  },
+  {
+    "C1": "28",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0123",
+    "C6": "01230",
+    "C7": "Trồng cây điều"
+  },
+  {
+    "C1": "29",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0124",
+    "C6": "01240",
+    "C7": "Trồng cây hồ tiêu"
+  },
+  {
+    "C1": "30",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0125",
+    "C6": "01250",
+    "C7": "Trồng cây cao su"
+  },
+  {
+    "C1": "31",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0126",
+    "C6": "01260",
+    "C7": "Trồng cây cà phê"
+  },
+  {
+    "C1": "32",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0127",
+    "C6": "01270",
+    "C7": "Trồng cây chè"
+  },
+  {
+    "C1": "33",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0128",
+    "C6": null,
+    "C7": "Trồng cây gia vị, cây dược liệu, cây hương liệu lâu năm"
+  },
+  {
+    "C1": "34",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01281",
+    "C7": "Trồng cây gia vị lâu năm"
+  },
+  {
+    "C1": "35",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01282",
+    "C7": "Trồng cây dược liệu, hương liệu lâu năm"
+  },
+  {
+    "C1": "36",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0129",
+    "C6": null,
+    "C7": "Trồng cây lâu năm khác"
+  },
+  {
+    "C1": "37",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01291",
+    "C7": "Trồng cây cảnh lâu năm"
+  },
+  {
+    "C1": "38",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01299",
+    "C7": "Trồng cây lâu năm khác còn lại"
+  },
+  {
+    "C1": "39",
+    "C2": null,
+    "C3": null,
+    "C4": "013",
+    "C5": null,
+    "C6": null,
+    "C7": "Nhân và chăm sóc cây giống nông nghiệp"
+  },
+  {
+    "C1": "40",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0131",
+    "C6": "01310",
+    "C7": "Nhân và chăm sóc cây giống hàng năm"
+  },
+  {
+    "C1": "41",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0132",
+    "C6": "01320",
+    "C7": "Nhân và chăm sóc cây giống lâu năm"
+  },
+  {
+    "C1": "42",
+    "C2": null,
+    "C3": null,
+    "C4": "014",
+    "C5": null,
+    "C6": null,
+    "C7": "Chăn nuôi"
+  },
+  {
+    "C1": "43",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0141",
+    "C6": null,
+    "C7": "Chăn nuôi trâu, bò và sản xuất giống trâu, bò"
+  },
+  {
+    "C1": "44",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01411",
+    "C7": "Sản xuất giống trâu, bò"
+  },
+  {
+    "C1": "45",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01412",
+    "C7": "Chăn nuôi trâu, bò"
+  },
+  {
+    "C1": "46",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0142",
+    "C6": null,
+    "C7": "Chăn nuôi ngựa, lừa, la và sản xuất giống ngựa, lừa"
+  },
+  {
+    "C1": "47",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01421",
+    "C7": "Sản xuất giống ngựa, lừa"
+  },
+  {
+    "C1": "48",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01422",
+    "C7": "Chăn nuôi ngựa, lừa, la"
+  },
+  {
+    "C1": "49",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0144",
+    "C6": null,
+    "C7": "Chăn nuôi dê, cừu và sản xuất giống dê, cừu, hươu, nai"
+  },
+  {
+    "C1": "50",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01441",
+    "C7": "Sản xuất giống dê, cừu, hươu, nai"
+  },
+  {
+    "C1": "51",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01442",
+    "C7": "Chăn nuôi dê, cừu, hươu, nai"
+  },
+  {
+    "C1": "52",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0145",
+    "C6": null,
+    "C7": "Chăn nuôi lợn và sản xuất giống lợn"
+  },
+  {
+    "C1": "53",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01451",
+    "C7": "Sản xuất giống lợn"
+  },
+  {
+    "C1": "54",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01452",
+    "C7": "Chăn nuôi lợn"
+  },
+  {
+    "C1": "55",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0146",
+    "C6": null,
+    "C7": "Chăn nuôi gia cầm"
+  },
+  {
+    "C1": "56",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01461",
+    "C7": "Hoạt động ấp trứng và sản xuất giống gia cầm"
+  },
+  {
+    "C1": "57",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01462",
+    "C7": "Chăn nuôi gà"
+  },
+  {
+    "C1": "58",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01463",
+    "C7": "Chăn nuôi vịt, ngan, ngỗng"
+  },
+  {
+    "C1": "59",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "01469",
+    "C7": "Chăn nuôi gia cầm khác"
+  },
+  {
+    "C1": "60",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0149",
+    "C6": "01490",
+    "C7": "Chăn nuôi khác"
+  },
+  {
+    "C1": "61",
+    "C2": null,
+    "C3": null,
+    "C4": "015",
+    "C5": "0150",
+    "C6": "01500",
+    "C7": "Trồng trọt, chăn nuôi hỗn hợp"
+  },
+  {
+    "C1": "62",
+    "C2": null,
+    "C3": null,
+    "C4": "016",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động dịch vụ nông nghiệp"
+  },
+  {
+    "C1": "63",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0161",
+    "C6": "01610",
+    "C7": "Hoạt động dịch vụ trồng trọt"
+  },
+  {
+    "C1": "64",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0162",
+    "C6": "01620",
+    "C7": "Hoạt động dịch vụ chăn nuôi"
+  },
+  {
+    "C1": "65",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0163",
+    "C6": "01630",
+    "C7": "Hoạt động dịch vụ sau thu hoạch"
+  },
+  {
+    "C1": "66",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0164",
+    "C6": "01640",
+    "C7": "Xử lý hạt giống để nhân giống"
+  },
+  {
+    "C1": "67",
+    "C2": null,
+    "C3": null,
+    "C4": "017",
+    "C5": "0170",
+    "C6": "01700",
+    "C7": "Săn bắt, đánh bẫy và hoạt động dịch vụ có liên quan"
+  },
+  {
+    "C1": "68",
+    "C2": null,
+    "C3": "02",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Lâm nghiệp và hoạt động dịch vụ có liên quan"
+  },
+  {
+    "C1": "69",
+    "C2": null,
+    "C3": null,
+    "C4": "021",
+    "C5": "0210",
+    "C6": null,
+    "C7": "Trồng rừng, chăm sóc rừng và ươm giống cây lâm nghiệp"
+  },
+  {
+    "C1": "70",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "02101",
+    "C7": "Trồng rừng và chăm sóc rừng cây thân gỗ"
+  },
+  {
+    "C1": "71",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "02102",
+    "C7": "Trồng rừng và chăm sóc rừng họ tre"
+  },
+  {
+    "C1": "72",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "02103",
+    "C7": "Trồng rừng và chăm sóc rừng khác"
+  },
+  {
+    "C1": "73",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "02104",
+    "C7": "Ươm giống cây lâm nghiệp"
+  },
+  {
+    "C1": "74",
+    "C2": null,
+    "C3": null,
+    "C4": "022",
+    "C5": "0220",
+    "C6": "02200",
+    "C7": "Khai thác gỗ"
+  },
+  {
+    "C1": "75",
+    "C2": null,
+    "C3": null,
+    "C4": "023",
+    "C5": null,
+    "C6": null,
+    "C7": "Khai thác, thu nhặt lâm sản khác trừ gỗ"
+  },
+  {
+    "C1": "76",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0231",
+    "C6": "02310",
+    "C7": "Khai thác lâm sản khác trừ gỗ"
+  },
+  {
+    "C1": "77",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0232",
+    "C6": "02320",
+    "C7": "Thu nhặt lâm sản khác trừ gỗ"
+  },
+  {
+    "C1": "78",
+    "C2": null,
+    "C3": null,
+    "C4": "024",
+    "C5": "0240",
+    "C6": "02400",
+    "C7": "Hoạt động dịch vụ lâm nghiệp"
+  },
+  {
+    "C1": "79",
+    "C2": null,
+    "C3": "03",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Khai thác, nuôi trồng thuỷ sản"
+  },
+  {
+    "C1": "80",
+    "C2": null,
+    "C3": null,
+    "C4": "031",
+    "C5": null,
+    "C6": null,
+    "C7": "Khai thác thuỷ sản"
+  },
+  {
+    "C1": "81",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0311",
+    "C6": "03110",
+    "C7": "Khai thác thuỷ sản biển"
+  },
+  {
+    "C1": "82",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0312",
+    "C6": "03120",
+    "C7": "Khai thác thuỷ sản nội địa"
+  },
+  {
+    "C1": "83",
+    "C2": null,
+    "C3": null,
+    "C4": "032",
+    "C5": null,
+    "C6": null,
+    "C7": "Nuôi trồng thuỷ sản"
+  },
+  {
+    "C1": "84",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0321",
+    "C6": null,
+    "C7": "Nuôi trồng thuỷ sản biển"
+  },
+  {
+    "C1": "85",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "03211",
+    "C7": "Nuôi cá"
+  },
+  {
+    "C1": "86",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "03212",
+    "C7": "Nuôi tôm"
+  },
+  {
+    "C1": "87",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "03213",
+    "C7": "Nuôi thủy sản khác"
+  },
+  {
+    "C1": "88",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "03214",
+    "C7": "Sản xuất giống thủy sản biển"
+  },
+  {
+    "C1": "89",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0322",
+    "C6": null,
+    "C7": "Nuôi trồng thuỷ sản nội địa"
+  },
+  {
+    "C1": "90",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "03221",
+    "C7": "Nuôi cá"
+  },
+  {
+    "C1": "91",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "03222",
+    "C7": "Nuôi tôm"
+  },
+  {
+    "C1": "92",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "03223",
+    "C7": "Nuôi thủy sản khác"
+  },
+  {
+    "C1": "93",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "03224",
+    "C7": "Sản xuất giống thủy sản nội địa"
+  },
+  {
+    "C1": "94",
+    "C2": "B",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "KHAI KHOÁNG"
+  },
+  {
+    "C1": "95",
+    "C2": null,
+    "C3": "05",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Khai thác than cứng và than non"
+  },
+  {
+    "C1": "96",
+    "C2": null,
+    "C3": null,
+    "C4": "051",
+    "C5": "0510",
+    "C6": "05100",
+    "C7": "Khai thác và thu gom than cứng"
+  },
+  {
+    "C1": "97",
+    "C2": null,
+    "C3": null,
+    "C4": "052",
+    "C5": "0520",
+    "C6": "05200",
+    "C7": "Khai thác và thu gom than non"
+  },
+  {
+    "C1": "98",
+    "C2": null,
+    "C3": "06",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Khai thác dầu thô và khí đốt tự nhiên"
+  },
+  {
+    "C1": "99",
+    "C2": null,
+    "C3": null,
+    "C4": "061",
+    "C5": "0610",
+    "C6": "06100",
+    "C7": "Khai thác dầu thô"
+  },
+  {
+    "C1": "100",
+    "C2": null,
+    "C3": null,
+    "C4": "062",
+    "C5": "0620",
+    "C6": "06200",
+    "C7": "Khai thác khí đốt tự nhiên"
+  },
+  {
+    "C1": "101",
+    "C2": null,
+    "C3": "07",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Khai thác quặng kim loại"
+  },
+  {
+    "C1": "102",
+    "C2": null,
+    "C3": null,
+    "C4": "071",
+    "C5": "0710",
+    "C6": "07100",
+    "C7": "Khai thác quặng sắt"
+  },
+  {
+    "C1": "103",
+    "C2": null,
+    "C3": null,
+    "C4": "072",
+    "C5": null,
+    "C6": null,
+    "C7": "Khai thác quặng không chứa sắt (trừ quặng kim loại quý hiếm)"
+  },
+  {
+    "C1": "104",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0721",
+    "C6": "07210",
+    "C7": "Khai thác quặng uranium và quặng thorium"
+  },
+  {
+    "C1": "105",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0722",
+    "C6": null,
+    "C7": "Khai thác quặng kim loại khác không chứa sắt"
+  },
+  {
+    "C1": "106",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "07221",
+    "C7": "Khai thác quặng bôxít"
+  },
+  {
+    "C1": "107",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "07229",
+    "C7": "Khai thác quặng kim loại khác không chứa sắt chưa được phân vào đâu"
+  },
+  {
+    "C1": "108",
+    "C2": null,
+    "C3": null,
+    "C4": "073",
+    "C5": "0730",
+    "C6": "07300",
+    "C7": "Khai thác quặng kim loại quý hiếm"
+  },
+  {
+    "C1": "109",
+    "C2": null,
+    "C3": "08",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Khai khoáng khác"
+  },
+  {
+    "C1": "110",
+    "C2": null,
+    "C3": null,
+    "C4": "081",
+    "C5": "0810",
+    "C6": null,
+    "C7": "Khai thác đá, cát, sỏi, đất sét"
+  },
+  {
+    "C1": "111",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "08101",
+    "C7": "Khai thác đá"
+  },
+  {
+    "C1": "112",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "08102",
+    "C7": "Khai thác cát, sỏi"
+  },
+  {
+    "C1": "113",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "08103",
+    "C7": "Khai thác đất sét"
+  },
+  {
+    "C1": "114",
+    "C2": null,
+    "C3": null,
+    "C4": "089",
+    "C5": null,
+    "C6": null,
+    "C7": "Khai khoáng chưa được phân vào đâu"
+  },
+  {
+    "C1": "115",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0891",
+    "C6": "08910",
+    "C7": "Khai thác khoáng hoá chất và khoáng phân bón"
+  },
+  {
+    "C1": "116",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0892",
+    "C6": "08920",
+    "C7": "Khai thác và thu gom than bùn"
+  },
+  {
+    "C1": "117",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0893",
+    "C6": "08930",
+    "C7": "Khai thác muối"
+  },
+  {
+    "C1": "118",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "0899",
+    "C6": "08990",
+    "C7": "Khai khoáng khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "119",
+    "C2": null,
+    "C3": "09",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động dịch vụ hỗ trợ khai khoáng"
+  },
+  {
+    "C1": "120",
+    "C2": null,
+    "C3": null,
+    "C4": "091",
+    "C5": "0910",
+    "C6": "09100",
+    "C7": "Hoạt động dịch vụ hỗ trợ khai thác dầu thô và khí tự nhiên"
+  },
+  {
+    "C1": "121",
+    "C2": null,
+    "C3": null,
+    "C4": "099",
+    "C5": "0990",
+    "C6": "09900",
+    "C7": "Hoạt động dịch vụ hỗ trợ khai khoáng khác"
+  },
+  {
+    "C1": "122",
+    "C2": "C",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "CÔNG NGHIỆP CHẾ BIẾN, CHẾ TẠO"
+  },
+  {
+    "C1": "123",
+    "C2": null,
+    "C3": "10",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất, chế biến thực phẩm"
+  },
+  {
+    "C1": "124",
+    "C2": null,
+    "C3": null,
+    "C4": "101",
+    "C5": "1010",
+    "C6": null,
+    "C7": "Chế biến, bảo quản thịt và các sản phẩm từ thịt"
+  },
+  {
+    "C1": "125",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10101",
+    "C7": "Giết mổ gia súc, gia cầm"
+  },
+  {
+    "C1": "126",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10102",
+    "C7": "Chế biến và bảo quản thịt"
+  },
+  {
+    "C1": "127",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10109",
+    "C7": "Chế biến và bảo quản các sản phẩm từ thịt"
+  },
+  {
+    "C1": "128",
+    "C2": null,
+    "C3": null,
+    "C4": "102",
+    "C5": "1020",
+    "C6": null,
+    "C7": "Chế biến, bảo quản thuỷ sản và các sản phẩm từ thuỷ sản"
+  },
+  {
+    "C1": "129",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10201",
+    "C7": "Chế biến và bảo quản thủy sản đông lạnh"
+  },
+  {
+    "C1": "130",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10202",
+    "C7": "Chế biến và bảo quản thủy sản khô"
+  },
+  {
+    "C1": "131",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10203",
+    "C7": "Chế biến và bảo quản nước mắm"
+  },
+  {
+    "C1": "132",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10209",
+    "C7": "Chế biến và bảo quản các sản phẩm khác từ thủy sản"
+  },
+  {
+    "C1": "133",
+    "C2": null,
+    "C3": null,
+    "C4": "103",
+    "C5": "1030",
+    "C6": null,
+    "C7": "Chế biến và bảo quản rau quả"
+  },
+  {
+    "C1": "134",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10301",
+    "C7": "Sản xuất nước ép từ rau quả"
+  },
+  {
+    "C1": "135",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10309",
+    "C7": "Chế biến và bảo quản rau quả khác"
+  },
+  {
+    "C1": "136",
+    "C2": null,
+    "C3": null,
+    "C4": "104",
+    "C5": "1040",
+    "C6": null,
+    "C7": "Sản xuất dầu, mỡ động, thực vật"
+  },
+  {
+    "C1": "137",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10401",
+    "C7": "Sản xuất dầu, mỡ động vật"
+  },
+  {
+    "C1": "138",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10402",
+    "C7": "Sản xuất dầu, bơ thực vật"
+  },
+  {
+    "C1": "139",
+    "C2": null,
+    "C3": null,
+    "C4": "105",
+    "C5": "1050",
+    "C6": "10500",
+    "C7": "Chế biến sữa và các sản phẩm từ sữa"
+  },
+  {
+    "C1": "140",
+    "C2": null,
+    "C3": null,
+    "C4": "106",
+    "C5": null,
+    "C6": null,
+    "C7": "Xay xát và sản xuất bột"
+  },
+  {
+    "C1": "141",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1061",
+    "C6": null,
+    "C7": "Xay xát và sản xuất bột thô"
+  },
+  {
+    "C1": "142",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10611",
+    "C7": "Xay xát"
+  },
+  {
+    "C1": "143",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10612",
+    "C7": "Sản xuất bột thô"
+  },
+  {
+    "C1": "144",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1062",
+    "C6": "10620",
+    "C7": "Sản xuất tinh bột và các sản phẩm từ tinh bột"
+  },
+  {
+    "C1": "145",
+    "C2": null,
+    "C3": null,
+    "C4": "107",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất thực phẩm khác"
+  },
+  {
+    "C1": "146",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1071",
+    "C6": "10710",
+    "C7": "Sản xuất các loại bánh từ bột"
+  },
+  {
+    "C1": "147",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1072",
+    "C6": "10720",
+    "C7": "Sản xuất đường"
+  },
+  {
+    "C1": "148",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1073",
+    "C6": "10730",
+    "C7": "Sản xuất ca cao, sôcôla và bánh kẹo"
+  },
+  {
+    "C1": "149",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1074",
+    "C6": "10740",
+    "C7": "Sản xuất mì ống, mỳ sợi và sản phẩm tương tự"
+  },
+  {
+    "C1": "150",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1075",
+    "C6": null,
+    "C7": "Sản xuất món ăn, thức ăn chế biến sẵn"
+  },
+  {
+    "C1": "151",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10751",
+    "C7": "Sản xuất món ăn, thức ăn chế biến sẵn từ thịt"
+  },
+  {
+    "C1": "152",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10752",
+    "C7": "Sản xuất món ăn, thức ăn chế biến sẵn từ thủy sản"
+  },
+  {
+    "C1": "153",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "10759",
+    "C7": "Sản xuất món ăn, thức ăn chế biến sẵn khác"
+  },
+  {
+    "C1": "154",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1076",
+    "C6": "10760",
+    "C7": "Sản xuất chè"
+  },
+  {
+    "C1": "155",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1077",
+    "C6": "10770",
+    "C7": "Sản xuất cà phê"
+  },
+  {
+    "C1": "156",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1079",
+    "C6": "10790",
+    "C7": "Sản xuất thực phẩm khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "157",
+    "C2": null,
+    "C3": null,
+    "C4": "108",
+    "C5": "1080",
+    "C6": "10800",
+    "C7": "Sản xuất thức ăn gia súc, gia cầm và thuỷ sản"
+  },
+  {
+    "C1": "158",
+    "C2": null,
+    "C3": "11",
+    "C4": "110",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất đồ uống"
+  },
+  {
+    "C1": "159",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1101",
+    "C6": "11010",
+    "C7": "Chưng, tinh cất và pha chế các loại rượu mạnh"
+  },
+  {
+    "C1": "160",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1102",
+    "C6": "11020",
+    "C7": "Sản xuất rượu vang"
+  },
+  {
+    "C1": "161",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1103",
+    "C6": "11030",
+    "C7": "Sản xuất bia và mạch nha ủ men bia"
+  },
+  {
+    "C1": "162",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1104",
+    "C6": null,
+    "C7": "Sản xuất đồ uống không cồn, nước khoáng"
+  },
+  {
+    "C1": "163",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "11041",
+    "C7": "Sản xuất nước khoáng, nước tinh khiết đóng chai"
+  },
+  {
+    "C1": "164",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "11042",
+    "C7": "Sản xuất đồ uống không cồn"
+  },
+  {
+    "C1": "165",
+    "C2": null,
+    "C3": "12",
+    "C4": "120",
+    "C5": "1200",
+    "C6": null,
+    "C7": "Sản xuất sản phẩm thuốc lá"
+  },
+  {
+    "C1": "166",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "12001",
+    "C7": "Sản xuất thuốc lá"
+  },
+  {
+    "C1": "167",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "12009",
+    "C7": "Sản xuất thuốc hút khác"
+  },
+  {
+    "C1": "168",
+    "C2": null,
+    "C3": "13",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Dệt"
+  },
+  {
+    "C1": "169",
+    "C2": null,
+    "C3": null,
+    "C4": "131",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất sợi, vải dệt thoi và hoàn thiện sản phẩm dệt"
+  },
+  {
+    "C1": "170",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1311",
+    "C6": "13110",
+    "C7": "Sản xuất sợi"
+  },
+  {
+    "C1": "171",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1312",
+    "C6": "13120",
+    "C7": "Sản xuất vải dệt thoi"
+  },
+  {
+    "C1": "172",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1313",
+    "C6": "13130",
+    "C7": "Hoàn thiện sản phẩm dệt"
+  },
+  {
+    "C1": "173",
+    "C2": null,
+    "C3": null,
+    "C4": "139",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất hàng dệt khác"
+  },
+  {
+    "C1": "174",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1391",
+    "C6": "13910",
+    "C7": "Sản xuất vải dệt kim, vải đan móc và vải không dệt khác"
+  },
+  {
+    "C1": "175",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1392",
+    "C6": "13920",
+    "C7": "Sản xuất hàng dệt sẵn (trừ trang phục)"
+  },
+  {
+    "C1": "176",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1393",
+    "C6": "13930",
+    "C7": "Sản xuất thảm, chăn, đệm"
+  },
+  {
+    "C1": "177",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1394",
+    "C6": "13940",
+    "C7": "Sản xuất các loại dây bện và lưới"
+  },
+  {
+    "C1": "178",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1399",
+    "C6": "13990",
+    "C7": "Sản xuất các loại hàng dệt khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "179",
+    "C2": null,
+    "C3": "14",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất trang phục"
+  },
+  {
+    "C1": "180",
+    "C2": null,
+    "C3": null,
+    "C4": "141",
+    "C5": "1410",
+    "C6": "14100",
+    "C7": "May trang phục (trừ trang phục từ da lông thú)"
+  },
+  {
+    "C1": "181",
+    "C2": null,
+    "C3": null,
+    "C4": "142",
+    "C5": "1420",
+    "C6": "14200",
+    "C7": "Sản xuất sản phẩm từ da lông thú"
+  },
+  {
+    "C1": "182",
+    "C2": null,
+    "C3": null,
+    "C4": "143",
+    "C5": "1430",
+    "C6": "14300",
+    "C7": "Sản xuất trang phục dệt kim, đan móc"
+  },
+  {
+    "C1": "183",
+    "C2": null,
+    "C3": "15",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất da và các sản phẩm có liên quan"
+  },
+  {
+    "C1": "184",
+    "C2": null,
+    "C3": null,
+    "C4": "151",
+    "C5": null,
+    "C6": null,
+    "C7": "Thuộc, sơ chế da; sản xuất va li, túi xách, yên đệm; sơ chế và nhuộm da lông thú"
+  },
+  {
+    "C1": "185",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1511",
+    "C6": "15110",
+    "C7": "Thuộc, sơ chế da; sơ chế và nhuộm da lông thú"
+  },
+  {
+    "C1": "186",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1512",
+    "C6": "15120",
+    "C7": "Sản xuất vali, túi xách và các loại tương tự, sản xuất yên đệm"
+  },
+  {
+    "C1": "187",
+    "C2": null,
+    "C3": null,
+    "C4": "152",
+    "C5": "1520",
+    "C6": "15200",
+    "C7": "Sản xuất giày, dép"
+  },
+  {
+    "C1": "188",
+    "C2": null,
+    "C3": "16",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Chế biến gỗ và sản xuất sản phẩm từ gỗ, tre, nứa (trừ giường, tủ, bàn, ghế); sản xuất sản phẩm từ rơm, rạ và vật liệu tết bện"
+  },
+  {
+    "C1": "189",
+    "C2": null,
+    "C3": null,
+    "C4": "161",
+    "C5": "1610",
+    "C6": null,
+    "C7": "Cưa, xẻ, bào gỗ và bảo quản gỗ"
+  },
+  {
+    "C1": "190",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "16101",
+    "C7": "Cưa, xẻ và bào gỗ"
+  },
+  {
+    "C1": "191",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "16102",
+    "C7": "Bảo quản gỗ"
+  },
+  {
+    "C1": "192",
+    "C2": null,
+    "C3": null,
+    "C4": "162",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất sản phẩm từ gỗ, tre, nứa (trừ giường, tủ, bàn, ghế); sản xuất sản phẩm từ rơm, rạ và vật liệu tết bện"
+  },
+  {
+    "C1": "193",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1621",
+    "C6": "16210",
+    "C7": "Sản xuất gỗ dán, gỗ lạng, ván ép và ván mỏng khác"
+  },
+  {
+    "C1": "194",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1622",
+    "C6": "16220",
+    "C7": "Sản xuất đồ gỗ xây dựng"
+  },
+  {
+    "C1": "195",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1623",
+    "C6": "16230",
+    "C7": "Sản xuất bao bì bằng gỗ"
+  },
+  {
+    "C1": "196",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1629",
+    "C6": null,
+    "C7": "Sản xuất sản phẩm khác từ gỗ; sản xuất sản phẩm từ tre, nứa, rơm, rạ và vật liệu tết bện"
+  },
+  {
+    "C1": "197",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "16291",
+    "C7": "Sản xuất sản phẩm khác từ gỗ"
+  },
+  {
+    "C1": "198",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "16292",
+    "C7": "Sản xuất sản phẩm từ lâm sản (trừ gỗ), cói và vật liệu tết bện"
+  },
+  {
+    "C1": "199",
+    "C2": null,
+    "C3": "17",
+    "C4": "170",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất giấy và sản phẩm từ giấy"
+  },
+  {
+    "C1": "200",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1701",
+    "C6": "17010",
+    "C7": "Sản xuất bột giấy, giấy và bìa"
+  },
+  {
+    "C1": "201",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1702",
+    "C6": null,
+    "C7": "Sản xuất giấy nhăn, bìa nhăn, bao bì từ giấy và bìa"
+  },
+  {
+    "C1": "202",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "17021",
+    "C7": "Sản xuất bao bì bằng giấy, bìa"
+  },
+  {
+    "C1": "203",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "17022",
+    "C7": "Sản xuất giấy nhăn và bìa nhăn"
+  },
+  {
+    "C1": "204",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1709",
+    "C6": "17090",
+    "C7": "Sản xuất các sản phẩm khác từ giấy và bìa chưa được phân vào đâu"
+  },
+  {
+    "C1": "205",
+    "C2": null,
+    "C3": "18",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "In, sao chép bản ghi các loại"
+  },
+  {
+    "C1": "206",
+    "C2": null,
+    "C3": null,
+    "C4": "181",
+    "C5": null,
+    "C6": null,
+    "C7": "In ấn và dịch vụ liên quan đến in"
+  },
+  {
+    "C1": "207",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1811",
+    "C6": "18110",
+    "C7": "In ấn"
+  },
+  {
+    "C1": "208",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "1812",
+    "C6": "18120",
+    "C7": "Dịch vụ liên quan đến in"
+  },
+  {
+    "C1": "209",
+    "C2": null,
+    "C3": null,
+    "C4": "182",
+    "C5": "1820",
+    "C6": "18200",
+    "C7": "Sao chép bản ghi các loại"
+  },
+  {
+    "C1": "210",
+    "C2": null,
+    "C3": "19",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất than cốc, sản phẩm dầu mỏ tinh chế"
+  },
+  {
+    "C1": "211",
+    "C2": null,
+    "C3": null,
+    "C4": "191",
+    "C5": "1910",
+    "C6": "19100",
+    "C7": "Sản xuất than cốc"
+  },
+  {
+    "C1": "212",
+    "C2": null,
+    "C3": null,
+    "C4": "192",
+    "C5": "1920",
+    "C6": "19200",
+    "C7": "Sản xuất sản phẩm dầu mỏ tinh chế"
+  },
+  {
+    "C1": "213",
+    "C2": null,
+    "C3": "20",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất hoá chất và sản phẩm hoá chất"
+  },
+  {
+    "C1": "214",
+    "C2": null,
+    "C3": null,
+    "C4": "201",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất hoá chất cơ bản, phân bón và hợp chất ni tơ; sản xuất plastic và cao su tổng hợp dạng nguyên sinh"
+  },
+  {
+    "C1": "215",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2011",
+    "C6": null,
+    "C7": "Sản xuất hoá chất cơ bản"
+  },
+  {
+    "C1": "216",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "20111",
+    "C7": "Sản xuất khí công nghiệp"
+  },
+  {
+    "C1": "217",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "20112",
+    "C7": "Sản xuất chất nhuộm và chất màu"
+  },
+  {
+    "C1": "218",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "20113",
+    "C7": "Sản xuất hóa chất vô cơ cơ bản khác"
+  },
+  {
+    "C1": "219",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "20114",
+    "C7": "Sản xuất hoá chất hữu cơ cơ bản khác"
+  },
+  {
+    "C1": "220",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "20119",
+    "C7": "Sản xuất hóa chất cơ bản khác"
+  },
+  {
+    "C1": "221",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2012",
+    "C6": "20120",
+    "C7": "Sản xuất phân bón và hợp chất ni tơ"
+  },
+  {
+    "C1": "222",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2013",
+    "C6": null,
+    "C7": "Sản xuất plastic và cao su tổng hợp dạng nguyên sinh"
+  },
+  {
+    "C1": "223",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "20131",
+    "C7": "Sản xuất plastic nguyên sinh"
+  },
+  {
+    "C1": "224",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "20132",
+    "C7": "Sản xuất cao su tổng hợp dạng nguyên sinh"
+  },
+  {
+    "C1": "225",
+    "C2": null,
+    "C3": null,
+    "C4": "202",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất sản phẩm hoá chất khác"
+  },
+  {
+    "C1": "226",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2021",
+    "C6": "20210",
+    "C7": "Sản xuất thuốc trừ sâu và sản phẩm hoá chất khác dùng trong nông nghiệp"
+  },
+  {
+    "C1": "227",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2022",
+    "C6": null,
+    "C7": "Sản xuất sơn, véc ni và các chất sơn, quét tương tự; sản xuất mực in và ma tít"
+  },
+  {
+    "C1": "228",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "20221",
+    "C7": "Sản xuất sơn, véc ni và các chất sơn, quét tương tự, ma tít"
+  },
+  {
+    "C1": "229",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "20222",
+    "C7": "Sản xuất mực in"
+  },
+  {
+    "C1": "230",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2023",
+    "C6": null,
+    "C7": "Sản xuất mỹ phẩm, xà phòng, chất tẩy rửa, làm bóng và chế phẩm vệ sinh"
+  },
+  {
+    "C1": "231",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "20231",
+    "C7": "Sản xuất mỹ phẩm"
+  },
+  {
+    "C1": "232",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "20232",
+    "C7": "Sản xuất xà phòng, chất tẩy rửa, làm bóng và chế phẩm vệ sinh"
+  },
+  {
+    "C1": "233",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2029",
+    "C6": "20290",
+    "C7": "Sản xuất sản phẩm hoá chất khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "234",
+    "C2": null,
+    "C3": null,
+    "C4": "203",
+    "C5": "2030",
+    "C6": "20300",
+    "C7": "Sản xuất sợi nhân tạo"
+  },
+  {
+    "C1": "235",
+    "C2": null,
+    "C3": "21",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất thuốc, hoá dược và dược liệu"
+  },
+  {
+    "C1": "236",
+    "C2": null,
+    "C3": null,
+    "C4": "210",
+    "C5": "2100",
+    "C6": null,
+    "C7": "Sản xuất thuốc, hoá dược và dược liệu"
+  },
+  {
+    "C1": "237",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "21001",
+    "C7": "Sản xuất thuốc các loại"
+  },
+  {
+    "C1": "238",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "21002",
+    "C7": "Sản xuất hoá dược và dược liệu"
+  },
+  {
+    "C1": "239",
+    "C2": null,
+    "C3": "22",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất sản phẩm từ cao su và plastic"
+  },
+  {
+    "C1": "240",
+    "C2": null,
+    "C3": null,
+    "C4": "221",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất sản phẩm từ cao su"
+  },
+  {
+    "C1": "241",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2211",
+    "C6": "22110",
+    "C7": "Sản xuất săm, lốp cao su; đắp và tái chế lốp cao su"
+  },
+  {
+    "C1": "242",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2219",
+    "C6": "22190",
+    "C7": "Sản xuất sản phẩm khác từ cao su"
+  },
+  {
+    "C1": "243",
+    "C2": null,
+    "C3": null,
+    "C4": "222",
+    "C5": "2220",
+    "C6": null,
+    "C7": "Sản xuất sản phẩm từ plastic"
+  },
+  {
+    "C1": "244",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "22201",
+    "C7": "Sản xuất bao bì từ plastic"
+  },
+  {
+    "C1": "245",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "22209",
+    "C7": "Sản xuất sản phẩm khác từ plastic"
+  },
+  {
+    "C1": "246",
+    "C2": null,
+    "C3": "23",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất sản phẩm từ khoáng phi kim loại khác"
+  },
+  {
+    "C1": "247",
+    "C2": null,
+    "C3": null,
+    "C4": "231",
+    "C5": "2310",
+    "C6": null,
+    "C7": "Sản xuất thuỷ tinh và sản phẩm từ thuỷ tinh"
+  },
+  {
+    "C1": "248",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "23101",
+    "C7": "Sản xuất thủy tinh phẳng và sản phẩm từ thủy tinh phẳng"
+  },
+  {
+    "C1": "249",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "23102",
+    "C7": "Sản xuất thủy tinh rỗng và sản phẩm từ thủy tinh rỗng"
+  },
+  {
+    "C1": "250",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "23103",
+    "C7": "Sản xuất sợi thủy tinh và sản phẩm từ sợi thủy tinh"
+  },
+  {
+    "C1": "251",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "23109",
+    "C7": "Sản xuất thủy tinh khác và các sản phẩm từ thủy tinh"
+  },
+  {
+    "C1": "252",
+    "C2": null,
+    "C3": null,
+    "C4": "239",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất sản phẩm từ khoáng phi kim loại chưa được phân vào đâu"
+  },
+  {
+    "C1": "253",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2391",
+    "C6": "23910",
+    "C7": "Sản xuất sản phẩm chịu lửa"
+  },
+  {
+    "C1": "254",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2392",
+    "C6": "23920",
+    "C7": "Sản xuất vật liệu xây dựng từ đất sét"
+  },
+  {
+    "C1": "255",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2393",
+    "C6": "23930",
+    "C7": "Sản xuất sản phẩm gốm sứ khác"
+  },
+  {
+    "C1": "256",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2394",
+    "C6": null,
+    "C7": "Sản xuất xi măng, vôi và thạch cao"
+  },
+  {
+    "C1": "257",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "23941",
+    "C7": "Sản xuất xi măng"
+  },
+  {
+    "C1": "258",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "23942",
+    "C7": "Sản xuất vôi"
+  },
+  {
+    "C1": "259",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "23943",
+    "C7": "Sản xuất thạch cao"
+  },
+  {
+    "C1": "260",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2395",
+    "C6": "23950",
+    "C7": "Sản xuất bê tông và các sản phẩm từ bê tông, xi măng và thạch cao"
+  },
+  {
+    "C1": "261",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2396",
+    "C6": "23960",
+    "C7": "Cắt tạo dáng và hoàn thiện đá"
+  },
+  {
+    "C1": "262",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2399",
+    "C6": "23990",
+    "C7": "Sản xuất sản phẩm từ chất khoáng phi kim loại khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "263",
+    "C2": null,
+    "C3": "24",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất kim loại"
+  },
+  {
+    "C1": "264",
+    "C2": null,
+    "C3": null,
+    "C4": "241",
+    "C5": "2410",
+    "C6": "24100",
+    "C7": "Sản xuất sắt, thép, gang"
+  },
+  {
+    "C1": "265",
+    "C2": null,
+    "C3": null,
+    "C4": "242",
+    "C5": "2420",
+    "C6": null,
+    "C7": "Sản xuất kim loại quý và kim loại màu"
+  },
+  {
+    "C1": "266",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "24201",
+    "C7": "Sản xuất kim loại quý"
+  },
+  {
+    "C1": "267",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "24202",
+    "C7": "Sản xuất kim loại màu"
+  },
+  {
+    "C1": "268",
+    "C2": null,
+    "C3": null,
+    "C4": "243",
+    "C5": null,
+    "C6": null,
+    "C7": "Đúc kim loại"
+  },
+  {
+    "C1": "269",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2431",
+    "C6": "24310",
+    "C7": "Đúc sắt, thép"
+  },
+  {
+    "C1": "270",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2432",
+    "C6": "24320",
+    "C7": "Đúc kim loại màu"
+  },
+  {
+    "C1": "271",
+    "C2": null,
+    "C3": "25",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất sản phẩm từ kim loại đúc sẵn (trừ máy móc, thiết bị)"
+  },
+  {
+    "C1": "272",
+    "C2": null,
+    "C3": null,
+    "C4": "251",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất các cấu kiện kim loại, thùng, bể chứa và nồi hơi"
+  },
+  {
+    "C1": "273",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2511",
+    "C6": "25110",
+    "C7": "Sản xuất các cấu kiện kim loại"
+  },
+  {
+    "C1": "274",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2512",
+    "C6": "25120",
+    "C7": "Sản xuất thùng, bể chứa và dụng cụ chứa đựng bằng kim loại"
+  },
+  {
+    "C1": "275",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2513",
+    "C6": "25130",
+    "C7": "Sản xuất nồi hơi (trừ nồi hơi trung tâm)"
+  },
+  {
+    "C1": "276",
+    "C2": null,
+    "C3": null,
+    "C4": "252",
+    "C5": "2520",
+    "C6": "25200",
+    "C7": "Sản xuất vũ khí và đạn dược"
+  },
+  {
+    "C1": "277",
+    "C2": null,
+    "C3": null,
+    "C4": "259",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất sản phẩm khác bằng kim loại; các dịch vụ xử lý, gia công kim loại"
+  },
+  {
+    "C1": "278",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2591",
+    "C6": "25910",
+    "C7": "Rèn, dập, ép và cán kim loại; luyện bột kim loại"
+  },
+  {
+    "C1": "279",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2592",
+    "C6": "25920",
+    "C7": "Gia công cơ khí; xử lý và tráng phủ kim loại"
+  },
+  {
+    "C1": "280",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2593",
+    "C6": "25930",
+    "C7": "Sản xuất dao kéo, dụng cụ cầm tay và đồ kim loại thông dụng"
+  },
+  {
+    "C1": "281",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2599",
+    "C6": null,
+    "C7": "Sản xuất sản phẩm khác bằng kim loại chưa được phân vào đâu"
+  },
+  {
+    "C1": "282",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "25991",
+    "C7": "Sản xuất đồ dùng bằng kim loại cho nhà bếp, nhà vệ sinh và nhà ăn"
+  },
+  {
+    "C1": "283",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "25999",
+    "C7": "Sản xuất sản phẩm khác còn lại bằng kim loại chưa được phân vào đâu"
+  },
+  {
+    "C1": "284",
+    "C2": null,
+    "C3": "26",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất sản phẩm điện tử, máy vi tính và sản phẩm quang học"
+  },
+  {
+    "C1": "285",
+    "C2": null,
+    "C3": null,
+    "C4": "261",
+    "C5": "2610",
+    "C6": "26100",
+    "C7": "Sản xuất linh kiện điện tử"
+  },
+  {
+    "C1": "286",
+    "C2": null,
+    "C3": null,
+    "C4": "262",
+    "C5": "2620",
+    "C6": "26200",
+    "C7": "Sản xuất máy vi tính và thiết bị ngoại vi của máy vi tính"
+  },
+  {
+    "C1": "287",
+    "C2": null,
+    "C3": null,
+    "C4": "263",
+    "C5": "2630",
+    "C6": "26300",
+    "C7": "Sản xuất thiết bị truyền thông"
+  },
+  {
+    "C1": "288",
+    "C2": null,
+    "C3": null,
+    "C4": "264",
+    "C5": "2640",
+    "C6": "26400",
+    "C7": "Sản xuất sản phẩm điện tử dân dụng"
+  },
+  {
+    "C1": "289",
+    "C2": null,
+    "C3": null,
+    "C4": "265",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất thiết bị đo lường, kiểm tra, định hướng và điều khiển; sản xuất đồng hồ"
+  },
+  {
+    "C1": "290",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2651",
+    "C6": "26510",
+    "C7": "Sản xuất thiết bị đo lường, kiểm tra, định hướng và điều khiển"
+  },
+  {
+    "C1": "291",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2652",
+    "C6": "26520",
+    "C7": "Sản xuất đồng hồ"
+  },
+  {
+    "C1": "292",
+    "C2": null,
+    "C3": null,
+    "C4": "266",
+    "C5": "2660",
+    "C6": "26600",
+    "C7": "Sản xuất thiết bị bức xạ, thiết bị điện tử trong y học, điện liệu pháp"
+  },
+  {
+    "C1": "293",
+    "C2": null,
+    "C3": null,
+    "C4": "267",
+    "C5": "2670",
+    "C6": "26700",
+    "C7": "Sản xuất thiết bị và dụng cụ quang học"
+  },
+  {
+    "C1": "294",
+    "C2": null,
+    "C3": null,
+    "C4": "268",
+    "C5": "2680",
+    "C6": "26800",
+    "C7": "Sản xuất băng, đĩa từ tính và quang học"
+  },
+  {
+    "C1": "295",
+    "C2": null,
+    "C3": "27",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất thiết bị điện"
+  },
+  {
+    "C1": "296",
+    "C2": null,
+    "C3": null,
+    "C4": "271",
+    "C5": "2710",
+    "C6": null,
+    "C7": "Sản xuất mô tơ, máy phát, biến thế điện, thiết bị phân phối và điều khiển điện"
+  },
+  {
+    "C1": "297",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "27101",
+    "C7": "Sản xuất mô tơ, máy phát"
+  },
+  {
+    "C1": "298",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "27102",
+    "C7": "Sản xuất biến thế điện, thiết bị phân phối và điều khiển điện"
+  },
+  {
+    "C1": "299",
+    "C2": null,
+    "C3": null,
+    "C4": "272",
+    "C5": "2720",
+    "C6": "27200",
+    "C7": "Sản xuất pin và ắc quy"
+  },
+  {
+    "C1": "300",
+    "C2": null,
+    "C3": null,
+    "C4": "273",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất dây và thiết bị dây dẫn"
+  },
+  {
+    "C1": "301",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2731",
+    "C6": "27310",
+    "C7": "Sản xuất dây cáp, sợi cáp quang học"
+  },
+  {
+    "C1": "302",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2732",
+    "C6": "27320",
+    "C7": "Sản xuất dây, cáp điện và điện tử khác"
+  },
+  {
+    "C1": "303",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2733",
+    "C6": "27330",
+    "C7": "Sản xuất thiết bị dây dẫn điện các loại"
+  },
+  {
+    "C1": "304",
+    "C2": null,
+    "C3": null,
+    "C4": "274",
+    "C5": "2740",
+    "C6": "27400",
+    "C7": "Sản xuất thiết bị điện chiếu sáng"
+  },
+  {
+    "C1": "305",
+    "C2": null,
+    "C3": null,
+    "C4": "275",
+    "C5": "2750",
+    "C6": "27500",
+    "C7": "Sản xuất đồ điện dân dụng"
+  },
+  {
+    "C1": "306",
+    "C2": null,
+    "C3": null,
+    "C4": "279",
+    "C5": "2790",
+    "C6": "27900",
+    "C7": "Sản xuất thiết bị điện khác"
+  },
+  {
+    "C1": "307",
+    "C2": null,
+    "C3": "28",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất máy móc, thiết bị chưa được phân vào đâu"
+  },
+  {
+    "C1": "308",
+    "C2": null,
+    "C3": null,
+    "C4": "281",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất máy thông dụng"
+  },
+  {
+    "C1": "309",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2811",
+    "C6": "28110",
+    "C7": "Sản xuất động cơ, tua bin (trừ động cơ máy bay, ô tô, mô tô và xe máy)"
+  },
+  {
+    "C1": "310",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2812",
+    "C6": "28120",
+    "C7": "Sản xuất thiết bị sử dụng năng lượng chiết lưu"
+  },
+  {
+    "C1": "311",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2813",
+    "C6": "28130",
+    "C7": "Sản xuất máy bơm, máy nén, vòi và van khác"
+  },
+  {
+    "C1": "312",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2814",
+    "C6": "28140",
+    "C7": "Sản xuất bi, bánh răng, hộp số, các bộ phận điều khiển và truyền chuyển động"
+  },
+  {
+    "C1": "313",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2815",
+    "C6": "28150",
+    "C7": "Sản xuất lò nướng, lò luyện và lò nung"
+  },
+  {
+    "C1": "314",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2816",
+    "C6": "28160",
+    "C7": "Sản xuất các thiết bị nâng, hạ và bốc xếp"
+  },
+  {
+    "C1": "315",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2817",
+    "C6": "28170",
+    "C7": "Sản xuất máy móc và thiết bị văn phòng (trừ máy vi tính và thiết bị ngoại vi của máy vi tính)"
+  },
+  {
+    "C1": "316",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2818",
+    "C6": "28180",
+    "C7": "Sản xuất dụng cụ cầm tay chạy bằng mô tơ hoặc khí nén"
+  },
+  {
+    "C1": "317",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2819",
+    "C6": "28190",
+    "C7": "Sản xuất máy thông dụng khác"
+  },
+  {
+    "C1": "318",
+    "C2": null,
+    "C3": null,
+    "C4": "282",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất máy chuyên dụng"
+  },
+  {
+    "C1": "319",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2821",
+    "C6": "28210",
+    "C7": "Sản xuất máy nông nghiệp và lâm nghiệp"
+  },
+  {
+    "C1": "320",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2822",
+    "C6": "28220",
+    "C7": "Sản xuất máy công cụ và máy tạo hình kim loại"
+  },
+  {
+    "C1": "321",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2823",
+    "C6": "28230",
+    "C7": "Sản xuất máy luyện kim"
+  },
+  {
+    "C1": "322",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2824",
+    "C6": "28240",
+    "C7": "Sản xuất máy khai thác mỏ và xây dựng"
+  },
+  {
+    "C1": "323",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2825",
+    "C6": "28250",
+    "C7": "Sản xuất máy chế biến thực phẩm, đồ uống và thuốc lá"
+  },
+  {
+    "C1": "324",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2826",
+    "C6": "28260",
+    "C7": "Sản xuất máy cho ngành dệt, may và da"
+  },
+  {
+    "C1": "325",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "2829",
+    "C6": null,
+    "C7": "Sản xuất máy chuyên dụng khác"
+  },
+  {
+    "C1": "326",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "28291",
+    "C7": "Sản xuất máy sản xuất vật liệu xây dựng"
+  },
+  {
+    "C1": "327",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "28299",
+    "C7": "Sản xuất máy chuyên dụng khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "328",
+    "C2": null,
+    "C3": "29",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất ô tô và xe có động cơ khác"
+  },
+  {
+    "C1": "329",
+    "C2": null,
+    "C3": null,
+    "C4": "291",
+    "C5": "2910",
+    "C6": "29100",
+    "C7": "Sản xuất ô tô và xe có động cơ khác"
+  },
+  {
+    "C1": "330",
+    "C2": null,
+    "C3": null,
+    "C4": "292",
+    "C5": "2920",
+    "C6": "29200",
+    "C7": "Sản xuất thân xe ô tô và xe có động cơ khác, rơ moóc và bán rơ moóc"
+  },
+  {
+    "C1": "331",
+    "C2": null,
+    "C3": null,
+    "C4": "293",
+    "C5": "2930",
+    "C6": "29300",
+    "C7": "Sản xuất phụ tùng và bộ phận phụ trợ cho xe ô tô và xe có động cơ khác"
+  },
+  {
+    "C1": "332",
+    "C2": null,
+    "C3": "30",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất phương tiện vận tải khác"
+  },
+  {
+    "C1": "333",
+    "C2": null,
+    "C3": null,
+    "C4": "301",
+    "C5": null,
+    "C6": null,
+    "C7": "Đóng tàu và thuyền"
+  },
+  {
+    "C1": "334",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3011",
+    "C6": "30110",
+    "C7": "Đóng tàu và cấu kiện nổi"
+  },
+  {
+    "C1": "335",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3012",
+    "C6": "30120",
+    "C7": "Đóng thuyền, xuồng thể thao và giải trí"
+  },
+  {
+    "C1": "336",
+    "C2": null,
+    "C3": null,
+    "C4": "302",
+    "C5": "3020",
+    "C6": "30200",
+    "C7": "Sản xuất đầu máy xe lửa, xe điện và toa xe"
+  },
+  {
+    "C1": "337",
+    "C2": null,
+    "C3": null,
+    "C4": "303",
+    "C5": "3030",
+    "C6": "30300",
+    "C7": "Sản xuất máy bay, tàu vũ trụ và máy móc liên quan"
+  },
+  {
+    "C1": "338",
+    "C2": null,
+    "C3": null,
+    "C4": "304",
+    "C5": "3040",
+    "C6": "30400",
+    "C7": "Sản xuất xe cơ giới chiến đấu dùng trong quân đội"
+  },
+  {
+    "C1": "339",
+    "C2": null,
+    "C3": null,
+    "C4": "309",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất phương tiện và thiết bị vận tải chưa được phân vào đâu"
+  },
+  {
+    "C1": "340",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3091",
+    "C6": "30910",
+    "C7": "Sản xuất mô tô, xe máy"
+  },
+  {
+    "C1": "341",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3092",
+    "C6": "30920",
+    "C7": "Sản xuất xe đạp và xe cho người khuyết tật"
+  },
+  {
+    "C1": "342",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3099",
+    "C6": "30990",
+    "C7": "Sản xuất phương tiện và thiết bị vận tải khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "343",
+    "C2": null,
+    "C3": "31",
+    "C4": "310",
+    "C5": "3100",
+    "C6": null,
+    "C7": "Sản xuất giường, tủ, bàn, ghế"
+  },
+  {
+    "C1": "344",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "31001",
+    "C7": "Sản xuất giường, tủ, bàn, ghế bằng gỗ"
+  },
+  {
+    "C1": "345",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "31002",
+    "C7": "Sản xuất giường, tủ, bàn, ghế bằng kim loại"
+  },
+  {
+    "C1": "346",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "31009",
+    "C7": "Sản xuất giường, tủ, bàn, ghế bằng vật liệu khác"
+  },
+  {
+    "C1": "347",
+    "C2": null,
+    "C3": "32",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Công nghiệp chế biến, chế tạo khác"
+  },
+  {
+    "C1": "348",
+    "C2": null,
+    "C3": null,
+    "C4": "321",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất đồ kim hoàn, đồ giả kim hoàn và các chi tiết liên quan"
+  },
+  {
+    "C1": "349",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3211",
+    "C6": "32110",
+    "C7": "Sản xuất đồ kim hoàn và chi tiết liên quan"
+  },
+  {
+    "C1": "350",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3212",
+    "C6": "32120",
+    "C7": "Sản xuất đồ giả kim hoàn và chi tiết liên quan"
+  },
+  {
+    "C1": "351",
+    "C2": null,
+    "C3": null,
+    "C4": "322",
+    "C5": "3220",
+    "C6": "32200",
+    "C7": "Sản xuất nhạc cụ"
+  },
+  {
+    "C1": "352",
+    "C2": null,
+    "C3": null,
+    "C4": "323",
+    "C5": "3230",
+    "C6": "32300",
+    "C7": "Sản xuất dụng cụ thể dục, thể thao"
+  },
+  {
+    "C1": "353",
+    "C2": null,
+    "C3": null,
+    "C4": "324",
+    "C5": "3240",
+    "C6": "32400",
+    "C7": "Sản xuất đồ chơi, trò chơi"
+  },
+  {
+    "C1": "354",
+    "C2": null,
+    "C3": null,
+    "C4": "325",
+    "C5": "3250",
+    "C6": null,
+    "C7": "Sản xuất thiết bị, dụng cụ y tế, nha khoa, chỉnh hình và phục hồi chức năng"
+  },
+  {
+    "C1": "355",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "32501",
+    "C7": "Sản xuất thiết bị, dụng cụ y tế, nha khoa"
+  },
+  {
+    "C1": "356",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "32502",
+    "C7": "Sản xuất dụng cụ chỉnh hình, phục hồi chức năng"
+  },
+  {
+    "C1": "357",
+    "C2": null,
+    "C3": null,
+    "C4": "329",
+    "C5": "3290",
+    "C6": "32900",
+    "C7": "Sản xuất khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "358",
+    "C2": null,
+    "C3": "33",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sửa chữa, bảo dưỡng và lắp đặt máy móc và thiết bị"
+  },
+  {
+    "C1": "359",
+    "C2": null,
+    "C3": null,
+    "C4": "331",
+    "C5": null,
+    "C6": null,
+    "C7": "Sửa chữa và bảo dưỡng máy móc, thiết bị và sản phẩm kim loại đúc sẵn"
+  },
+  {
+    "C1": "360",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3311",
+    "C6": "33110",
+    "C7": "Sửa chữa các sản phẩm kim loại đúc sẵn"
+  },
+  {
+    "C1": "361",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3312",
+    "C6": "33120",
+    "C7": "Sửa chữa máy móc, thiết bị"
+  },
+  {
+    "C1": "362",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3313",
+    "C6": "33130",
+    "C7": "Sửa chữa thiết bị điện tử và quang học"
+  },
+  {
+    "C1": "363",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3314",
+    "C6": "33140",
+    "C7": "Sửa chữa thiết bị điện"
+  },
+  {
+    "C1": "364",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3315",
+    "C6": "33150",
+    "C7": "Sửa chữa và bảo dưỡng phương tiện vận tải (trừ ô tô, mô tô, xe máy và xe có động cơ khác)"
+  },
+  {
+    "C1": "365",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3319",
+    "C6": "33190",
+    "C7": "Sửa chữa thiết bị khác"
+  },
+  {
+    "C1": "366",
+    "C2": null,
+    "C3": null,
+    "C4": "332",
+    "C5": "3320",
+    "C6": "33200",
+    "C7": "Lắp đặt máy móc và thiết bị công nghiệp"
+  },
+  {
+    "C1": "367",
+    "C2": "D",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "SẢN XUẤT VÀ PHÂN PHỐI ĐIỆN, KHÍ ĐỐT, NƯỚC NÓNG, HƠI NƯỚC VÀ ĐIỀU HOÀ KHÔNG KHÍ"
+  },
+  {
+    "C1": "368",
+    "C2": null,
+    "C3": "35",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hoà không khí"
+  },
+  {
+    "C1": "369",
+    "C2": null,
+    "C3": null,
+    "C4": "351",
+    "C5": null,
+    "C6": null,
+    "C7": "Sản xuất, truyền tải và phân phối điện"
+  },
+  {
+    "C1": "370",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3511",
+    "C6": null,
+    "C7": "Sản xuất điện"
+  },
+  {
+    "C1": "371",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "35111",
+    "C7": "Thủy điện"
+  },
+  {
+    "C1": "372",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "35112",
+    "C7": "Nhiệt điện than"
+  },
+  {
+    "C1": "373",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "35113",
+    "C7": "Nhiệt điện khí"
+  },
+  {
+    "C1": "374",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "35114",
+    "C7": "Điện hạt nhân"
+  },
+  {
+    "C1": "375",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "35115",
+    "C7": "Điện gió"
+  },
+  {
+    "C1": "376",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "35116",
+    "C7": "Điện mặt trời"
+  },
+  {
+    "C1": "377",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "35119",
+    "C7": "Điện khác"
+  },
+  {
+    "C1": "378",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3512",
+    "C6": null,
+    "C7": "Truyền tải và phân phối điện"
+  },
+  {
+    "C1": "379",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "35121",
+    "C7": "Truyền tải điện"
+  },
+  {
+    "C1": "380",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "35122",
+    "C7": "Phân phối điện"
+  },
+  {
+    "C1": "381",
+    "C2": null,
+    "C3": null,
+    "C4": "352",
+    "C5": "3520",
+    "C6": null,
+    "C7": "Sản xuất khí đốt, phân phối nhiên liệu khí bằng đường ống"
+  },
+  {
+    "C1": "382",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "35201",
+    "C7": "Sản xuất khí đốt"
+  },
+  {
+    "C1": "383",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "35202",
+    "C7": "Phân phối nhiên liệu khí bằng đường ống"
+  },
+  {
+    "C1": "384",
+    "C2": null,
+    "C3": null,
+    "C4": "353",
+    "C5": "3530",
+    "C6": null,
+    "C7": "Sản xuất, phân phối hơi nước, nước nóng, điều hoà không khí và sản xuất nước đá"
+  },
+  {
+    "C1": "385",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "35301",
+    "C7": "Sản xuất, phân phối hơi nước, nước nóng và điều hoà không khí"
+  },
+  {
+    "C1": "386",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "35302",
+    "C7": "Sản xuất nước đá"
+  },
+  {
+    "C1": "387",
+    "C2": "E",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "CUNG CẤP NƯỚC; HOẠT ĐỘNG QUẢN LÝ VÀ XỬ LÝ RÁC THẢI, NƯỚC THẢI"
+  },
+  {
+    "C1": "388",
+    "C2": null,
+    "C3": "36",
+    "C4": "360",
+    "C5": "3600",
+    "C6": "36000",
+    "C7": "Khai thác, xử lý và cung cấp nước"
+  },
+  {
+    "C1": "389",
+    "C2": null,
+    "C3": "37",
+    "C4": "370",
+    "C5": "3700",
+    "C6": null,
+    "C7": "Thoát nước và xử lý nước thải"
+  },
+  {
+    "C1": "390",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "37001",
+    "C7": "Thoát nước"
+  },
+  {
+    "C1": "391",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "37002",
+    "C7": "Xử lý nước thải"
+  },
+  {
+    "C1": "392",
+    "C2": null,
+    "C3": "38",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động thu gom, xử lý và tiêu huỷ rác thải; tái chế phế liệu"
+  },
+  {
+    "C1": "393",
+    "C2": null,
+    "C3": null,
+    "C4": "381",
+    "C5": null,
+    "C6": null,
+    "C7": "Thu gom rác thải"
+  },
+  {
+    "C1": "394",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3811",
+    "C6": "38110",
+    "C7": "Thu gom rác thải không độc hại"
+  },
+  {
+    "C1": "395",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3812",
+    "C6": null,
+    "C7": "Thu gom rác thải độc hại"
+  },
+  {
+    "C1": "396",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "38121",
+    "C7": "Thu gom rác thải y tế"
+  },
+  {
+    "C1": "397",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "38129",
+    "C7": "Thu gom rác thải độc hại khác"
+  },
+  {
+    "C1": "398",
+    "C2": null,
+    "C3": null,
+    "C4": "382",
+    "C5": null,
+    "C6": null,
+    "C7": "Xử lý và tiêu huỷ rác thải"
+  },
+  {
+    "C1": "399",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3821",
+    "C6": "38210",
+    "C7": "Xử lý và tiêu huỷ rác thải không độc hại"
+  },
+  {
+    "C1": "400",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "3822",
+    "C6": null,
+    "C7": "Xử lý và tiêu huỷ rác thải độc hại"
+  },
+  {
+    "C1": "401",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "38221",
+    "C7": "Xử lý và tiêu huỷ rác thải y tế"
+  },
+  {
+    "C1": "402",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "38229",
+    "C7": "Xử lý và tiêu huỷ rác thải độc hại khác"
+  },
+  {
+    "C1": "403",
+    "C2": null,
+    "C3": null,
+    "C4": "383",
+    "C5": "3830",
+    "C6": null,
+    "C7": "Tái chế phế liệu"
+  },
+  {
+    "C1": "404",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "38301",
+    "C7": "Tái chế phế liệu kim loại"
+  },
+  {
+    "C1": "405",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "38302",
+    "C7": "Tái chế phế liệu phi kim loại"
+  },
+  {
+    "C1": "406",
+    "C2": null,
+    "C3": "39",
+    "C4": "390",
+    "C5": "3900",
+    "C6": "39000",
+    "C7": "Xử lý ô nhiễm và hoạt động quản lý chất thải khác"
+  },
+  {
+    "C1": "407",
+    "C2": "F",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "XÂY DỰNG"
+  },
+  {
+    "C1": "408",
+    "C2": null,
+    "C3": "41",
+    "C4": "410",
+    "C5": null,
+    "C6": null,
+    "C7": "Xây dựng nhà các loại"
+  },
+  {
+    "C1": "409",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4101",
+    "C6": "41010",
+    "C7": "Xây dựng nhà để ở"
+  },
+  {
+    "C1": "410",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4102",
+    "C6": "41020",
+    "C7": "Xây dựng nhà không để ở"
+  },
+  {
+    "C1": "411",
+    "C2": null,
+    "C3": "42",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Xây dựng công trình kỹ thuật dân dụng"
+  },
+  {
+    "C1": "412",
+    "C2": null,
+    "C3": null,
+    "C4": "421",
+    "C5": null,
+    "C6": null,
+    "C7": "Xây dựng công trình đường sắt và đường bộ"
+  },
+  {
+    "C1": "413",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4211",
+    "C6": "42110",
+    "C7": "Xây dựng công trình đường sắt"
+  },
+  {
+    "C1": "414",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4212",
+    "C6": "42120",
+    "C7": "Xây dựng công trình đường bộ"
+  },
+  {
+    "C1": "415",
+    "C2": null,
+    "C3": null,
+    "C4": "422",
+    "C5": null,
+    "C6": null,
+    "C7": "Xây dựng công trình công ích"
+  },
+  {
+    "C1": "416",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4221",
+    "C6": "42210",
+    "C7": "Xây dựng công trình điện"
+  },
+  {
+    "C1": "417",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4222",
+    "C6": "42220",
+    "C7": "Xây dựng công trình cấp, thoát nước"
+  },
+  {
+    "C1": "418",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4223",
+    "C6": "42230",
+    "C7": "Xây dựng công trình viễn thông, thông tin liên lạc"
+  },
+  {
+    "C1": "419",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4229",
+    "C6": "42290",
+    "C7": "Xây dựng công trình công ích khác"
+  },
+  {
+    "C1": "420",
+    "C2": null,
+    "C3": null,
+    "C4": "429",
+    "C5": null,
+    "C6": null,
+    "C7": "Xây dựng công trình kỹ thuật dân dụng khác"
+  },
+  {
+    "C1": "421",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4291",
+    "C6": "42910",
+    "C7": "Xây dựng công trình thủy"
+  },
+  {
+    "C1": "422",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4292",
+    "C6": "42920",
+    "C7": "Xây dựng công trình khai khoáng"
+  },
+  {
+    "C1": "423",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4293",
+    "C6": "42930",
+    "C7": "Xây dựng công trình chế biến, chế tạo"
+  },
+  {
+    "C1": "424",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4299",
+    "C6": "42990",
+    "C7": "Xây dựng công trình kỹ thuật dân dụng khác"
+  },
+  {
+    "C1": "425",
+    "C2": null,
+    "C3": "43",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động xây dựng chuyên dụng"
+  },
+  {
+    "C1": "426",
+    "C2": null,
+    "C3": null,
+    "C4": "431",
+    "C5": null,
+    "C6": null,
+    "C7": "Phá dỡ và chuẩn bị mặt bằng"
+  },
+  {
+    "C1": "427",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4311",
+    "C6": "43110",
+    "C7": "Phá dỡ"
+  },
+  {
+    "C1": "428",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4312",
+    "C6": "43120",
+    "C7": "Chuẩn bị mặt bằng"
+  },
+  {
+    "C1": "429",
+    "C2": null,
+    "C3": null,
+    "C4": "432",
+    "C5": null,
+    "C6": null,
+    "C7": "Lắp đặt hệ thống điện, hệ thống cấp thoát nước và lắp đặt xây dựng khác"
+  },
+  {
+    "C1": "430",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4321",
+    "C6": "43210",
+    "C7": "Lắp đặt hệ thống điện"
+  },
+  {
+    "C1": "431",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4322",
+    "C6": null,
+    "C7": "Lắp đặt hệ thống cấp, thoát nước, hệ thống sưởi và điều hoà không khí"
+  },
+  {
+    "C1": "432",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "43221",
+    "C7": "Lắp đặt hệ thống cấp, thoát nước"
+  },
+  {
+    "C1": "433",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "43222",
+    "C7": "Lắp đặt hệ thống sưởi và điều hoà không khí"
+  },
+  {
+    "C1": "434",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4329",
+    "C6": "43290",
+    "C7": "Lắp đặt hệ thống xây dựng khác"
+  },
+  {
+    "C1": "435",
+    "C2": null,
+    "C3": null,
+    "C4": "433",
+    "C5": "4330",
+    "C6": "43300",
+    "C7": "Hoàn thiện công trình xây dựng"
+  },
+  {
+    "C1": "436",
+    "C2": null,
+    "C3": null,
+    "C4": "439",
+    "C5": "4390",
+    "C6": "43900",
+    "C7": "Hoạt động xây dựng chuyên dụng khác"
+  },
+  {
+    "C1": "437",
+    "C2": "G",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "BÁN BUÔN VÀ BÁN LẺ; SỬA CHỮA Ô TÔ, MÔ TÔ, XE MÁY VÀ XE CÓ ĐỘNG CƠ KHÁC"
+  },
+  {
+    "C1": "438",
+    "C2": null,
+    "C3": "45",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Bán, sửa chữa ô tô, mô tô, xe máy và xe có động cơ khác"
+  },
+  {
+    "C1": "439",
+    "C2": null,
+    "C3": null,
+    "C4": "451",
+    "C5": null,
+    "C6": null,
+    "C7": "Bán ô tô và xe có động cơ khác"
+  },
+  {
+    "C1": "440",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4511",
+    "C6": null,
+    "C7": "Bán buôn ô tô và xe có động cơ khác"
+  },
+  {
+    "C1": "441",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "45111",
+    "C7": "Bán buôn ô tô con (loại 9 chỗ ngồi trở xuống)"
+  },
+  {
+    "C1": "442",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "45119",
+    "C7": "Bán buôn xe có động cơ khác"
+  },
+  {
+    "C1": "443",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4512",
+    "C6": "45120",
+    "C7": "Bán lẻ ô tô con (loại 9 chỗ ngồi trở xuống)"
+  },
+  {
+    "C1": "444",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4513",
+    "C6": null,
+    "C7": "Đại lý ô tô và xe có động cơ khác"
+  },
+  {
+    "C1": "445",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "45131",
+    "C7": "Đại lý ô tô con (loại 9 chỗ ngồi trở xuống)"
+  },
+  {
+    "C1": "446",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "45139",
+    "C7": "Đại lý xe có động cơ khác"
+  },
+  {
+    "C1": "447",
+    "C2": null,
+    "C3": null,
+    "C4": "452",
+    "C5": "4520",
+    "C6": "45200",
+    "C7": "Bảo dưỡng, sửa chữa ô tô và xe có động cơ khác"
+  },
+  {
+    "C1": "448",
+    "C2": null,
+    "C3": null,
+    "C4": "453",
+    "C5": "4530",
+    "C6": null,
+    "C7": "Bán phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác"
+  },
+  {
+    "C1": "449",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "45301",
+    "C7": "Bán buôn phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác"
+  },
+  {
+    "C1": "450",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "45302",
+    "C7": "Bán lẻ phụ tùng và các bộ phận phụ trợ của ô tô con (loại 9 chỗ ngồi trở xuống)"
+  },
+  {
+    "C1": "451",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "45303",
+    "C7": "Đại lý phụ tùng và các bộ phận phụ trợ của ô tô và xe có động cơ khác"
+  },
+  {
+    "C1": "452",
+    "C2": null,
+    "C3": null,
+    "C4": "454",
+    "C5": null,
+    "C6": null,
+    "C7": "Bán, bảo dưỡng và sửa chữa mô tô, xe máy, phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "C1": "453",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4541",
+    "C6": null,
+    "C7": "Bán mô tô, xe máy"
+  },
+  {
+    "C1": "454",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "45411",
+    "C7": "Bán buôn mô tô, xe máy"
+  },
+  {
+    "C1": "455",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "45412",
+    "C7": "Bán lẻ mô tô, xe máy"
+  },
+  {
+    "C1": "456",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "45413",
+    "C7": "Đại lý mô tô, xe máy"
+  },
+  {
+    "C1": "457",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4542",
+    "C6": "45420",
+    "C7": "Bảo dưỡng và sửa chữa mô tô, xe máy"
+  },
+  {
+    "C1": "458",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4543",
+    "C6": null,
+    "C7": "Bán phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "C1": "459",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "45431",
+    "C7": "Bán buôn phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "C1": "460",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "45432",
+    "C7": "Bán lẻ phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "C1": "461",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "45433",
+    "C7": "Đại lý phụ tùng và các bộ phận phụ trợ của mô tô, xe máy"
+  },
+  {
+    "C1": "462",
+    "C2": null,
+    "C3": "46",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Bán buôn (trừ ô tô, mô tô, xe máy và xe có động cơ khác)"
+  },
+  {
+    "C1": "463",
+    "C2": null,
+    "C3": null,
+    "C4": "461",
+    "C5": "4610",
+    "C6": null,
+    "C7": "Đại lý, môi giới, đấu giá hàng hóa"
+  },
+  {
+    "C1": "464",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46101",
+    "C7": "Đại lý bán hàng hóa"
+  },
+  {
+    "C1": "465",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46102",
+    "C7": "Môi giới mua bán hàng hóa"
+  },
+  {
+    "C1": "466",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46103",
+    "C7": "Đấu giá hàng hóa"
+  },
+  {
+    "C1": "467",
+    "C2": null,
+    "C3": null,
+    "C4": "462",
+    "C5": "4620",
+    "C6": null,
+    "C7": "Bán buôn nông, lâm sản nguyên liệu (trừ gỗ, tre, nứa) và động vật sống"
+  },
+  {
+    "C1": "468",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46201",
+    "C7": "Bán buôn thóc, ngô và các loại hạt ngũ cốc khác"
+  },
+  {
+    "C1": "469",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46202",
+    "C7": "Bán buôn hoa và cây"
+  },
+  {
+    "C1": "470",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46203",
+    "C7": "Bán buôn động vật sống"
+  },
+  {
+    "C1": "471",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46204",
+    "C7": "Bán buôn thức ăn và nguyên liệu làm thức ăn cho gia súc, gia cầm và thuỷ sản"
+  },
+  {
+    "C1": "472",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46209",
+    "C7": "Bán buôn nông, lâm sản nguyên liệu khác (trừ gỗ, tre, nứa)"
+  },
+  {
+    "C1": "473",
+    "C2": null,
+    "C3": null,
+    "C4": "463",
+    "C5": null,
+    "C6": null,
+    "C7": "Bán buôn lương thực, thực phẩm, đồ uống và sản phẩm thuốc lá, thuốc lào"
+  },
+  {
+    "C1": "474",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4631",
+    "C6": "46310",
+    "C7": "Bán buôn gạo, lúa mỳ, hạt ngũ cốc khác, bột mỳ"
+  },
+  {
+    "C1": "475",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4632",
+    "C6": null,
+    "C7": "Bán buôn thực phẩm"
+  },
+  {
+    "C1": "476",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46321",
+    "C7": "Bán buôn thịt và các sản phẩm từ thịt"
+  },
+  {
+    "C1": "477",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46322",
+    "C7": "Bán buôn thủy sản"
+  },
+  {
+    "C1": "478",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46323",
+    "C7": "Bán buôn rau, quả"
+  },
+  {
+    "C1": "479",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46324",
+    "C7": "Bán buôn cà phê"
+  },
+  {
+    "C1": "480",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46325",
+    "C7": "Bán buôn chè"
+  },
+  {
+    "C1": "481",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46326",
+    "C7": "Bán buôn đường, sữa và các sản phẩm sữa, bánh kẹo và các sản phẩm chế biến từ ngũ cốc, bột, tinh bột"
+  },
+  {
+    "C1": "482",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46329",
+    "C7": "Bán buôn thực phẩm khác"
+  },
+  {
+    "C1": "483",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4633",
+    "C6": null,
+    "C7": "Bán buôn đồ uống"
+  },
+  {
+    "C1": "484",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46331",
+    "C7": "Bán buôn đồ uống có cồn"
+  },
+  {
+    "C1": "485",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46332",
+    "C7": "Bán buôn đồ uống không có cồn"
+  },
+  {
+    "C1": "486",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4634",
+    "C6": "46340",
+    "C7": "Bán buôn sản phẩm thuốc lá, thuốc lào"
+  },
+  {
+    "C1": "487",
+    "C2": null,
+    "C3": null,
+    "C4": "464",
+    "C5": null,
+    "C6": null,
+    "C7": "Bán buôn đồ dùng gia đình"
+  },
+  {
+    "C1": "488",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4641",
+    "C6": null,
+    "C7": "Bán buôn vải, hàng may mặc, giày dép"
+  },
+  {
+    "C1": "489",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46411",
+    "C7": "Bán buôn vải"
+  },
+  {
+    "C1": "490",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46412",
+    "C7": "Bán buôn thảm, đệm, chăn, màn, rèm, ga trải giường, gối và hàng dệt khác"
+  },
+  {
+    "C1": "491",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46413",
+    "C7": "Bán buôn hàng may mặc"
+  },
+  {
+    "C1": "492",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46414",
+    "C7": "Bán buôn giày dép"
+  },
+  {
+    "C1": "493",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4649",
+    "C6": null,
+    "C7": "Bán buôn đồ dùng khác cho gia đình"
+  },
+  {
+    "C1": "494",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46491",
+    "C7": "Bán buôn vali, cặp, túi, ví, hàng da và giả da khác"
+  },
+  {
+    "C1": "495",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46492",
+    "C7": "Bán buôn dược phẩm và dụng cụ y tế"
+  },
+  {
+    "C1": "496",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46493",
+    "C7": "Bán buôn nước hoa, hàng mỹ phẩm và chế phẩm vệ sinh"
+  },
+  {
+    "C1": "497",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46494",
+    "C7": "Bán buôn hàng gốm, sứ, thủy tinh"
+  },
+  {
+    "C1": "498",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46495",
+    "C7": "Bán buôn đồ điện gia dụng, đèn và bộ đèn điện"
+  },
+  {
+    "C1": "499",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46496",
+    "C7": "Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất tương tự"
+  },
+  {
+    "C1": "500",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46497",
+    "C7": "Bán buôn sách, báo, tạp chí, văn phòng phẩm"
+  },
+  {
+    "C1": "501",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46498",
+    "C7": "Bán buôn dụng cụ thể dục, thể thao"
+  },
+  {
+    "C1": "502",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46499",
+    "C7": "Bán buôn đồ dùng khác cho gia đình chưa được phân vào đâu"
+  },
+  {
+    "C1": "503",
+    "C2": null,
+    "C3": null,
+    "C4": "465",
+    "C5": null,
+    "C6": null,
+    "C7": "Bán buôn máy móc, thiết bị và phụ tùng máy"
+  },
+  {
+    "C1": "504",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4651",
+    "C6": "46510",
+    "C7": "Bán buôn máy vi tính, thiết bị ngoại vi và phần mềm"
+  },
+  {
+    "C1": "505",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4652",
+    "C6": "46520",
+    "C7": "Bán buôn thiết bị và linh kiện điện tử, viễn thông"
+  },
+  {
+    "C1": "506",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4653",
+    "C6": "46530",
+    "C7": "Bán buôn máy móc, thiết bị và phụ tùng máy nông nghiệp"
+  },
+  {
+    "C1": "507",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4659",
+    "C6": null,
+    "C7": "Bán buôn máy móc, thiết bị và phụ tùng máy khác"
+  },
+  {
+    "C1": "508",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46591",
+    "C7": "Bán buôn máy móc, thiết bị và phụ tùng máy khai khoáng, xây dựng"
+  },
+  {
+    "C1": "509",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46592",
+    "C7": "Bán buôn máy móc, thiết bị điện, vật liệu điện (máy phát điện, động cơ điện, dây điện và thiết bị khác dùng trong mạch điện)"
+  },
+  {
+    "C1": "510",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46593",
+    "C7": "Bán buôn máy móc, thiết bị và phụ tùng máy dệt, may, da giày"
+  },
+  {
+    "C1": "511",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46594",
+    "C7": "Bán buôn máy móc, thiết bị và phụ tùng máy văn phòng (trừ máy vi tính và thiết bị ngoại vi)"
+  },
+  {
+    "C1": "512",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46595",
+    "C7": "Bán buôn máy móc, thiết bị y tế"
+  },
+  {
+    "C1": "513",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46599",
+    "C7": "Bán buôn máy móc, thiết bị và phụ tùng máy khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "514",
+    "C2": null,
+    "C3": null,
+    "C4": "466",
+    "C5": null,
+    "C6": null,
+    "C7": "Bán buôn chuyên doanh khác"
+  },
+  {
+    "C1": "515",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4661",
+    "C6": null,
+    "C7": "Bán buôn nhiên liệu rắn, lỏng, khí và các sản phẩm liên quan"
+  },
+  {
+    "C1": "516",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46611",
+    "C7": "Bán buôn than đá và nhiên liệu rắn khác"
+  },
+  {
+    "C1": "517",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46612",
+    "C7": "Bán buôn dầu thô"
+  },
+  {
+    "C1": "518",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46613",
+    "C7": "Bán buôn xăng dầu và các sản phẩm liên quan"
+  },
+  {
+    "C1": "519",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46614",
+    "C7": "Bán buôn khí đốt và các sản phẩm liên quan"
+  },
+  {
+    "C1": "520",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4662",
+    "C6": null,
+    "C7": "Bán buôn kim loại và quặng kim loại"
+  },
+  {
+    "C1": "521",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46621",
+    "C7": "Bán buôn quặng kim loại"
+  },
+  {
+    "C1": "522",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46622",
+    "C7": "Bán buôn sắt, thép"
+  },
+  {
+    "C1": "523",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46623",
+    "C7": "Bán buôn kim loại khác"
+  },
+  {
+    "C1": "524",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46624",
+    "C7": "Bán buôn vàng, bạc và kim loại quý khác"
+  },
+  {
+    "C1": "525",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4663",
+    "C6": null,
+    "C7": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng"
+  },
+  {
+    "C1": "526",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46631",
+    "C7": "Bán buôn tre, nứa, gỗ cây và gỗ chế biến"
+  },
+  {
+    "C1": "527",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46632",
+    "C7": "Bán buôn xi măng"
+  },
+  {
+    "C1": "528",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46633",
+    "C7": "Bán buôn gạch xây, ngói, đá, cát, sỏi"
+  },
+  {
+    "C1": "529",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46634",
+    "C7": "Bán buôn kính xây dựng"
+  },
+  {
+    "C1": "530",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46635",
+    "C7": "Bán buôn sơn, vécni"
+  },
+  {
+    "C1": "531",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46636",
+    "C7": "Bán buôn gạch ốp lát và thiết bị vệ sinh"
+  },
+  {
+    "C1": "532",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46637",
+    "C7": "Bán buôn đồ ngũ kim"
+  },
+  {
+    "C1": "533",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46639",
+    "C7": "Bán buôn vật liệu, thiết bị lắp đặt khác trong xây dựng"
+  },
+  {
+    "C1": "534",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4669",
+    "C6": null,
+    "C7": "Bán buôn chuyên doanh khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "535",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46691",
+    "C7": "Bán buôn phân bón, thuốc trừ sâu và hóa chất khác sử dụng trong nông nghiệp"
+  },
+  {
+    "C1": "536",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46692",
+    "C7": "Bán buôn hóa chất khác (trừ loại sử dụng trong nông nghiệp)"
+  },
+  {
+    "C1": "537",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46693",
+    "C7": "Bán buôn chất dẻo dạng nguyên sinh"
+  },
+  {
+    "C1": "538",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46694",
+    "C7": "Bán buôn cao su"
+  },
+  {
+    "C1": "539",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46695",
+    "C7": "Bán buôn tơ, xơ, sợi dệt"
+  },
+  {
+    "C1": "540",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46696",
+    "C7": "Bán buôn phụ liệu may mặc và giày dép"
+  },
+  {
+    "C1": "541",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46697",
+    "C7": "Bán buôn phế liệu, phế thải kim loại, phi kim loại"
+  },
+  {
+    "C1": "542",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "46699",
+    "C7": "Bán buôn chuyên doanh khác còn lại chưa được phân vào đâu"
+  },
+  {
+    "C1": "543",
+    "C2": null,
+    "C3": null,
+    "C4": "469",
+    "C5": "4690",
+    "C6": "46900",
+    "C7": "Bán buôn tổng hợp"
+  },
+  {
+    "C1": "544",
+    "C2": null,
+    "C3": "47",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Bán lẻ (trừ ô tô, mô tô, xe máy và xe có động cơ khác)"
+  },
+  {
+    "C1": "545",
+    "C2": null,
+    "C3": null,
+    "C4": "471",
+    "C5": null,
+    "C6": null,
+    "C7": "Bán lẻ trong các cửa hàng kinh doanh tổng hợp"
+  },
+  {
+    "C1": "546",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4711",
+    "C6": null,
+    "C7": "Bán lẻ lương thực, thực phẩm, đồ uống, thuốc lá, thuốc lào chiếm tỷ trọng lớn trong các cửa hàng kinh doanh tổng hợp"
+  },
+  {
+    "C1": "547",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47111",
+    "C7": "Bán lẻ trong siêu thị (Supermarket)"
+  },
+  {
+    "C1": "548",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47112",
+    "C7": "Bán lẻ trong cửa hàng tiện lợi (Minimarket)"
+  },
+  {
+    "C1": "549",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47119",
+    "C7": "Bán lẻ trong cửa hàng kinh doanh tổng hợp khác"
+  },
+  {
+    "C1": "550",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4719",
+    "C6": null,
+    "C7": "Bán lẻ khác trong các cửa hàng kinh doanh tổng hợp"
+  },
+  {
+    "C1": "551",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47191",
+    "C7": "Bán lẻ trong siêu thị (Supermarket)"
+  },
+  {
+    "C1": "552",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47192",
+    "C7": "Bán lẻ trong cửa hàng tiện lợi (Minimarket)"
+  },
+  {
+    "C1": "553",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47199",
+    "C7": "Bán lẻ trong cửa hàng kinh doanh tổng hợp khác"
+  },
+  {
+    "C1": "554",
+    "C2": null,
+    "C3": null,
+    "C4": "472",
+    "C5": null,
+    "C6": null,
+    "C7": "Bán lẻ lương thực, thực phẩm, đồ uống hoặc thuốc lá, thuốc lào trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "555",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4721",
+    "C6": "47210",
+    "C7": "Bán lẻ lương thực trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "556",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4722",
+    "C6": null,
+    "C7": "Bán lẻ thực phẩm trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "557",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47221",
+    "C7": "Bán lẻ thịt và các sản phẩm thịt trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "558",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47222",
+    "C7": "Bán lẻ thủy sản trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "559",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47223",
+    "C7": "Bán lẻ rau, quả trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "560",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47224",
+    "C7": "Bán lẻ đường, sữa và các sản phẩm sữa, bánh, mứt, kẹo và các sản phẩm chế biến từ ngũ cốc, bột, tinh bột trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "561",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47229",
+    "C7": "Bán lẻ thực phẩm khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "562",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4723",
+    "C6": "47230",
+    "C7": "Bán lẻ đồ uống trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "563",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4724",
+    "C6": "47240",
+    "C7": "Bán lẻ sản phẩm thuốc lá, thuốc lào trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "564",
+    "C2": null,
+    "C3": null,
+    "C4": "473",
+    "C5": "4730",
+    "C6": "47300",
+    "C7": "Bán lẻ nhiên liệu động cơ trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "565",
+    "C2": null,
+    "C3": null,
+    "C4": "474",
+    "C5": null,
+    "C6": null,
+    "C7": "Bán lẻ thiết bị công nghệ thông tin liên lạc trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "566",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4741",
+    "C6": null,
+    "C7": "Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm và thiết bị viễn thông trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "567",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47411",
+    "C7": "Bán lẻ máy vi tính, thiết bị ngoại vi, phần mềm trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "568",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47412",
+    "C7": "Bán lẻ thiết bị viễn thông trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "569",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4742",
+    "C6": "47420",
+    "C7": "Bán lẻ thiết bị nghe nhìn trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "570",
+    "C2": null,
+    "C3": null,
+    "C4": "475",
+    "C5": null,
+    "C6": null,
+    "C7": "Bán lẻ thiết bị gia đình khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "571",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4751",
+    "C6": null,
+    "C7": "Bán lẻ vải, len, sợi, chỉ khâu và hàng dệt khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "572",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47511",
+    "C7": "Bán lẻ vải trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "573",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47519",
+    "C7": "Bán lẻ len, sợi, chỉ khâu và hàng dệt khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "574",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4752",
+    "C6": null,
+    "C7": "Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "575",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47521",
+    "C7": "Bán lẻ đồ ngũ kim trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "576",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47522",
+    "C7": "Bán lẻ sơn, màu, véc ni trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "577",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47523",
+    "C7": "Bán lẻ kính xây dựng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "578",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47524",
+    "C7": "Bán lẻ xi măng, gạch xây, ngói, đá, cát sỏi, sắt thép và vật liệu xây dựng khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "579",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47525",
+    "C7": "Bán lẻ gạch ốp lát, thiết bị vệ sinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "580",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47529",
+    "C7": "Bán lẻ thiết bị lắp đặt khác trong xây dựng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "581",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4753",
+    "C6": "47530",
+    "C7": "Bán lẻ thảm, đệm, chăn, màn, rèm, vật liệu phủ tường và sàn trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "582",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4759",
+    "C6": null,
+    "C7": "Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "583",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47591",
+    "C7": "Bán lẻ đồ điện gia dụng, đèn và bộ đèn điện trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "584",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47592",
+    "C7": "Bán lẻ giường, tủ, bàn, ghế và đồ dùng nội thất tương tự trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "585",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47593",
+    "C7": "Bán lẻ đồ dùng gia đình bằng gốm, sứ, thủy tinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "586",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47594",
+    "C7": "Bán lẻ nhạc cụ trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "587",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47599",
+    "C7": "Bán lẻ đồ dùng gia đình khác còn lại chưa được phân vào đâu trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "588",
+    "C2": null,
+    "C3": null,
+    "C4": "476",
+    "C5": null,
+    "C6": null,
+    "C7": "Bán lẻ hàng văn hóa, giải trí trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "589",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4761",
+    "C6": "47610",
+    "C7": "Bán lẻ sách, báo, tạp chí văn phòng phẩm trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "590",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4762",
+    "C6": "47620",
+    "C7": "Bán lẻ băng đĩa âm thanh, hình ảnh (kể cả băng, đĩa trắng) trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "591",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4763",
+    "C6": "47630",
+    "C7": "Bán lẻ thiết bị, dụng cụ thể dục, thể thao trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "592",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4764",
+    "C6": "47640",
+    "C7": "Bán lẻ trò chơi, đồ chơi trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "593",
+    "C2": null,
+    "C3": null,
+    "C4": "477",
+    "C5": null,
+    "C6": null,
+    "C7": "Bán lẻ hàng hóa khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "594",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4771",
+    "C6": null,
+    "C7": "Bán lẻ hàng may mặc, giày dép, hàng da và giả da trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "595",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47711",
+    "C7": "Bán lẻ hàng may mặc trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "596",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47712",
+    "C7": "Bán lẻ giày dép trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "597",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47713",
+    "C7": "Bán lẻ cặp, túi, ví, hàng da và giả da khác trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "598",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4772",
+    "C6": null,
+    "C7": "Bán lẻ thuốc, dụng cụ y tế, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "599",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47721",
+    "C7": "Bán lẻ dược phẩm, dụng cụ y tế trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "600",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47722",
+    "C7": "Bán lẻ nước hoa, mỹ phẩm và vật phẩm vệ sinh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "601",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47723",
+    "C7": "Bán thuốc đông y, bán thuốc nam trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "602",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4773",
+    "C6": null,
+    "C7": "Bán lẻ hàng hóa khác mới trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "603",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47731",
+    "C7": "Bán lẻ hoa, cây cảnh, cá cảnh, chim cảnh, vật nuôi cảnh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "604",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47732",
+    "C7": "Bán lẻ vàng, bạc, đá quí và đá bán quí, đồ trang sức trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "605",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47733",
+    "C7": "Bán lẻ hàng lưu niệm, hàng đan lát, hàng thủ công mỹ nghệ trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "606",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47734",
+    "C7": "Bán lẻ tranh, ảnh và các tác phẩm nghệ thuật khác (trừ đồ cổ) trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "607",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47735",
+    "C7": "Bán lẻ dầu hoả, gas, than nhiên liệu dùng cho gia đình trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "608",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47736",
+    "C7": "Bán lẻ đồng hồ, kính mắt trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "609",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47737",
+    "C7": "Bán lẻ máy ảnh, phim ảnh và vật liệu ảnh trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "610",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47738",
+    "C7": "Bán lẻ xe đạp và phụ tùng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "611",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47739",
+    "C7": "Bán lẻ hàng hóa khác mới chưa được phân vào đâu trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "612",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4774",
+    "C6": null,
+    "C7": "Bán lẻ hàng hóa đã qua sử dụng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "613",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47741",
+    "C7": "Bán lẻ hàng may mặc đã qua sử dụng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "614",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47749",
+    "C7": "Bán lẻ hàng hóa khác đã qua sử dụng trong các cửa hàng chuyên doanh"
+  },
+  {
+    "C1": "615",
+    "C2": null,
+    "C3": null,
+    "C4": "478",
+    "C5": null,
+    "C6": null,
+    "C7": "Bán lẻ lưu động hoặc bán tại chợ"
+  },
+  {
+    "C1": "616",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4781",
+    "C6": null,
+    "C7": "Bán lẻ lương thực, thực phẩm, đồ uống, thuốc lá, thuốc lào lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "617",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47811",
+    "C7": "Bán lẻ lương thực lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "618",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47812",
+    "C7": "Bán lẻ thực phẩm khô, thực phẩm công nghiệp, đường sữa bánh kẹo lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "619",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47813",
+    "C7": "Bán lẻ đồ uống lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "620",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47814",
+    "C7": "Bán lẻ sản phẩm thuốc lá, thuốc lào lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "621",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47815",
+    "C7": "Bán lẻ thịt gia súc, gia cầm tươi sống, đông lạnh lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "622",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47816",
+    "C7": "Bán lẻ thủy sản tươi sống, đông lạnh lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "623",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47817",
+    "C7": "Bán lẻ rau quả lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "624",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47818",
+    "C7": "Bán lẻ thực phẩm chín lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "625",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47819",
+    "C7": "Bán lẻ thực phẩm loại khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "626",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4782",
+    "C6": null,
+    "C7": "Bán lẻ hàng dệt, may sẵn, giày dép lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "627",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47821",
+    "C7": "Bán lẻ hàng dệt lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "628",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47822",
+    "C7": "Bán lẻ hàng may mặc lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "629",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47823",
+    "C7": "Bán lẻ giày dép lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "630",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4783",
+    "C6": "47830",
+    "C7": "Bán lẻ thiết bị công nghệ thông tin liên lạc lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "631",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4784",
+    "C6": null,
+    "C7": "Bán lẻ thiết bị gia đình khác lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "632",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47841",
+    "C7": "Bán lẻ đồ ngũ kim, sơn, kính và thiết bị lắp đặt khác trong xây dựng lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "633",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47842",
+    "C7": "Bán lẻ thảm, đệm, chăn, màn, rèm, vật liệu phủ tường và sàn lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "634",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47843",
+    "C7": "Bán lẻ đồ điện gia dụng, giường, tủ, bàn, ghế và đồ nội thất tương tự, đèn và bộ đèn điện, đồ dùng gia đình khác chưa được phân vào đâu lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "635",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4785",
+    "C6": "47850",
+    "C7": "Bán lẻ hàng văn hóa, giải trí lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "636",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4789",
+    "C6": null,
+    "C7": "Bán lẻ hàng hóa khác lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "637",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47891",
+    "C7": "Bán lẻ mỹ phẩm và vật phẩm vệ sinh lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "638",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47892",
+    "C7": "Bán lẻ hàng gốm sứ, thủy tinh lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "639",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47893",
+    "C7": "Bán lẻ hoa tươi, cây cảnh lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "640",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47894",
+    "C7": "Bán lẻ vàng, bạc, đá quí và đá bán quí, đồ trang sức lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "641",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47895",
+    "C7": "Bán lẻ hàng lưu niệm, hàng đan lát, hàng thủ công mỹ nghệ lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "642",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47896",
+    "C7": "Bán lẻ đồng hồ, kính mắt lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "643",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47897",
+    "C7": "Bán lẻ xe đạp và phụ tùng lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "644",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47898",
+    "C7": "Bán lẻ hàng hóa đã qua sử dụng lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "645",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "47899",
+    "C7": "Bán lẻ hàng hóa khác chưa được phân vào đâu, lưu động hoặc tại chợ"
+  },
+  {
+    "C1": "646",
+    "C2": null,
+    "C3": null,
+    "C4": "479",
+    "C5": null,
+    "C6": null,
+    "C7": "Bán lẻ hình thức khác (trừ bán lẻ tại cửa hàng, lưu động hoặc tại chợ)"
+  },
+  {
+    "C1": "647",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4791",
+    "C6": "47910",
+    "C7": "Bán lẻ theo yêu cầu đặt hàng qua bưu điện hoặc internet"
+  },
+  {
+    "C1": "648",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4799",
+    "C6": "47990",
+    "C7": "Bán lẻ hình thức khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "649",
+    "C2": "H",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "VẬN TẢI KHO BÃI"
+  },
+  {
+    "C1": "650",
+    "C2": null,
+    "C3": "49",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Vận tải đường sắt, đường bộ và vận tải đường ống"
+  },
+  {
+    "C1": "651",
+    "C2": null,
+    "C3": null,
+    "C4": "491",
+    "C5": null,
+    "C6": null,
+    "C7": "Vận tải đường sắt"
+  },
+  {
+    "C1": "652",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4911",
+    "C6": "49110",
+    "C7": "Vận tải hành khách đường sắt"
+  },
+  {
+    "C1": "653",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4912",
+    "C6": "49120",
+    "C7": "Vận tải hàng hóa đường sắt"
+  },
+  {
+    "C1": "654",
+    "C2": null,
+    "C3": null,
+    "C4": "492",
+    "C5": null,
+    "C6": null,
+    "C7": "Vận tải hành khách bằng xe buýt"
+  },
+  {
+    "C1": "655",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4921",
+    "C6": "49210",
+    "C7": "Vận tải hành khách bằng xe buýt trong nội thành"
+  },
+  {
+    "C1": "656",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4922",
+    "C6": "49220",
+    "C7": "Vận tải hành khách bằng xe buýt giữa nội thành và ngoại thành, liên tỉnh"
+  },
+  {
+    "C1": "657",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4929",
+    "C6": "49290",
+    "C7": "Vận tải hành khách bằng xe buýt loại khác"
+  },
+  {
+    "C1": "658",
+    "C2": null,
+    "C3": null,
+    "C4": "493",
+    "C5": null,
+    "C6": null,
+    "C7": "Vận tải đường bộ khác"
+  },
+  {
+    "C1": "659",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4931",
+    "C6": null,
+    "C7": "Vận tải hành khách đường bộ trong nội thành, ngoại thành (trừ vận tải bằng xe buýt)"
+  },
+  {
+    "C1": "660",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "49311",
+    "C7": "Vận tải hành khách bằng hệ thống đường sắt ngầm hoặc đường sắt trên cao"
+  },
+  {
+    "C1": "661",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "49312",
+    "C7": "Vận tải hành khách bằng taxi"
+  },
+  {
+    "C1": "662",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "49313",
+    "C7": "Vận tải hành khách bằng mô tô, xe máy và xe có động cơ khác"
+  },
+  {
+    "C1": "663",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "49319",
+    "C7": "Vận tải hành khách đường bộ loại khác trong nội thành, ngoại thành (trừ xe buýt)"
+  },
+  {
+    "C1": "664",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4932",
+    "C6": null,
+    "C7": "Vận tải hành khách đường bộ khác"
+  },
+  {
+    "C1": "665",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "49321",
+    "C7": "Vận tải hành khách bằng xe khách nội tỉnh, liên tỉnh"
+  },
+  {
+    "C1": "666",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "49329",
+    "C7": "Vận tải hành khách đường bộ khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "667",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "4933",
+    "C6": null,
+    "C7": "Vận tải hàng hóa bằng đường bộ"
+  },
+  {
+    "C1": "668",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "49331",
+    "C7": "Vận tải hàng hóa bằng ô tô chuyên dụng"
+  },
+  {
+    "C1": "669",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "49332",
+    "C7": "Vận tải hàng hóa bằng ô tô loại khác (trừ ô tô chuyên dụng)"
+  },
+  {
+    "C1": "670",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "49333",
+    "C7": "Vận tải hàng hóa bằng xe có động cơ loại khác"
+  },
+  {
+    "C1": "671",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "49334",
+    "C7": "Vận tải hàng hóa bằng xe thô sơ"
+  },
+  {
+    "C1": "672",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "49339",
+    "C7": "Vận tải hàng hóa bằng phương tiện đường bộ khác"
+  },
+  {
+    "C1": "673",
+    "C2": null,
+    "C3": null,
+    "C4": "494",
+    "C5": "4940",
+    "C6": "49400",
+    "C7": "Vận tải đường ống"
+  },
+  {
+    "C1": "674",
+    "C2": null,
+    "C3": "50",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Vận tải đường thủy"
+  },
+  {
+    "C1": "675",
+    "C2": null,
+    "C3": null,
+    "C4": "501",
+    "C5": null,
+    "C6": null,
+    "C7": "Vận tải ven biển và viễn dương"
+  },
+  {
+    "C1": "676",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5011",
+    "C6": null,
+    "C7": "Vận tải hành khách ven biển và viễn dương"
+  },
+  {
+    "C1": "677",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "50111",
+    "C7": "Vận tải hành khách ven biển"
+  },
+  {
+    "C1": "678",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "50112",
+    "C7": "Vận tải hành khách viễn dương"
+  },
+  {
+    "C1": "679",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5012",
+    "C6": null,
+    "C7": "Vận tải hàng hóa ven biển và viễn dương"
+  },
+  {
+    "C1": "680",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "50121",
+    "C7": "Vận tải hàng hóa ven biển"
+  },
+  {
+    "C1": "681",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "50122",
+    "C7": "Vận tải hàng hóa viễn dương"
+  },
+  {
+    "C1": "682",
+    "C2": null,
+    "C3": null,
+    "C4": "502",
+    "C5": null,
+    "C6": null,
+    "C7": "Vận tải đường thuỷ nội địa"
+  },
+  {
+    "C1": "683",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5021",
+    "C6": null,
+    "C7": "Vận tải hành khách đường thuỷ nội địa"
+  },
+  {
+    "C1": "684",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "50211",
+    "C7": "Vận tải hành khách đường thuỷ nội địa bằng phương tiện cơ giới"
+  },
+  {
+    "C1": "685",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "50212",
+    "C7": "Vận tải hành khách đường thuỷ nội địa bằng phương tiện thô sơ"
+  },
+  {
+    "C1": "686",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5022",
+    "C6": null,
+    "C7": "Vận tải hàng hóa đường thuỷ nội địa"
+  },
+  {
+    "C1": "687",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "50221",
+    "C7": "Vận tải hàng hóa đường thuỷ nội địa bằng phương tiện cơ giới"
+  },
+  {
+    "C1": "688",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "50222",
+    "C7": "Vận tải hàng hóa đường thuỷ nội địa bằng phương tiện thô sơ"
+  },
+  {
+    "C1": "689",
+    "C2": null,
+    "C3": "51",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Vận tải hàng không"
+  },
+  {
+    "C1": "690",
+    "C2": null,
+    "C3": null,
+    "C4": "511",
+    "C5": "5110",
+    "C6": null,
+    "C7": "Vận tải hành khách hàng không"
+  },
+  {
+    "C1": "691",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "51101",
+    "C7": "Vận tải hành khách hàng không theo tuyến và lịch trình cố định"
+  },
+  {
+    "C1": "692",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "51109",
+    "C7": "Vận tải hành khách hàng không loại khác"
+  },
+  {
+    "C1": "693",
+    "C2": null,
+    "C3": null,
+    "C4": "512",
+    "C5": "5120",
+    "C6": null,
+    "C7": "Vận tải hàng hóa hàng không"
+  },
+  {
+    "C1": "694",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "51201",
+    "C7": "Vận tải hàng hóa hàng không theo tuyến và lịch trình cố định"
+  },
+  {
+    "C1": "695",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "51209",
+    "C7": "Vận tải hàng hóa hàng không loại khác"
+  },
+  {
+    "C1": "696",
+    "C2": null,
+    "C3": "52",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Kho bãi và các hoạt động hỗ trợ cho vận tải"
+  },
+  {
+    "C1": "697",
+    "C2": null,
+    "C3": null,
+    "C4": "521",
+    "C5": "5210",
+    "C6": null,
+    "C7": "Kho bãi và lưu giữ hàng hóa"
+  },
+  {
+    "C1": "698",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52101",
+    "C7": "Kho bãi và lưu giữ hàng hóa trong kho ngoại quan"
+  },
+  {
+    "C1": "699",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52102",
+    "C7": "Kho bãi và lưu giữ hàng hóa trong kho đông lạnh (trừ kho ngoại quan)"
+  },
+  {
+    "C1": "700",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52109",
+    "C7": "Kho bãi và lưu giữ hàng hóa trong kho loại khác"
+  },
+  {
+    "C1": "701",
+    "C2": null,
+    "C3": null,
+    "C4": "522",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động dịch vụ hỗ trợ cho vận tải"
+  },
+  {
+    "C1": "702",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5221",
+    "C6": "52210",
+    "C7": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường sắt"
+  },
+  {
+    "C1": "703",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5222",
+    "C6": null,
+    "C7": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường thủy"
+  },
+  {
+    "C1": "704",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52221",
+    "C7": "Hoạt động điều hành cảng biển"
+  },
+  {
+    "C1": "705",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52222",
+    "C7": "Hoạt động dịch vụ hỗ trợ liên quan đến vận tải ven biển và viễn dương"
+  },
+  {
+    "C1": "706",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52223",
+    "C7": "Hoạt động điều hành cảng đường thủy nội địa"
+  },
+  {
+    "C1": "707",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52224",
+    "C7": "Hoạt động dịch vụ hỗ trợ liên quan đến vận tải đường thủy nội địa"
+  },
+  {
+    "C1": "708",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5223",
+    "C6": null,
+    "C7": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải hàng không"
+  },
+  {
+    "C1": "709",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52231",
+    "C7": "Dịch vụ điều hành bay"
+  },
+  {
+    "C1": "710",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52232",
+    "C7": "Dịch vụ điều hành hoạt động cảng hàng không"
+  },
+  {
+    "C1": "711",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52239",
+    "C7": "Hoạt động dịch vụ hỗ trợ liên quan đến vận tải hàng không"
+  },
+  {
+    "C1": "712",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5224",
+    "C6": null,
+    "C7": "Bốc xếp hàng hóa"
+  },
+  {
+    "C1": "713",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52241",
+    "C7": "Bốc xếp hàng hóa ga đường sắt"
+  },
+  {
+    "C1": "714",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52242",
+    "C7": "Bốc xếp hàng hóa đường bộ"
+  },
+  {
+    "C1": "715",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52243",
+    "C7": "Bốc xếp hàng hóa cảng biển"
+  },
+  {
+    "C1": "716",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52244",
+    "C7": "Bốc xếp hàng hóa cảng sông"
+  },
+  {
+    "C1": "717",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52245",
+    "C7": "Bốc xếp hàng hóa cảng hàng không"
+  },
+  {
+    "C1": "718",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52249",
+    "C7": "Bốc xếp hàng hóa loại khác"
+  },
+  {
+    "C1": "719",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5225",
+    "C6": null,
+    "C7": "Hoạt động dịch vụ hỗ trợ trực tiếp cho vận tải đường bộ"
+  },
+  {
+    "C1": "720",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52251",
+    "C7": "Hoạt động điều hành bến xe"
+  },
+  {
+    "C1": "721",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52252",
+    "C7": "Hoạt động quản lý, điều hành đường cao tốc, cầu, hầm đường bộ"
+  },
+  {
+    "C1": "722",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52253",
+    "C7": "Hoạt động quản lý bãi đỗ, trông giữ phương tiện đường bộ"
+  },
+  {
+    "C1": "723",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52259",
+    "C7": "Hoạt động dịch vụ khác hỗ trợ liên quan đến vận tải đường bộ"
+  },
+  {
+    "C1": "724",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5229",
+    "C6": null,
+    "C7": "Hoạt động dịch vụ hỗ trợ khác liên quan đến vận tải"
+  },
+  {
+    "C1": "725",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52291",
+    "C7": "Dịch vụ đại lý, giao nhận vận chuyển"
+  },
+  {
+    "C1": "726",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52292",
+    "C7": "Logistics"
+  },
+  {
+    "C1": "727",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "52299",
+    "C7": "Dịch vụ hỗ trợ khác liên quan đến vận tải chưa được phân vào đâu"
+  },
+  {
+    "C1": "728",
+    "C2": null,
+    "C3": "53",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Bưu chính và chuyển phát"
+  },
+  {
+    "C1": "729",
+    "C2": null,
+    "C3": null,
+    "C4": "531",
+    "C5": "5310",
+    "C6": "53100",
+    "C7": "Bưu chính"
+  },
+  {
+    "C1": "730",
+    "C2": null,
+    "C3": null,
+    "C4": "532",
+    "C5": "5320",
+    "C6": "53200",
+    "C7": "Chuyển phát"
+  },
+  {
+    "C1": "731",
+    "C2": "I",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "DỊCH VỤ LƯU TRÚ VÀ ĂN UỐNG"
+  },
+  {
+    "C1": "732",
+    "C2": null,
+    "C3": "55",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Dịch vụ lưu trú"
+  },
+  {
+    "C1": "733",
+    "C2": null,
+    "C3": null,
+    "C4": "551",
+    "C5": "5510",
+    "C6": null,
+    "C7": "Dịch vụ lưu trú ngắn ngày"
+  },
+  {
+    "C1": "734",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "55101",
+    "C7": "Khách sạn"
+  },
+  {
+    "C1": "735",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "55102",
+    "C7": "Biệt thự hoặc căn hộ kinh doanh dịch vụ lưu trú ngắn ngày"
+  },
+  {
+    "C1": "736",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "55103",
+    "C7": "Nhà khách, nhà nghỉ kinh doanh dịch vụ lưu trú ngắn ngày"
+  },
+  {
+    "C1": "737",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "55104",
+    "C7": "Nhà trọ, phòng trọ và các cơ sở lưu trú ngắn ngày tương tự"
+  },
+  {
+    "C1": "738",
+    "C2": null,
+    "C3": null,
+    "C4": "559",
+    "C5": "5590",
+    "C6": null,
+    "C7": "Cơ sở lưu trú khác"
+  },
+  {
+    "C1": "739",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "55901",
+    "C7": "Ký túc xá học sinh, sinh viên"
+  },
+  {
+    "C1": "740",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "55902",
+    "C7": "Chỗ nghỉ trọ trên xe lưu động, lều quán, trại dùng để nghỉ tạm"
+  },
+  {
+    "C1": "741",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "55909",
+    "C7": "Cơ sở lưu trú khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "742",
+    "C2": null,
+    "C3": "56",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Dịch vụ ăn uống"
+  },
+  {
+    "C1": "743",
+    "C2": null,
+    "C3": null,
+    "C4": "561",
+    "C5": "5610",
+    "C6": null,
+    "C7": "Nhà hàng và các dịch vụ ăn uống phục vụ lưu động"
+  },
+  {
+    "C1": "744",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "56101",
+    "C7": "Nhà hàng, quán ăn, hàng ăn uống (trừ cửa hàng ăn uống thuộc chuỗi cửa hàng ăn nhanh)"
+  },
+  {
+    "C1": "745",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "56102",
+    "C7": "Cửa hàng ăn uống thuộc chuỗi cửa hàng ăn nhanh"
+  },
+  {
+    "C1": "746",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "56109",
+    "C7": "Dịch vụ ăn uống phục vụ lưu động khác"
+  },
+  {
+    "C1": "747",
+    "C2": null,
+    "C3": null,
+    "C4": "562",
+    "C5": null,
+    "C6": null,
+    "C7": "Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên và dịch vụ ăn uống khác"
+  },
+  {
+    "C1": "748",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5621",
+    "C6": "56210",
+    "C7": "Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên với khách hàng"
+  },
+  {
+    "C1": "749",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5629",
+    "C6": "56290",
+    "C7": "Dịch vụ ăn uống khác"
+  },
+  {
+    "C1": "750",
+    "C2": null,
+    "C3": null,
+    "C4": "563",
+    "C5": "5630",
+    "C6": null,
+    "C7": "Dịch vụ phục vụ đồ uống"
+  },
+  {
+    "C1": "751",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "56301",
+    "C7": "Quán rượu, bia, quầy bar"
+  },
+  {
+    "C1": "752",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "56302",
+    "C7": "Quán cà phê, giải khát"
+  },
+  {
+    "C1": "753",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "56309",
+    "C7": "Dịch vụ phục vụ đồ uống khác"
+  },
+  {
+    "C1": "754",
+    "C2": "J",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "THÔNG TIN VÀ TRUYỀN THÔNG"
+  },
+  {
+    "C1": "755",
+    "C2": null,
+    "C3": "58",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động xuất bản"
+  },
+  {
+    "C1": "756",
+    "C2": null,
+    "C3": null,
+    "C4": "581",
+    "C5": null,
+    "C6": null,
+    "C7": "Xuất bản sách, ấn phẩm định kỳ và các hoạt động xuất bản khác"
+  },
+  {
+    "C1": "757",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5811",
+    "C6": null,
+    "C7": "Xuất bản sách"
+  },
+  {
+    "C1": "758",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "58111",
+    "C7": "Xuất bản sách trực tuyến"
+  },
+  {
+    "C1": "759",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "58112",
+    "C7": "Xuất bản sách khác"
+  },
+  {
+    "C1": "760",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5812",
+    "C6": null,
+    "C7": "Xuất bản các danh mục chỉ dẫn và địa chỉ"
+  },
+  {
+    "C1": "761",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "58121",
+    "C7": "Xuất bản các danh mục chỉ dẫn và địa chỉ trực tuyến"
+  },
+  {
+    "C1": "762",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "58122",
+    "C7": "Xuất bản các danh mục chỉ dẫn và địa chỉ khác"
+  },
+  {
+    "C1": "763",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5813",
+    "C6": null,
+    "C7": "Xuất bản báo, tạp chí và các ấn phẩm định kỳ"
+  },
+  {
+    "C1": "764",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "58131",
+    "C7": "Xuất bản báo, tạp chí và các ấn phẩm định kỳ trực tuyến"
+  },
+  {
+    "C1": "765",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "58132",
+    "C7": "Xuất bản báo, tạp chí và các ấn phẩm định kỳ khác"
+  },
+  {
+    "C1": "766",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5819",
+    "C6": null,
+    "C7": "Hoạt động xuất bản khác"
+  },
+  {
+    "C1": "767",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "58191",
+    "C7": "Hoạt động xuất bản trực tuyến khác"
+  },
+  {
+    "C1": "768",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "58192",
+    "C7": "Hoạt động xuất bản khác"
+  },
+  {
+    "C1": "769",
+    "C2": null,
+    "C3": null,
+    "C4": "582",
+    "C5": "5820",
+    "C6": "58200",
+    "C7": "Xuất bản phần mềm"
+  },
+  {
+    "C1": "770",
+    "C2": null,
+    "C3": "59",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động điện ảnh, sản xuất chương trình truyền hình, ghi âm và xuất bản âm nhạc"
+  },
+  {
+    "C1": "771",
+    "C2": null,
+    "C3": null,
+    "C4": "591",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động điện ảnh và sản xuất chương trình truyền hình"
+  },
+  {
+    "C1": "772",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5911",
+    "C6": null,
+    "C7": "Hoạt động sản xuất phim điện ảnh, phim video và chương trình truyền hình"
+  },
+  {
+    "C1": "773",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "59111",
+    "C7": "Hoạt động sản xuất phim điện ảnh"
+  },
+  {
+    "C1": "774",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "59112",
+    "C7": "Hoạt động sản xuất phim video"
+  },
+  {
+    "C1": "775",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "59113",
+    "C7": "Hoạt động sản xuất chương trình truyền hình"
+  },
+  {
+    "C1": "776",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5912",
+    "C6": "59120",
+    "C7": "Hoạt động hậu kỳ"
+  },
+  {
+    "C1": "777",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5913",
+    "C6": "59130",
+    "C7": "Hoạt động phát hành phim điện ảnh, phim video và chương trình truyền hình"
+  },
+  {
+    "C1": "778",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "5914",
+    "C6": null,
+    "C7": "Hoạt động chiếu phim"
+  },
+  {
+    "C1": "779",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "59141",
+    "C7": "Hoạt động chiếu phim cố định"
+  },
+  {
+    "C1": "780",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "59142",
+    "C7": "Hoạt động chiếu phim lưu động"
+  },
+  {
+    "C1": "781",
+    "C2": null,
+    "C3": null,
+    "C4": "592",
+    "C5": "5920",
+    "C6": "59200",
+    "C7": "Hoạt động ghi âm và xuất bản âm nhạc"
+  },
+  {
+    "C1": "782",
+    "C2": null,
+    "C3": "60",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động phát thanh, truyền hình"
+  },
+  {
+    "C1": "783",
+    "C2": null,
+    "C3": null,
+    "C4": "601",
+    "C5": "6010",
+    "C6": "60100",
+    "C7": "Hoạt động phát thanh"
+  },
+  {
+    "C1": "784",
+    "C2": null,
+    "C3": null,
+    "C4": "602",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động truyền hình và cung cấp chương trình thuê bao"
+  },
+  {
+    "C1": "785",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6021",
+    "C6": "60210",
+    "C7": "Hoạt động truyền hình"
+  },
+  {
+    "C1": "786",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6022",
+    "C6": "60220",
+    "C7": "Chương trình cáp, vệ tinh và các chương trình thuê bao khác"
+  },
+  {
+    "C1": "787",
+    "C2": null,
+    "C3": "61",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Viễn thông"
+  },
+  {
+    "C1": "788",
+    "C2": null,
+    "C3": null,
+    "C4": "611",
+    "C5": "6110",
+    "C6": null,
+    "C7": "Hoạt động viễn thông có dây"
+  },
+  {
+    "C1": "789",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "61101",
+    "C7": "Hoạt động cung cấp trực tiếp dịch vụ viễn thông có dây"
+  },
+  {
+    "C1": "790",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "61102",
+    "C7": "Hoạt động cung cấp dịch vụ viễn thông có dây sử dụng quyền truy cập hạ tầng viễn thông của đơn vị khác"
+  },
+  {
+    "C1": "791",
+    "C2": null,
+    "C3": null,
+    "C4": "612",
+    "C5": "6120",
+    "C6": null,
+    "C7": "Hoạt động viễn thông không dây"
+  },
+  {
+    "C1": "792",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "61201",
+    "C7": "Hoạt động cung cấp trực tiếp dịch vụ viễn thông không dây"
+  },
+  {
+    "C1": "793",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "61202",
+    "C7": "Hoạt động cung cấp dịch vụ viễn thông không dây sử dụng quyền truy cập hạ tầng viễn thông của đơn vị khác"
+  },
+  {
+    "C1": "794",
+    "C2": null,
+    "C3": null,
+    "C4": "613",
+    "C5": "6130",
+    "C6": "61300",
+    "C7": "Hoạt động viễn thông vệ tinh"
+  },
+  {
+    "C1": "795",
+    "C2": null,
+    "C3": null,
+    "C4": "619",
+    "C5": "6190",
+    "C6": null,
+    "C7": "Hoạt động viễn thông khác"
+  },
+  {
+    "C1": "796",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "61901",
+    "C7": "Hoạt động của các điểm truy cập internet"
+  },
+  {
+    "C1": "797",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "61909",
+    "C7": "Hoạt động viễn thông khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "798",
+    "C2": null,
+    "C3": "62",
+    "C4": "620",
+    "C5": null,
+    "C6": null,
+    "C7": "Lập trình máy vi tính, dịch vụ tư vấn và các hoạt động khác liên quan đến máy vi tính"
+  },
+  {
+    "C1": "799",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6201",
+    "C6": "62010",
+    "C7": "Lập trình máy vi tính"
+  },
+  {
+    "C1": "800",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6202",
+    "C6": "62020",
+    "C7": "Tư vấn máy vi tính và quản trị hệ thống máy vi tính"
+  },
+  {
+    "C1": "801",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6209",
+    "C6": "62090",
+    "C7": "Hoạt động dịch vụ công nghệ thông tin và dịch vụ khác liên quan đến máy vi tính"
+  },
+  {
+    "C1": "802",
+    "C2": null,
+    "C3": "63",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động dịch vụ thông tin"
+  },
+  {
+    "C1": "803",
+    "C2": null,
+    "C3": null,
+    "C4": "631",
+    "C5": null,
+    "C6": null,
+    "C7": "Xử lý dữ liệu, cho thuê và các hoạt động liên quan; cổng thông tin"
+  },
+  {
+    "C1": "804",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6311",
+    "C6": "63110",
+    "C7": "Xử lý dữ liệu, cho thuê và các hoạt động liên quan"
+  },
+  {
+    "C1": "805",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6312",
+    "C6": "63120",
+    "C7": "Cổng thông tin"
+  },
+  {
+    "C1": "806",
+    "C2": null,
+    "C3": null,
+    "C4": "639",
+    "C5": null,
+    "C6": null,
+    "C7": "Dịch vụ thông tin khác"
+  },
+  {
+    "C1": "807",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6391",
+    "C6": "63910",
+    "C7": "Hoạt động thông tấn"
+  },
+  {
+    "C1": "808",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6399",
+    "C6": "63990",
+    "C7": "Dịch vụ thông tin khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "809",
+    "C2": "K",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "HOẠT ĐỘNG TÀI CHÍNH, NGÂN HÀNG VÀ BẢO HIỂM"
+  },
+  {
+    "C1": "810",
+    "C2": null,
+    "C3": "64",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động dịch vụ tài chính (trừ bảo hiểm và bảo hiểm xã hội)"
+  },
+  {
+    "C1": "811",
+    "C2": null,
+    "C3": null,
+    "C4": "641",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động trung gian tiền tệ"
+  },
+  {
+    "C1": "812",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6411",
+    "C6": "64110",
+    "C7": "Hoạt động ngân hàng trung ương"
+  },
+  {
+    "C1": "813",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6419",
+    "C6": "64190",
+    "C7": "Hoạt động trung gian tiền tệ khác"
+  },
+  {
+    "C1": "814",
+    "C2": null,
+    "C3": null,
+    "C4": "642",
+    "C5": "6420",
+    "C6": "64200",
+    "C7": "Hoạt động công ty nắm giữ tài sản"
+  },
+  {
+    "C1": "815",
+    "C2": null,
+    "C3": null,
+    "C4": "643",
+    "C5": "6430",
+    "C6": "64300",
+    "C7": "Hoạt động quỹ tín thác, các quỹ và các tổ chức tài chính khác"
+  },
+  {
+    "C1": "816",
+    "C2": null,
+    "C3": null,
+    "C4": "649",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động dịch vụ tài chính khác (trừ bảo hiểm và bảo hiểm xã hội)"
+  },
+  {
+    "C1": "817",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6491",
+    "C6": "64910",
+    "C7": "Hoạt động cho thuê tài chính"
+  },
+  {
+    "C1": "818",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6492",
+    "C6": "64920",
+    "C7": "Hoạt động cấp tín dụng khác"
+  },
+  {
+    "C1": "819",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6499",
+    "C6": "64990",
+    "C7": "Hoạt động dịch vụ tài chính khác chưa được phân vào đâu (trừ bảo hiểm và bảo hiểm xã hội)"
+  },
+  {
+    "C1": "820",
+    "C2": null,
+    "C3": "65",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Bảo hiểm, tái bảo hiểm và bảo hiểm xã hội (trừ bảo đảm xã hội bắt buộc)"
+  },
+  {
+    "C1": "821",
+    "C2": null,
+    "C3": null,
+    "C4": "651",
+    "C5": null,
+    "C6": null,
+    "C7": "Bảo hiểm"
+  },
+  {
+    "C1": "822",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6511",
+    "C6": "65110",
+    "C7": "Bảo hiểm nhân thọ"
+  },
+  {
+    "C1": "823",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6512",
+    "C6": "65120",
+    "C7": "Bảo hiểm phi nhân thọ"
+  },
+  {
+    "C1": "824",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6513",
+    "C6": null,
+    "C7": "Bảo hiểm sức khỏe"
+  },
+  {
+    "C1": "825",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "65131",
+    "C7": "Bảo hiểm y tế"
+  },
+  {
+    "C1": "826",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "65139",
+    "C7": "Bảo hiểm sức khỏe khác"
+  },
+  {
+    "C1": "827",
+    "C2": null,
+    "C3": null,
+    "C4": "652",
+    "C5": "6520",
+    "C6": "65200",
+    "C7": "Tái bảo hiểm"
+  },
+  {
+    "C1": "828",
+    "C2": null,
+    "C3": null,
+    "C4": "653",
+    "C5": "6530",
+    "C6": "65300",
+    "C7": "Bảo hiểm xã hội"
+  },
+  {
+    "C1": "829",
+    "C2": null,
+    "C3": "66",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động tài chính khác"
+  },
+  {
+    "C1": "830",
+    "C2": null,
+    "C3": null,
+    "C4": "661",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động hỗ trợ dịch vụ tài chính (trừ bảo hiểm và bảo hiểm xã hội)"
+  },
+  {
+    "C1": "831",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6611",
+    "C6": "66110",
+    "C7": "Quản lý thị trường tài chính"
+  },
+  {
+    "C1": "832",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6612",
+    "C6": "66120",
+    "C7": "Môi giới hợp đồng hàng hoá và chứng khoán"
+  },
+  {
+    "C1": "833",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6619",
+    "C6": "66190",
+    "C7": "Hoạt động hỗ trợ dịch vụ tài chính chưa được phân vào đâu"
+  },
+  {
+    "C1": "834",
+    "C2": null,
+    "C3": null,
+    "C4": "662",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động hỗ trợ bảo hiểm và bảo hiểm xã hội"
+  },
+  {
+    "C1": "835",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6621",
+    "C6": "66210",
+    "C7": "Đánh giá rủi ro và thiệt hại"
+  },
+  {
+    "C1": "836",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6622",
+    "C6": "66220",
+    "C7": "Hoạt động của đại lý và môi giới bảo hiểm"
+  },
+  {
+    "C1": "837",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "6629",
+    "C6": "66290",
+    "C7": "Hoạt động hỗ trợ khác cho bảo hiểm và bảo hiểm xã hội"
+  },
+  {
+    "C1": "838",
+    "C2": null,
+    "C3": null,
+    "C4": "663",
+    "C5": "6630",
+    "C6": "66300",
+    "C7": "Hoạt động quản lý quỹ"
+  },
+  {
+    "C1": "839",
+    "C2": "L",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "HOẠT ĐỘNG KINH DOANH BẤT ĐỘNG SẢN"
+  },
+  {
+    "C1": "840",
+    "C2": null,
+    "C3": "68",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động kinh doanh bất động sản"
+  },
+  {
+    "C1": "841",
+    "C2": null,
+    "C3": null,
+    "C4": "681",
+    "C5": "6810",
+    "C6": null,
+    "C7": "Kinh doanh bất động sản, quyền sử dụng đất thuộc chủ sở hữu, chủ sử dụng hoặc đi thuê"
+  },
+  {
+    "C1": "842",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "68101",
+    "C7": "Mua, bán nhà ở và quyền sử dụng đất ở"
+  },
+  {
+    "C1": "843",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "68102",
+    "C7": "Mua, bán nhà và quyền sử dụng đất không để ở"
+  },
+  {
+    "C1": "844",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "68103",
+    "C7": "Cho thuê, điều hành, quản lý nhà và đất ở"
+  },
+  {
+    "C1": "845",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "68104",
+    "C7": "Cho thuê, điều hành, quản lý nhà và đất không để ở"
+  },
+  {
+    "C1": "846",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "68109",
+    "C7": "Kinh doanh bất động sản khác"
+  },
+  {
+    "C1": "847",
+    "C2": null,
+    "C3": null,
+    "C4": "682",
+    "C5": "6820",
+    "C6": null,
+    "C7": "Tư vấn, môi giới, đấu giá bất động sản, đấu giá quyền sử dụng đất"
+  },
+  {
+    "C1": "848",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "68201",
+    "C7": "Tư vấn, môi giới bất động sản, quyền sử dụng đất"
+  },
+  {
+    "C1": "849",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "68202",
+    "C7": "Đấu giá bất động sản, quyền sử dụng đất"
+  },
+  {
+    "C1": "850",
+    "C2": "M",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "HOẠT ĐỘNG CHUYÊN MÔN, KHOA HỌC VÀ CÔNG NGHỆ"
+  },
+  {
+    "C1": "851",
+    "C2": null,
+    "C3": "69",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động pháp luật, kế toán và kiểm toán"
+  },
+  {
+    "C1": "852",
+    "C2": null,
+    "C3": null,
+    "C4": "691",
+    "C5": "6910",
+    "C6": null,
+    "C7": "Hoạt động pháp luật"
+  },
+  {
+    "C1": "853",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "69101",
+    "C7": "Hoạt động đại diện, tư vấn pháp luật"
+  },
+  {
+    "C1": "854",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "69102",
+    "C7": "Hướng dẫn chung và tư vấn, chuẩn bị các tài liệu pháp lý"
+  },
+  {
+    "C1": "855",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "69109",
+    "C7": "Hoạt động pháp luật khác"
+  },
+  {
+    "C1": "856",
+    "C2": null,
+    "C3": null,
+    "C4": "692",
+    "C5": "6920",
+    "C6": "69200",
+    "C7": "Hoạt động liên quan đến kế toán, kiểm toán và tư vấn về thuế"
+  },
+  {
+    "C1": "857",
+    "C2": null,
+    "C3": "70",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động của trụ sở văn phòng; hoạt động tư vấn quản lý"
+  },
+  {
+    "C1": "858",
+    "C2": null,
+    "C3": null,
+    "C4": "701",
+    "C5": "7010",
+    "C6": "70100",
+    "C7": "Hoạt động của trụ sở văn phòng"
+  },
+  {
+    "C1": "859",
+    "C2": null,
+    "C3": null,
+    "C4": "702",
+    "C5": "7020",
+    "C6": "70200",
+    "C7": "Hoạt động tư vấn quản lý"
+  },
+  {
+    "C1": "860",
+    "C2": null,
+    "C3": "71",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động kiến trúc; kiểm tra và phân tích kỹ thuật"
+  },
+  {
+    "C1": "861",
+    "C2": null,
+    "C3": null,
+    "C4": "711",
+    "C5": "7110",
+    "C6": null,
+    "C7": "Hoạt động kiến trúc và tư vấn kỹ thuật có liên quan"
+  },
+  {
+    "C1": "862",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "71101",
+    "C7": "Hoạt động kiến trúc"
+  },
+  {
+    "C1": "863",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "71102",
+    "C7": "Hoạt động đo đạc và bản đồ"
+  },
+  {
+    "C1": "864",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "71103",
+    "C7": "Hoạt động thăm dò địa chất, nguồn nước"
+  },
+  {
+    "C1": "865",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "71109",
+    "C7": "Hoạt động tư vấn kỹ thuật có liên quan khác"
+  },
+  {
+    "C1": "866",
+    "C2": null,
+    "C3": null,
+    "C4": "712",
+    "C5": "7120",
+    "C6": "71200",
+    "C7": "Kiểm tra và phân tích kỹ thuật"
+  },
+  {
+    "C1": "867",
+    "C2": null,
+    "C3": "72",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Nghiên cứu khoa học và phát triển công nghệ"
+  },
+  {
+    "C1": "868",
+    "C2": null,
+    "C3": null,
+    "C4": "721",
+    "C5": null,
+    "C6": null,
+    "C7": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học tự nhiên và kỹ thuật"
+  },
+  {
+    "C1": "869",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "7211",
+    "C6": "72110",
+    "C7": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học tự nhiên"
+  },
+  {
+    "C1": "870",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "7212",
+    "C6": "72120",
+    "C7": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học kỹ thuật và công nghệ"
+  },
+  {
+    "C1": "871",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "7213",
+    "C6": "72130",
+    "C7": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học y, dược"
+  },
+  {
+    "C1": "872",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "7214",
+    "C6": "72140",
+    "C7": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học nông nghiệp"
+  },
+  {
+    "C1": "873",
+    "C2": null,
+    "C3": null,
+    "C4": "722",
+    "C5": null,
+    "C6": null,
+    "C7": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học xã hội và nhân văn"
+  },
+  {
+    "C1": "874",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "7221",
+    "C6": "72210",
+    "C7": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học xã hội"
+  },
+  {
+    "C1": "875",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "7222",
+    "C6": "72220",
+    "C7": "Nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực khoa học nhân văn"
+  },
+  {
+    "C1": "876",
+    "C2": null,
+    "C3": "73",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Quảng cáo và nghiên cứu thị trường"
+  },
+  {
+    "C1": "877",
+    "C2": null,
+    "C3": null,
+    "C4": "731",
+    "C5": "7310",
+    "C6": "73100",
+    "C7": "Quảng cáo"
+  },
+  {
+    "C1": "878",
+    "C2": null,
+    "C3": null,
+    "C4": "732",
+    "C5": "7320",
+    "C6": "73200",
+    "C7": "Nghiên cứu thị trường và thăm dò dư luận"
+  },
+  {
+    "C1": "879",
+    "C2": null,
+    "C3": "74",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động chuyên môn, khoa học và công nghệ khác"
+  },
+  {
+    "C1": "880",
+    "C2": null,
+    "C3": null,
+    "C4": "741",
+    "C5": "7410",
+    "C6": "74100",
+    "C7": "Hoạt động thiết kế chuyên dụng"
+  },
+  {
+    "C1": "881",
+    "C2": null,
+    "C3": null,
+    "C4": "742",
+    "C5": "7420",
+    "C6": "74200",
+    "C7": "Hoạt động nhiếp ảnh"
+  },
+  {
+    "C1": "882",
+    "C2": null,
+    "C3": null,
+    "C4": "749",
+    "C5": "7490",
+    "C6": null,
+    "C7": "Hoạt động chuyên môn, khoa học và công nghệ khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "883",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "74901",
+    "C7": "Hoạt động khí tượng thuỷ văn"
+  },
+  {
+    "C1": "884",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "74909",
+    "C7": "Hoạt động chuyên môn, khoa học và công nghệ khác còn lại chưa được phân vào đâu"
+  },
+  {
+    "C1": "885",
+    "C2": null,
+    "C3": "75",
+    "C4": "750",
+    "C5": "7500",
+    "C6": "75000",
+    "C7": "Hoạt động thú y"
+  },
+  {
+    "C1": "886",
+    "C2": "N",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "HOẠT ĐỘNG HÀNH CHÍNH VÀ DỊCH VỤ HỖ TRỢ"
+  },
+  {
+    "C1": "887",
+    "C2": null,
+    "C3": "77",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Cho thuê máy móc, thiết bị (không kèm người điều khiển); cho thuê đồ dùng cá nhân và gia đình; cho thuê tài sản vô hình phi tài chính"
+  },
+  {
+    "C1": "888",
+    "C2": null,
+    "C3": null,
+    "C4": "771",
+    "C5": "7710",
+    "C6": null,
+    "C7": "Cho thuê xe có động cơ"
+  },
+  {
+    "C1": "889",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "77101",
+    "C7": "Cho thuê ôtô"
+  },
+  {
+    "C1": "890",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "77109",
+    "C7": "Cho thuê xe có động cơ khác"
+  },
+  {
+    "C1": "891",
+    "C2": null,
+    "C3": null,
+    "C4": "772",
+    "C5": null,
+    "C6": null,
+    "C7": "Cho thuê đồ dùng cá nhân và gia đình"
+  },
+  {
+    "C1": "892",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "7721",
+    "C6": "77210",
+    "C7": "Cho thuê thiết bị thể thao, vui chơi giải trí"
+  },
+  {
+    "C1": "893",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "7722",
+    "C6": "77220",
+    "C7": "Cho thuê băng, đĩa video"
+  },
+  {
+    "C1": "894",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "7729",
+    "C6": "77290",
+    "C7": "Cho thuê đồ dùng cá nhân và gia đình khác"
+  },
+  {
+    "C1": "895",
+    "C2": null,
+    "C3": null,
+    "C4": "773",
+    "C5": "7730",
+    "C6": null,
+    "C7": "Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác không kèm người điều khiển"
+  },
+  {
+    "C1": "896",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "77301",
+    "C7": "Cho thuê máy móc, thiết bị nông, lâm nghiệp không kèm người điều khiển"
+  },
+  {
+    "C1": "897",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "77302",
+    "C7": "Cho thuê máy móc, thiết bị xây dựng không kèm người điều khiển"
+  },
+  {
+    "C1": "898",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "77303",
+    "C7": "Cho thuê máy móc, thiết bị văn phòng (kể cả máy vi tính) không kèm người điều khiển"
+  },
+  {
+    "C1": "899",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "77304",
+    "C7": "Cho thuê máy bay, phương tiện bay không kèm người điều khiển"
+  },
+  {
+    "C1": "900",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "77305",
+    "C7": "Cho thuê tàu, thuyền và kết cấu nổi không kèm người điều khiển"
+  },
+  {
+    "C1": "901",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "77309",
+    "C7": "Cho thuê máy móc, thiết bị và đồ dùng hữu hình khác, không kèm người điều khiển chưa được phân vào đâu"
+  },
+  {
+    "C1": "902",
+    "C2": null,
+    "C3": null,
+    "C4": "774",
+    "C5": "7740",
+    "C6": "77400",
+    "C7": "Cho thuê tài sản vô hình phi tài chính"
+  },
+  {
+    "C1": "903",
+    "C2": null,
+    "C3": "78",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động dịch vụ lao động và việc làm"
+  },
+  {
+    "C1": "904",
+    "C2": null,
+    "C3": null,
+    "C4": "781",
+    "C5": "7810",
+    "C6": "78100",
+    "C7": "Hoạt động của các trung tâm, đại lý tư vấn, giới thiệu và môi giới lao động, việc làm"
+  },
+  {
+    "C1": "905",
+    "C2": null,
+    "C3": null,
+    "C4": "782",
+    "C5": "7820",
+    "C6": "78200",
+    "C7": "Cung ứng lao động tạm thời"
+  },
+  {
+    "C1": "906",
+    "C2": null,
+    "C3": null,
+    "C4": "783",
+    "C5": "7830",
+    "C6": null,
+    "C7": "Cung ứng và quản lý nguồn lao động"
+  },
+  {
+    "C1": "907",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "78301",
+    "C7": "Cung ứng và quản lý nguồn lao động trong nước"
+  },
+  {
+    "C1": "908",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "78302",
+    "C7": "Cung ứng và quản lý nguồn lao động đi làm việc ở nước ngoài"
+  },
+  {
+    "C1": "909",
+    "C2": null,
+    "C3": "79",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động của các đại lý du lịch, kinh doanh tua du lịch và các dịch vụ hỗ trợ, liên quan đến quảng bá và tổ chức tua du lịch"
+  },
+  {
+    "C1": "910",
+    "C2": null,
+    "C3": null,
+    "C4": "791",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động của các đại lý du lịch, kinh doanh tua du lịch"
+  },
+  {
+    "C1": "911",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "7911",
+    "C6": "79110",
+    "C7": "Đại lý du lịch"
+  },
+  {
+    "C1": "912",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "7912",
+    "C6": "79120",
+    "C7": "Điều hành tua du lịch"
+  },
+  {
+    "C1": "913",
+    "C2": null,
+    "C3": null,
+    "C4": "799",
+    "C5": "7990",
+    "C6": "79900",
+    "C7": "Dịch vụ đặt chỗ và các dịch vụ hỗ trợ liên quan đến quảng bá và tổ chức tua du lịch"
+  },
+  {
+    "C1": "914",
+    "C2": null,
+    "C3": "80",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động điều tra bảo đảm an toàn"
+  },
+  {
+    "C1": "915",
+    "C2": null,
+    "C3": null,
+    "C4": "801",
+    "C5": "8010",
+    "C6": "80100",
+    "C7": "Hoạt động bảo vệ tư nhân"
+  },
+  {
+    "C1": "916",
+    "C2": null,
+    "C3": null,
+    "C4": "802",
+    "C5": "8020",
+    "C6": "80200",
+    "C7": "Dịch vụ hệ thống bảo đảm an toàn"
+  },
+  {
+    "C1": "917",
+    "C2": null,
+    "C3": null,
+    "C4": "803",
+    "C5": "8030",
+    "C6": "80300",
+    "C7": "Dịch vụ điều tra"
+  },
+  {
+    "C1": "918",
+    "C2": null,
+    "C3": "81",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động dịch vụ vệ sinh nhà cửa, công trình và cảnh quan"
+  },
+  {
+    "C1": "919",
+    "C2": null,
+    "C3": null,
+    "C4": "811",
+    "C5": "8110",
+    "C6": "81100",
+    "C7": "Dịch vụ hỗ trợ tổng hợp"
+  },
+  {
+    "C1": "920",
+    "C2": null,
+    "C3": null,
+    "C4": "812",
+    "C5": null,
+    "C6": null,
+    "C7": "Dịch vụ vệ sinh"
+  },
+  {
+    "C1": "921",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8121",
+    "C6": "81210",
+    "C7": "Vệ sinh chung nhà cửa"
+  },
+  {
+    "C1": "922",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8129",
+    "C6": "81290",
+    "C7": "Vệ sinh công nghiệp và các công trình chuyên biệt"
+  },
+  {
+    "C1": "923",
+    "C2": null,
+    "C3": null,
+    "C4": "813",
+    "C5": "8130",
+    "C6": "81300",
+    "C7": "Dịch vụ chăm sóc và duy trì cảnh quan"
+  },
+  {
+    "C1": "924",
+    "C2": null,
+    "C3": "82",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động hành chính, hỗ trợ văn phòng và các hoạt động hỗ trợ kinh doanh khác"
+  },
+  {
+    "C1": "925",
+    "C2": null,
+    "C3": null,
+    "C4": "821",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động hành chính và hỗ trợ văn phòng"
+  },
+  {
+    "C1": "926",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8211",
+    "C6": "82110",
+    "C7": "Dịch vụ hành chính văn phòng tổng hợp"
+  },
+  {
+    "C1": "927",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8219",
+    "C6": null,
+    "C7": "Photo, chuẩn bị tài liệu và các hoạt động hỗ trợ văn phòng đặc biệt khác"
+  },
+  {
+    "C1": "928",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "82191",
+    "C7": "Photo, chuẩn bị tài liệu"
+  },
+  {
+    "C1": "929",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "82199",
+    "C7": "Hoạt động hỗ trợ văn phòng đặc biệt khác"
+  },
+  {
+    "C1": "930",
+    "C2": null,
+    "C3": null,
+    "C4": "822",
+    "C5": "8220",
+    "C6": "82200",
+    "C7": "Hoạt động dịch vụ liên quan đến các cuộc gọi"
+  },
+  {
+    "C1": "931",
+    "C2": null,
+    "C3": null,
+    "C4": "823",
+    "C5": "8230",
+    "C6": "82300",
+    "C7": "Tổ chức giới thiệu và xúc tiến thương mại"
+  },
+  {
+    "C1": "932",
+    "C2": null,
+    "C3": null,
+    "C4": "829",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động dịch vụ hỗ trợ kinh doanh khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "933",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8291",
+    "C6": "82910",
+    "C7": "Hoạt động dịch vụ hỗ trợ thanh toán, tín dụng"
+  },
+  {
+    "C1": "934",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8292",
+    "C6": "82920",
+    "C7": "Dịch vụ đóng gói"
+  },
+  {
+    "C1": "935",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8299",
+    "C6": "82990",
+    "C7": "Hoạt động dịch vụ hỗ trợ kinh doanh khác còn lại chưa được phân vào đâu"
+  },
+  {
+    "C1": "936",
+    "C2": "O",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "HOẠT ĐỘNG CỦA ĐẢNG CỘNG SẢN, TỔ CHỨC CHÍNH TRỊ - XÃ HỘI, QUẢN LÝ NHÀ NƯỚC, AN NINH QUỐC PHÒNG; BẢO ĐẢM XÃ HỘI BẮT BUỘC"
+  },
+  {
+    "C1": "937",
+    "C2": null,
+    "C3": "84",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước, an ninh quốc phòng, đối ngoại và bảo đảm xã hội bắt buộc"
+  },
+  {
+    "C1": "938",
+    "C2": null,
+    "C3": null,
+    "C4": "841",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước và quản lý chính sách kinh tế, xã hội"
+  },
+  {
+    "C1": "939",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8411",
+    "C6": null,
+    "C7": "Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội, hoạt động quản lý nhà nước nói chung và kinh tế tổng hợp"
+  },
+  {
+    "C1": "940",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "84111",
+    "C7": "Hoạt động của Đảng cộng sản, tổ chức chính trị - xã hội"
+  },
+  {
+    "C1": "941",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "84112",
+    "C7": "Hoạt động quản lý nhà nước nói chung và kinh tế tổng hợp"
+  },
+  {
+    "C1": "942",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8412",
+    "C6": "84120",
+    "C7": "Hoạt động quản lý nhà nước trong các lĩnh vực y tế, giáo dục, văn hoá và các dịch vụ xã hội khác (trừ bảo đảm xã hội bắt buộc)"
+  },
+  {
+    "C1": "943",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8413",
+    "C6": "84130",
+    "C7": "Hoạt động quản lý nhà nước trong các lĩnh vực kinh tế chuyên ngành"
+  },
+  {
+    "C1": "944",
+    "C2": null,
+    "C3": null,
+    "C4": "842",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động phục vụ chung cho toàn đất nước"
+  },
+  {
+    "C1": "945",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8421",
+    "C6": "84210",
+    "C7": "Hoạt động đối ngoại"
+  },
+  {
+    "C1": "946",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8422",
+    "C6": "84220",
+    "C7": "Hoạt động quốc phòng"
+  },
+  {
+    "C1": "947",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8423",
+    "C6": "84230",
+    "C7": "Hoạt động an ninh, trật tự an toàn xã hội"
+  },
+  {
+    "C1": "948",
+    "C2": null,
+    "C3": null,
+    "C4": "843",
+    "C5": "8430",
+    "C6": "84300",
+    "C7": "Hoạt động bảo đảm xã hội bắt buộc"
+  },
+  {
+    "C1": "949",
+    "C2": "P",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "GIÁO DỤC VÀ ĐÀO TẠO"
+  },
+  {
+    "C1": "950",
+    "C2": null,
+    "C3": "85",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Giáo dục và đào tạo"
+  },
+  {
+    "C1": "951",
+    "C2": null,
+    "C3": null,
+    "C4": "851",
+    "C5": null,
+    "C6": null,
+    "C7": "Giáo dục mầm non"
+  },
+  {
+    "C1": "952",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8511",
+    "C6": "85110",
+    "C7": "Giáo dục nhà trẻ"
+  },
+  {
+    "C1": "953",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8512",
+    "C6": "85120",
+    "C7": "Giáo dục mẫu giáo"
+  },
+  {
+    "C1": "954",
+    "C2": null,
+    "C3": null,
+    "C4": "852",
+    "C5": null,
+    "C6": null,
+    "C7": "Giáo dục phổ thông"
+  },
+  {
+    "C1": "955",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8521",
+    "C6": "85210",
+    "C7": "Giáo dục tiểu học"
+  },
+  {
+    "C1": "956",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8522",
+    "C6": "85220",
+    "C7": "Giáo dục trung học cơ sở"
+  },
+  {
+    "C1": "957",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8523",
+    "C6": "85230",
+    "C7": "Giáo dục trung học phổ thông"
+  },
+  {
+    "C1": "958",
+    "C2": null,
+    "C3": null,
+    "C4": "853",
+    "C5": null,
+    "C6": null,
+    "C7": "Giáo dục nghề nghiệp"
+  },
+  {
+    "C1": "959",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8531",
+    "C6": "85310",
+    "C7": "Đào tạo sơ cấp"
+  },
+  {
+    "C1": "960",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8532",
+    "C6": "85320",
+    "C7": "Đào tạo trung cấp"
+  },
+  {
+    "C1": "961",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8533",
+    "C6": "85330",
+    "C7": "Đào tạo cao đẳng"
+  },
+  {
+    "C1": "962",
+    "C2": null,
+    "C3": null,
+    "C4": "854",
+    "C5": null,
+    "C6": null,
+    "C7": "Giáo dục đại học"
+  },
+  {
+    "C1": "963",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8541",
+    "C6": "85410",
+    "C7": "Đào tạo đại học"
+  },
+  {
+    "C1": "964",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8542",
+    "C6": "85420",
+    "C7": "Đào tạo thạc sỹ"
+  },
+  {
+    "C1": "965",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8543",
+    "C6": "85430",
+    "C7": "Đào tạo tiến sỹ"
+  },
+  {
+    "C1": "966",
+    "C2": null,
+    "C3": null,
+    "C4": "855",
+    "C5": null,
+    "C6": null,
+    "C7": "Giáo dục khác"
+  },
+  {
+    "C1": "967",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8551",
+    "C6": "85510",
+    "C7": "Giáo dục thể thao và giải trí"
+  },
+  {
+    "C1": "968",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8552",
+    "C6": "85520",
+    "C7": "Giáo dục văn hoá nghệ thuật"
+  },
+  {
+    "C1": "969",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8559",
+    "C6": "85590",
+    "C7": "Giáo dục khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "970",
+    "C2": null,
+    "C3": null,
+    "C4": "856",
+    "C5": "8560",
+    "C6": "85600",
+    "C7": "Dịch vụ hỗ trợ giáo dục"
+  },
+  {
+    "C1": "971",
+    "C2": "Q",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Y TẾ VÀ HOẠT ĐỘNG TRỢ GIÚP XÃ HỘI"
+  },
+  {
+    "C1": "972",
+    "C2": null,
+    "C3": "86",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động y tế"
+  },
+  {
+    "C1": "973",
+    "C2": null,
+    "C3": null,
+    "C4": "861",
+    "C5": "8610",
+    "C6": null,
+    "C7": "Hoạt động của các bệnh viện, trạm y tế"
+  },
+  {
+    "C1": "974",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "86101",
+    "C7": "Hoạt động của các bệnh viện"
+  },
+  {
+    "C1": "975",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "86102",
+    "C7": "Hoạt động của các trạm y tế và trạm y tế bộ/ngành"
+  },
+  {
+    "C1": "976",
+    "C2": null,
+    "C3": null,
+    "C4": "862",
+    "C5": "8620",
+    "C6": null,
+    "C7": "Hoạt động của các phòng khám đa khoa, chuyên khoa và nha khoa"
+  },
+  {
+    "C1": "977",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "86201",
+    "C7": "Hoạt động của các phòng khám đa khoa, chuyên khoa"
+  },
+  {
+    "C1": "978",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "86202",
+    "C7": "Hoạt động của các phòng khám nha khoa"
+  },
+  {
+    "C1": "979",
+    "C2": null,
+    "C3": null,
+    "C4": "869",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động y tế khác"
+  },
+  {
+    "C1": "980",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8691",
+    "C6": "86910",
+    "C7": "Hoạt động y tế dự phòng"
+  },
+  {
+    "C1": "981",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8692",
+    "C6": "86920",
+    "C7": "Hoạt động của hệ thống cơ sở chỉnh hình, phục hồi chức năng"
+  },
+  {
+    "C1": "982",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "8699",
+    "C6": "86990",
+    "C7": "Hoạt động y tế khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "983",
+    "C2": null,
+    "C3": "87",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động chăm sóc, điều dưỡng tập trung"
+  },
+  {
+    "C1": "984",
+    "C2": null,
+    "C3": null,
+    "C4": "871",
+    "C5": "8710",
+    "C6": null,
+    "C7": "Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng"
+  },
+  {
+    "C1": "985",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "87101",
+    "C7": "Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng thương bệnh binh"
+  },
+  {
+    "C1": "986",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "87109",
+    "C7": "Hoạt động của các cơ sở nuôi dưỡng, điều dưỡng các đối tượng khác"
+  },
+  {
+    "C1": "987",
+    "C2": null,
+    "C3": null,
+    "C4": "872",
+    "C5": "8720",
+    "C6": null,
+    "C7": "Hoạt động chăm sóc sức khoẻ người bị thiểu năng, tâm thần và người nghiện"
+  },
+  {
+    "C1": "988",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "87201",
+    "C7": "Hoạt động chăm sóc sức khoẻ người bị thiểu năng, tâm thần"
+  },
+  {
+    "C1": "989",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "87202",
+    "C7": "Hoạt động chăm sóc sức khoẻ, cai nghiện phục hồi người nghiện"
+  },
+  {
+    "C1": "990",
+    "C2": null,
+    "C3": null,
+    "C4": "873",
+    "C5": "8730",
+    "C6": null,
+    "C7": "Hoạt động chăm sóc sức khoẻ người có công, người già và người khuyết tật không có khả năng tự chăm sóc"
+  },
+  {
+    "C1": "991",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "87301",
+    "C7": "Hoạt động chăm sóc sức khoẻ người có công (trừ thương bệnh binh)"
+  },
+  {
+    "C1": "992",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "87302",
+    "C7": "Hoạt động chăm sóc sức khoẻ người già"
+  },
+  {
+    "C1": "993",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "87303",
+    "C7": "Hoạt động chăm sóc sức khoẻ người khuyết tật"
+  },
+  {
+    "C1": "994",
+    "C2": null,
+    "C3": null,
+    "C4": "879",
+    "C5": "8790",
+    "C6": null,
+    "C7": "Hoạt động chăm sóc tập trung khác"
+  },
+  {
+    "C1": "995",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "87901",
+    "C7": "Hoạt động chữa bệnh, phục hồi nhân phẩm cho đối tượng mại dâm"
+  },
+  {
+    "C1": "996",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "87909",
+    "C7": "Hoạt động chăm sóc tập trung khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "997",
+    "C2": null,
+    "C3": "88",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động trợ giúp xã hội không tập trung"
+  },
+  {
+    "C1": "998",
+    "C2": null,
+    "C3": null,
+    "C4": "881",
+    "C5": "8810",
+    "C6": null,
+    "C7": "Hoạt động trợ giúp xã hội không tập trung đối với người có công, thương bệnh binh, người già và người khuyết tật"
+  },
+  {
+    "C1": "999",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "88101",
+    "C7": "Hoạt động trợ giúp xã hội không tập trung đối với người có công (trừ thương bệnh binh)"
+  },
+  {
+    "C1": "1000",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "88102",
+    "C7": "Hoạt động trợ giúp xã hội không tập trung đối với thương bệnh binh"
+  },
+  {
+    "C1": "1001",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "88103",
+    "C7": "Hoạt động trợ giúp xã hội không tập trung đối với người già và người khuyết tật"
+  },
+  {
+    "C1": "1002",
+    "C2": null,
+    "C3": null,
+    "C4": "889",
+    "C5": "8890",
+    "C6": "88900",
+    "C7": "Hoạt động trợ giúp xã hội không tập trung khác"
+  },
+  {
+    "C1": "1003",
+    "C2": "R",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "NGHỆ THUẬT, VUI CHƠI VÀ GIẢI TRÍ"
+  },
+  {
+    "C1": "1004",
+    "C2": null,
+    "C3": "90",
+    "C4": "900",
+    "C5": "9000",
+    "C6": "90000",
+    "C7": "Hoạt động sáng tác, nghệ thuật và giải trí"
+  },
+  {
+    "C1": "1005",
+    "C2": null,
+    "C3": "91",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động của thư viện, lưu trữ, bảo tàng và các hoạt động văn hoá khác"
+  },
+  {
+    "C1": "1006",
+    "C2": null,
+    "C3": null,
+    "C4": "910",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động của thư viện, lưu trữ, bảo tàng và các hoạt động văn hoá khác"
+  },
+  {
+    "C1": "1007",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9101",
+    "C6": "91010",
+    "C7": "Hoạt động thư viện và lưu trữ"
+  },
+  {
+    "C1": "1008",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9102",
+    "C6": "91020",
+    "C7": "Hoạt động bảo tồn, bảo tàng"
+  },
+  {
+    "C1": "1009",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9103",
+    "C6": "91030",
+    "C7": "Hoạt động của các vườn bách thảo, bách thú và khu bảo tồn tự nhiên"
+  },
+  {
+    "C1": "1010",
+    "C2": null,
+    "C3": "92",
+    "C4": "920",
+    "C5": "9200",
+    "C6": null,
+    "C7": "Hoạt động xổ số, cá cược và đánh bạc"
+  },
+  {
+    "C1": "1011",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "92001",
+    "C7": "Hoạt động xổ số"
+  },
+  {
+    "C1": "1012",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": "92002",
+    "C7": "Hoạt động cá cược và đánh bạc"
+  },
+  {
+    "C1": "1013",
+    "C2": null,
+    "C3": "93",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động thể thao, vui chơi và giải trí"
+  },
+  {
+    "C1": "1014",
+    "C2": null,
+    "C3": null,
+    "C4": "931",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động thể thao"
+  },
+  {
+    "C1": "1015",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9311",
+    "C6": "93110",
+    "C7": "Hoạt động của các cơ sở thể thao"
+  },
+  {
+    "C1": "1016",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9312",
+    "C6": "93120",
+    "C7": "Hoạt động của các câu lạc bộ thể thao"
+  },
+  {
+    "C1": "1017",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9319",
+    "C6": "93190",
+    "C7": "Hoạt động thể thao khác"
+  },
+  {
+    "C1": "1018",
+    "C2": null,
+    "C3": null,
+    "C4": "932",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động vui chơi giải trí khác"
+  },
+  {
+    "C1": "1019",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9321",
+    "C6": "93210",
+    "C7": "Hoạt động của các công viên vui chơi và công viên theo chủ đề"
+  },
+  {
+    "C1": "1020",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9329",
+    "C6": "93290",
+    "C7": "Hoạt động vui chơi giải trí khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "1021",
+    "C2": "S",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "HOẠT ĐỘNG DỊCH VỤ KHÁC"
+  },
+  {
+    "C1": "1022",
+    "C2": null,
+    "C3": "94",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động của các hiệp hội, tổ chức khác"
+  },
+  {
+    "C1": "1023",
+    "C2": null,
+    "C3": null,
+    "C4": "941",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động của các hiệp hội kinh doanh, nghiệp chủ và nghề nghiệp"
+  },
+  {
+    "C1": "1024",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9411",
+    "C6": "94110",
+    "C7": "Hoạt động của các hiệp hội kinh doanh và nghiệp chủ"
+  },
+  {
+    "C1": "1025",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9412",
+    "C6": "94120",
+    "C7": "Hoạt động của các hội nghề nghiệp"
+  },
+  {
+    "C1": "1026",
+    "C2": null,
+    "C3": null,
+    "C4": "942",
+    "C5": "9420",
+    "C6": "94200",
+    "C7": "Hoạt động của công đoàn"
+  },
+  {
+    "C1": "1027",
+    "C2": null,
+    "C3": null,
+    "C4": "949",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động của các tổ chức khác"
+  },
+  {
+    "C1": "1028",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9491",
+    "C6": "94910",
+    "C7": "Hoạt động của các tổ chức tôn giáo"
+  },
+  {
+    "C1": "1029",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9499",
+    "C6": "94990",
+    "C7": "Hoạt động của các tổ chức khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "1030",
+    "C2": null,
+    "C3": "95",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Sửa chữa máy vi tính, đồ dùng cá nhân và gia đình"
+  },
+  {
+    "C1": "1031",
+    "C2": null,
+    "C3": null,
+    "C4": "951",
+    "C5": null,
+    "C6": null,
+    "C7": "Sửa chữa máy vi tính và thiết bị liên lạc"
+  },
+  {
+    "C1": "1032",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9511",
+    "C6": "95110",
+    "C7": "Sửa chữa máy vi tính và thiết bị ngoại vi"
+  },
+  {
+    "C1": "1033",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9512",
+    "C6": "95120",
+    "C7": "Sửa chữa thiết bị liên lạc"
+  },
+  {
+    "C1": "1034",
+    "C2": null,
+    "C3": null,
+    "C4": "952",
+    "C5": null,
+    "C6": null,
+    "C7": "Sửa chữa đồ dùng cá nhân và gia đình"
+  },
+  {
+    "C1": "1035",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9521",
+    "C6": "95210",
+    "C7": "Sửa chữa thiết bị nghe nhìn điện tử gia dụng"
+  },
+  {
+    "C1": "1036",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9522",
+    "C6": "95220",
+    "C7": "Sửa chữa thiết bị, đồ dùng gia đình"
+  },
+  {
+    "C1": "1037",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9523",
+    "C6": "95230",
+    "C7": "Sửa chữa giày, dép, hàng da và giả da"
+  },
+  {
+    "C1": "1038",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9524",
+    "C6": "95240",
+    "C7": "Sửa chữa giường, tủ, bàn, ghế và đồ nội thất tương tự"
+  },
+  {
+    "C1": "1039",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9529",
+    "C6": "95290",
+    "C7": "Sửa chữa xe đạp, đồng hồ, đồ dùng cá nhân và gia đình khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "1040",
+    "C2": null,
+    "C3": "96",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động dịch vụ phục vụ cá nhân khác"
+  },
+  {
+    "C1": "1041",
+    "C2": null,
+    "C3": null,
+    "C4": "961",
+    "C5": "9610",
+    "C6": "96100",
+    "C7": "Dịch vụ tắm hơi, massage và các dịch vụ tăng cường sức khoẻ tương tự (trừ hoạt động thể thao)"
+  },
+  {
+    "C1": "1042",
+    "C2": null,
+    "C3": null,
+    "C4": "962",
+    "C5": "9620",
+    "C6": "96200",
+    "C7": "Giặt là, làm sạch các sản phẩm dệt và lông thú"
+  },
+  {
+    "C1": "1043",
+    "C2": null,
+    "C3": null,
+    "C4": "963",
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động dịch vụ phục vụ cá nhân khác chưa được phân vào đâu"
+  },
+  {
+    "C1": "1044",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9631",
+    "C6": "96310",
+    "C7": "Cắt tóc, làm đầu, gội đầu"
+  },
+  {
+    "C1": "1045",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9632",
+    "C6": "96320",
+    "C7": "Hoạt động dịch vụ phục vụ tang lễ"
+  },
+  {
+    "C1": "1046",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9633",
+    "C6": "96330",
+    "C7": "Hoạt động dịch vụ phục vụ hôn lễ"
+  },
+  {
+    "C1": "1047",
+    "C2": null,
+    "C3": null,
+    "C4": null,
+    "C5": "9639",
+    "C6": "96390",
+    "C7": "Hoạt động dịch vụ phục vụ cá nhân khác còn lại chưa được phân vào đâu"
+  },
+  {
+    "C1": "1048",
+    "C2": "T",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "HOẠT ĐỘNG LÀM THUÊ CÁC CÔNG VIỆC TRONG CÁC HỘ GIA ĐÌNH, SẢN XUẤT SẢN PHẨM VẬT CHẤT VÀ DỊCH VỤ TỰ TIÊU DÙNG CỦA HỘ GIA ĐÌNH"
+  },
+  {
+    "C1": "1049",
+    "C2": null,
+    "C3": "97",
+    "C4": "970",
+    "C5": "9700",
+    "C6": "97000",
+    "C7": "Hoạt động làm thuê công việc gia đình trong các hộ gia đình"
+  },
+  {
+    "C1": "1050",
+    "C2": null,
+    "C3": "98",
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "Hoạt động sản xuất sản phẩm vật chất và dịch vụ tự tiêu dùng của hộ gia đình"
+  },
+  {
+    "C1": "1051",
+    "C2": null,
+    "C3": null,
+    "C4": "981",
+    "C5": "9810",
+    "C6": "98100",
+    "C7": "Hoạt động sản xuất các sản phẩm vật chất tự tiêu dùng của hộ gia đình"
+  },
+  {
+    "C1": "1052",
+    "C2": null,
+    "C3": null,
+    "C4": "982",
+    "C5": "9820",
+    "C6": "98200",
+    "C7": "Hoạt động sản xuất các sản phẩm dịch vụ tự tiêu dùng của hộ gia đình"
+  },
+  {
+    "C1": "1053",
+    "C2": "U",
+    "C3": null,
+    "C4": null,
+    "C5": null,
+    "C6": null,
+    "C7": "HOẠT ĐỘNG CỦA CÁC TỔ CHỨC VÀ CƠ QUAN QUỐC TẾ"
+  },
+  {
+    "C1": "1054",
+    "C2": null,
+    "C3": "99",
+    "C4": "990",
+    "C5": "9900",
+    "C6": "99000",
+    "C7": "Hoạt động của các tổ chức và cơ quan quốc tế"
+  },
+  {
+    "C1": "1055",
+    "C2": "21",
+    "C3": "88",
+    "C4": "242",
+    "C5": "486",
+    "C6": "734",
+    "C7": null
+  }
+]
