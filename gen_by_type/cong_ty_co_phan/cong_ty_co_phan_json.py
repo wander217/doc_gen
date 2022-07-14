@@ -4,7 +4,7 @@ import random
 from faker import Faker
 from vietnam_number import n2w
 from vn_fullname_generator import generator
-
+from tqdm import tqdm
 
 def data_gen():
     date = Faker().date_object()
@@ -196,9 +196,9 @@ if __name__ == "__main__":
     save_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\json_data'
     business_type_template = r'D:\python_project\doc_gen\template\table\business_type.docx'
     business_path = r'D:\python_project\doc_gen\data\job.json'
-    data_number = 1
-    for i in range(data_number):
-        save_path = os.path.join(save_path, '{}.json'.format(i))
+    data_number = 100
+    for i in tqdm(range(data_number)):
+        item_save_path = os.path.join(save_path, '{}.json'.format(i))
         data_generator(city_path=city_path,
                        vi_name_path=vi_name_path,
                        foreign_name_path=eng_name_path,
@@ -208,6 +208,6 @@ if __name__ == "__main__":
                        email_path=email_path,
                        fax_path=fax_path,
                        website_path=website_path,
-                       save_path=save_path,
+                       save_path=item_save_path,
                        business_type_template=business_type_template,
                        business_path=business_path)

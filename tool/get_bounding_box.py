@@ -2,6 +2,7 @@ import copy
 import json
 import os.path
 import fitz
+from tqdm import tqdm
 
 
 def get_bounding_box(data_path: str, save_path: str):
@@ -9,6 +10,8 @@ def get_bounding_box(data_path: str, save_path: str):
     doc = fitz.Document(data_path)
     count = 0
     for page in doc:
+        if count > 2:
+            break
         texts = page.get_text("words", sort=False)
 
         new_line = []
@@ -51,15 +54,19 @@ def get_bounding_box(data_path: str, save_path: str):
                          [x_max, y_max],
                          [x_min, y_max]]
             })
-        for line in line_data:
-            print(line)
+        # for line in line_data:
+        #     print(line)
         with open(os.path.join(save_path, "{}.json".format(count)), 'w', encoding='utf-8') as f:
             f.write(json.dumps(line_data, indent=4))
         count += 1
         lines.clear()
 
 
+
 if __name__ == "__main__":
-    data_path = r"D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\pdf_result\cong_ty_co_phan.pdf"
-    save_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\image_result\0'
-    get_bounding_box(data_path, save_path)
+    data_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\pdf_result'
+    save_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\image_result'
+    for file in tqdm(os.listdir(data_path)):
+        file_name = file.split(".")[0]
+        get_bounding_box(os.path.join(data_path, file),
+                         os.path.join(save_path, file_name))

@@ -1,14 +1,15 @@
 import fitz
 import os
 from PIL import Image
+from tqdm import tqdm
 
 
 def convert2image(pdf_path, save_dir):
-    file_number = len(os.listdir(save_dir))
-    save_dir = os.path.join(save_dir, "{}".format(file_number))
     os.mkdir(save_dir)
     doc = fitz.open(pdf_path)
     for page in doc:
+        if page.number > 2:
+            return
         pix = page.get_pixmap(alpha=True)
         pix.save(os.path.join(save_dir, "{}.png".format(page.number)))
         image = Image.open(os.path.join(save_dir, "{}.png".format(page.number)))
@@ -22,5 +23,9 @@ def convert2image(pdf_path, save_dir):
 
 
 if __name__ == "__main__":
-    convert2image(r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\pdf_result\cong_ty_co_phan.pdf',
-                  r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\image_result')
+    data_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\pdf_result'
+    save_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\image_result'
+    for file in tqdm(os.listdir(data_path)):
+        file_name = file.split(".")[0]
+        convert2image(os.path.join(data_path, file),
+                      os.path.join(save_path, file_name))

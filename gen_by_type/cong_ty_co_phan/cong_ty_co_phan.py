@@ -74,15 +74,16 @@ document_data = {
 }
 
 if __name__ == "__main__":
-    data_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\json_data\0.json'
-    with open(data_path, 'r', encoding='utf-8') as f:
-        document_data = json.loads(f.read())
-    template_path: str = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\template\cong_ty_co_phan_1.docx'
-    document: Document = Document(docx=template_path)
-    docx_replace(document, **document_data['paragraph'])
-    for tbl_key, tbl_data in document_data['table'].items():
-        processing_table_data(tbl_key, tbl_data, document)
-    doc_save_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\doc_result\save_doc.docx'
-    document.save(doc_save_path)
-    pdf_save_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\pdf_result\cong_ty_co_phan.pdf'
-    convert(doc_save_path, pdf_save_path)
+    data_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\json_data'
+    for i, item in enumerate(os.listdir(data_path)):
+        with open(os.path.join(data_path, item), 'r', encoding='utf-8') as f:
+            document_data = json.loads(f.read())
+        template_path: str = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\template\cong_ty_co_phan_1.docx'
+        document: Document = Document(docx=template_path)
+        docx_replace(document, **document_data['paragraph'])
+        for tbl_key, tbl_data in document_data['table'].items():
+            processing_table_data(tbl_key, tbl_data, document)
+        doc_save_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\doc_result\save_doc_{}.docx'.format(i)
+        document.save(doc_save_path)
+        pdf_save_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\pdf_result\cong_ty_co_phan_{}.pdf'.format(i)
+        convert(doc_save_path, pdf_save_path)

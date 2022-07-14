@@ -2,8 +2,8 @@ import json
 import cv2 as cv
 import numpy as np
 
-data_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\image_result\0\0.json'
-image_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\image_result\0\0.png'
+data_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\image_result\cong_ty_co_phan_0\0.json'
+image_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\image_result\cong_ty_co_phan_0\0.png'
 
 image = cv.imread(image_path)
 with open(data_path, 'r', encoding='utf-8') as f:
