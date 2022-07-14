@@ -1,3 +1,4 @@
+import json
 import os
 from docx import Document
 from tool.table_gen import processing_table_data
@@ -73,6 +74,9 @@ document_data = {
 }
 
 if __name__ == "__main__":
+    data_path = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\json_data\0.json'
+    with open(data_path, 'r', encoding='utf-8') as f:
+        document_data = json.loads(f.read())
     template_path: str = r'D:\python_project\doc_gen\gen_by_type\cong_ty_co_phan\template\cong_ty_co_phan_1.docx'
     document: Document = Document(docx=template_path)
     docx_replace(document, **document_data['paragraph'])
