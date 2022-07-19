@@ -10,8 +10,6 @@ def get_bounding_box(data_path: str, save_path: str):
     doc = fitz.Document(data_path)
     count = 0
     for page in doc:
-        if count > 2:
-            break
         texts = page.get_text("words", sort=False)
 
         new_line = []
@@ -60,7 +58,6 @@ def get_bounding_box(data_path: str, save_path: str):
             f.write(json.dumps(line_data, indent=4))
         count += 1
         lines.clear()
-
 
 
 if __name__ == "__main__":

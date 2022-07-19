@@ -8,8 +8,6 @@ def convert2image(pdf_path, save_dir):
     os.mkdir(save_dir)
     doc = fitz.open(pdf_path)
     for page in doc:
-        if page.number > 2:
-            return
         pix = page.get_pixmap(alpha=True)
         pix.save(os.path.join(save_dir, "{}.png".format(page.number)))
         image = Image.open(os.path.join(save_dir, "{}.png".format(page.number)))
