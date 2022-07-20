@@ -2,7 +2,6 @@ import json
 import os
 from docx import Document
 from tqdm import tqdm
-
 from tool.get_bounding_box import get_bounding_box
 from tool.pdf2image import convert2image
 from tool.table_gen import processing_table_data

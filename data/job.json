@@ -1,0 +1,4134 @@
+[
+    {
+        "name": "N\u00f4ng nghi\u1ec7p v\u00e0 ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 c\u00f3 li\u00ean quan",
+        "code": "01"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y h\u00e0ng n\u0103m",
+        "code": "011"
+    },
+    {
+        "name": "Tr\u1ed3ng l\u00faa",
+        "code": "01110"
+    },
+    {
+        "name": "Tr\u1ed3ng ng\u00f4 v\u00e0 c\u00e2y l\u01b0\u01a1ng th\u1ef1c c\u00f3 h\u1ea1t kh\u00e1c",
+        "code": "01120"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y l\u1ea5y c\u1ee7 c\u00f3 ch\u1ea5t b\u1ed9t",
+        "code": "01130"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y m\u00eda",
+        "code": "01140"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y thu\u1ed1c l\u00e1, thu\u1ed1c l\u00e0o",
+        "code": "01150"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y l\u1ea5y s\u1ee3i",
+        "code": "01160"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y c\u00f3 h\u1ea1t ch\u1ee9a d\u1ea7u",
+        "code": "01170"
+    },
+    {
+        "name": "Tr\u1ed3ng rau, \u0111\u1eadu c\u00e1c lo\u1ea1i v\u00e0 tr\u1ed3ng hoa",
+        "code": "0118"
+    },
+    {
+        "name": "Tr\u1ed3ng rau c\u00e1c lo\u1ea1i",
+        "code": "01181"
+    },
+    {
+        "name": "Tr\u1ed3ng \u0111\u1eadu c\u00e1c lo\u1ea1i",
+        "code": "01182"
+    },
+    {
+        "name": "Tr\u1ed3ng hoa h\u00e0ng n\u0103m",
+        "code": "01183"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y h\u00e0ng n\u0103m kh\u00e1c",
+        "code": "0119"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y gia v\u1ecb h\u00e0ng n\u0103m",
+        "code": "01191"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y d\u01b0\u1ee3c li\u1ec7u, h\u01b0\u01a1ng li\u1ec7u h\u00e0ng n\u0103m",
+        "code": "01192"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y h\u00e0ng n\u0103m kh\u00e1c c\u00f2n l\u1ea1i",
+        "code": "01199"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y l\u00e2u n\u0103m",
+        "code": "012"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y \u0103n qu\u1ea3",
+        "code": "0121"
+    },
+    {
+        "name": "Tr\u1ed3ng nho",
+        "code": "01211"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y \u0103n qu\u1ea3 v\u00f9ng nhi\u1ec7t \u0111\u1edbi v\u00e0 c\u1eadn nhi\u1ec7t \u0111\u1edbi",
+        "code": "01212"
+    },
+    {
+        "name": "Tr\u1ed3ng cam, qu\u00fdt v\u00e0 c\u00e1c lo\u1ea1i qu\u1ea3 c\u00f3 m\u00fai kh\u00e1c",
+        "code": "01213"
+    },
+    {
+        "name": "Tr\u1ed3ng t\u00e1o, m\u1eadn v\u00e0 c\u00e1c lo\u1ea1i qu\u1ea3 c\u00f3 h\u1ea1t nh\u01b0 t\u00e1o",
+        "code": "01214"
+    },
+    {
+        "name": "Tr\u1ed3ng nh\u00e3n, v\u1ea3i, ch\u00f4m ch\u00f4m",
+        "code": "01215"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y \u0103n qu\u1ea3 kh\u00e1c",
+        "code": "01219"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y l\u1ea5y qu\u1ea3 ch\u1ee9a d\u1ea7u",
+        "code": "01220"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y \u0111i\u1ec1u",
+        "code": "01230"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y h\u1ed3 ti\u00eau",
+        "code": "01240"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y cao su",
+        "code": "01250"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y c\u00e0 ph\u00ea",
+        "code": "01260"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y ch\u00e8",
+        "code": "01270"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y gia v\u1ecb, c\u00e2y d\u01b0\u1ee3c li\u1ec7u, c\u00e2y h\u01b0\u01a1ng li\u1ec7u l\u00e2u n\u0103m",
+        "code": "0128"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y gia v\u1ecb l\u00e2u n\u0103m",
+        "code": "01281"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y d\u01b0\u1ee3c li\u1ec7u, h\u01b0\u01a1ng li\u1ec7u l\u00e2u n\u0103m",
+        "code": "01282"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y l\u00e2u n\u0103m kh\u00e1c",
+        "code": "0129"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y c\u1ea3nh l\u00e2u n\u0103m",
+        "code": "01291"
+    },
+    {
+        "name": "Tr\u1ed3ng c\u00e2y l\u00e2u n\u0103m kh\u00e1c c\u00f2n l\u1ea1i",
+        "code": "01299"
+    },
+    {
+        "name": "Nh\u00e2n v\u00e0 ch\u0103m s\u00f3c c\u00e2y gi\u1ed1ng n\u00f4ng nghi\u1ec7p",
+        "code": "013"
+    },
+    {
+        "name": "Nh\u00e2n v\u00e0 ch\u0103m s\u00f3c c\u00e2y gi\u1ed1ng h\u00e0ng n\u0103m",
+        "code": "01310"
+    },
+    {
+        "name": "Nh\u00e2n v\u00e0 ch\u0103m s\u00f3c c\u00e2y gi\u1ed1ng l\u00e2u n\u0103m",
+        "code": "01320"
+    },
+    {
+        "name": "Ch\u0103n nu\u00f4i",
+        "code": "014"
+    },
+    {
+        "name": "Ch\u0103n nu\u00f4i tr\u00e2u, b\u00f2 v\u00e0 s\u1ea3n xu\u1ea5t gi\u1ed1ng tr\u00e2u, b\u00f2",
+        "code": "0141"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t gi\u1ed1ng tr\u00e2u, b\u00f2",
+        "code": "01411"
+    },
+    {
+        "name": "Ch\u0103n nu\u00f4i tr\u00e2u, b\u00f2",
+        "code": "01412"
+    },
+    {
+        "name": "Ch\u0103n nu\u00f4i ng\u1ef1a, l\u1eeba, la v\u00e0 s\u1ea3n xu\u1ea5t gi\u1ed1ng ng\u1ef1a, l\u1eeba",
+        "code": "0142"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t gi\u1ed1ng ng\u1ef1a, l\u1eeba",
+        "code": "01421"
+    },
+    {
+        "name": "Ch\u0103n nu\u00f4i ng\u1ef1a, l\u1eeba, la",
+        "code": "01422"
+    },
+    {
+        "name": "Ch\u0103n nu\u00f4i d\u00ea, c\u1eebu v\u00e0 s\u1ea3n xu\u1ea5t gi\u1ed1ng d\u00ea, c\u1eebu, h\u01b0\u01a1u, nai",
+        "code": "0144"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t gi\u1ed1ng d\u00ea, c\u1eebu, h\u01b0\u01a1u, nai",
+        "code": "01441"
+    },
+    {
+        "name": "Ch\u0103n nu\u00f4i d\u00ea, c\u1eebu, h\u01b0\u01a1u, nai",
+        "code": "01442"
+    },
+    {
+        "name": "Ch\u0103n nu\u00f4i l\u1ee3n v\u00e0 s\u1ea3n xu\u1ea5t gi\u1ed1ng l\u1ee3n",
+        "code": "0145"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t gi\u1ed1ng l\u1ee3n",
+        "code": "01451"
+    },
+    {
+        "name": "Ch\u0103n nu\u00f4i l\u1ee3n",
+        "code": "01452"
+    },
+    {
+        "name": "Ch\u0103n nu\u00f4i gia c\u1ea7m",
+        "code": "0146"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng \u1ea5p tr\u1ee9ng v\u00e0 s\u1ea3n xu\u1ea5t gi\u1ed1ng gia c\u1ea7m",
+        "code": "01461"
+    },
+    {
+        "name": "Ch\u0103n nu\u00f4i g\u00e0",
+        "code": "01462"
+    },
+    {
+        "name": "Ch\u0103n nu\u00f4i v\u1ecbt, ngan, ng\u1ed7ng",
+        "code": "01463"
+    },
+    {
+        "name": "Ch\u0103n nu\u00f4i gia c\u1ea7m kh\u00e1c",
+        "code": "01469"
+    },
+    {
+        "name": "Ch\u0103n nu\u00f4i kh\u00e1c",
+        "code": "01490"
+    },
+    {
+        "name": "Tr\u1ed3ng tr\u1ecdt, ch\u0103n nu\u00f4i h\u1ed7n h\u1ee3p",
+        "code": "01500"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 n\u00f4ng nghi\u1ec7p",
+        "code": "016"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 tr\u1ed3ng tr\u1ecdt",
+        "code": "01610"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 ch\u0103n nu\u00f4i",
+        "code": "01620"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 sau thu ho\u1ea1ch",
+        "code": "01630"
+    },
+    {
+        "name": "X\u1eed l\u00fd h\u1ea1t gi\u1ed1ng \u0111\u1ec3 nh\u00e2n gi\u1ed1ng",
+        "code": "01640"
+    },
+    {
+        "name": "S\u0103n b\u1eaft, \u0111\u00e1nh b\u1eaby v\u00e0 ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 c\u00f3 li\u00ean quan",
+        "code": "01700"
+    },
+    {
+        "name": "L\u00e2m nghi\u1ec7p v\u00e0 ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 c\u00f3 li\u00ean quan",
+        "code": "02"
+    },
+    {
+        "name": "Tr\u1ed3ng r\u1eebng, ch\u0103m s\u00f3c r\u1eebng v\u00e0 \u01b0\u01a1m gi\u1ed1ng c\u00e2y l\u00e2m nghi\u1ec7p",
+        "code": "0210"
+    },
+    {
+        "name": "Tr\u1ed3ng r\u1eebng v\u00e0 ch\u0103m s\u00f3c r\u1eebng c\u00e2y th\u00e2n g\u1ed7",
+        "code": "02101"
+    },
+    {
+        "name": "Tr\u1ed3ng r\u1eebng v\u00e0 ch\u0103m s\u00f3c r\u1eebng h\u1ecd tre",
+        "code": "02102"
+    },
+    {
+        "name": "Tr\u1ed3ng r\u1eebng v\u00e0 ch\u0103m s\u00f3c r\u1eebng kh\u00e1c",
+        "code": "02103"
+    },
+    {
+        "name": "\u01af\u01a1m gi\u1ed1ng c\u00e2y l\u00e2m nghi\u1ec7p",
+        "code": "02104"
+    },
+    {
+        "name": "Khai th\u00e1c g\u1ed7",
+        "code": "02200"
+    },
+    {
+        "name": "Khai th\u00e1c, thu nh\u1eb7t l\u00e2m s\u1ea3n kh\u00e1c tr\u1eeb g\u1ed7",
+        "code": "023"
+    },
+    {
+        "name": "Khai th\u00e1c l\u00e2m s\u1ea3n kh\u00e1c tr\u1eeb g\u1ed7",
+        "code": "02310"
+    },
+    {
+        "name": "Thu nh\u1eb7t l\u00e2m s\u1ea3n kh\u00e1c tr\u1eeb g\u1ed7",
+        "code": "02320"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 l\u00e2m nghi\u1ec7p",
+        "code": "02400"
+    },
+    {
+        "name": "Khai th\u00e1c, nu\u00f4i tr\u1ed3ng thu\u1ef7 s\u1ea3n",
+        "code": "03"
+    },
+    {
+        "name": "Khai th\u00e1c thu\u1ef7 s\u1ea3n",
+        "code": "031"
+    },
+    {
+        "name": "Khai th\u00e1c thu\u1ef7 s\u1ea3n bi\u1ec3n",
+        "code": "03110"
+    },
+    {
+        "name": "Khai th\u00e1c thu\u1ef7 s\u1ea3n n\u1ed9i \u0111\u1ecba",
+        "code": "03120"
+    },
+    {
+        "name": "Nu\u00f4i tr\u1ed3ng thu\u1ef7 s\u1ea3n",
+        "code": "032"
+    },
+    {
+        "name": "Nu\u00f4i tr\u1ed3ng thu\u1ef7 s\u1ea3n bi\u1ec3n",
+        "code": "0321"
+    },
+    {
+        "name": "Nu\u00f4i c\u00e1",
+        "code": "03211"
+    },
+    {
+        "name": "Nu\u00f4i t\u00f4m",
+        "code": "03212"
+    },
+    {
+        "name": "Nu\u00f4i th\u1ee7y s\u1ea3n kh\u00e1c",
+        "code": "03213"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t gi\u1ed1ng th\u1ee7y s\u1ea3n bi\u1ec3n",
+        "code": "03214"
+    },
+    {
+        "name": "Nu\u00f4i tr\u1ed3ng thu\u1ef7 s\u1ea3n n\u1ed9i \u0111\u1ecba",
+        "code": "0322"
+    },
+    {
+        "name": "Nu\u00f4i c\u00e1",
+        "code": "03221"
+    },
+    {
+        "name": "Nu\u00f4i t\u00f4m",
+        "code": "03222"
+    },
+    {
+        "name": "Nu\u00f4i th\u1ee7y s\u1ea3n kh\u00e1c",
+        "code": "03223"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t gi\u1ed1ng th\u1ee7y s\u1ea3n n\u1ed9i \u0111\u1ecba",
+        "code": "03224"
+    },
+    {
+        "name": "Khai th\u00e1c than c\u1ee9ng v\u00e0 than non",
+        "code": "05"
+    },
+    {
+        "name": "Khai th\u00e1c v\u00e0 thu gom than c\u1ee9ng",
+        "code": "05100"
+    },
+    {
+        "name": "Khai th\u00e1c v\u00e0 thu gom than non",
+        "code": "05200"
+    },
+    {
+        "name": "Khai th\u00e1c d\u1ea7u th\u00f4 v\u00e0 kh\u00ed \u0111\u1ed1t t\u1ef1 nhi\u00ean",
+        "code": "06"
+    },
+    {
+        "name": "Khai th\u00e1c d\u1ea7u th\u00f4",
+        "code": "06100"
+    },
+    {
+        "name": "Khai th\u00e1c kh\u00ed \u0111\u1ed1t t\u1ef1 nhi\u00ean",
+        "code": "06200"
+    },
+    {
+        "name": "Khai th\u00e1c qu\u1eb7ng kim lo\u1ea1i",
+        "code": "07"
+    },
+    {
+        "name": "Khai th\u00e1c qu\u1eb7ng s\u1eaft",
+        "code": "07100"
+    },
+    {
+        "name": "Khai th\u00e1c qu\u1eb7ng kh\u00f4ng ch\u1ee9a s\u1eaft (tr\u1eeb qu\u1eb7ng kim lo\u1ea1i qu\u00fd hi\u1ebfm)",
+        "code": "072"
+    },
+    {
+        "name": "Khai th\u00e1c qu\u1eb7ng uranium v\u00e0 qu\u1eb7ng thorium",
+        "code": "07210"
+    },
+    {
+        "name": "Khai th\u00e1c qu\u1eb7ng kim lo\u1ea1i kh\u00e1c kh\u00f4ng ch\u1ee9a s\u1eaft",
+        "code": "0722"
+    },
+    {
+        "name": "Khai th\u00e1c qu\u1eb7ng b\u00f4x\u00edt",
+        "code": "07221"
+    },
+    {
+        "name": "Khai th\u00e1c qu\u1eb7ng kim lo\u1ea1i kh\u00e1c kh\u00f4ng ch\u1ee9a s\u1eaft ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "07229"
+    },
+    {
+        "name": "Khai th\u00e1c qu\u1eb7ng kim lo\u1ea1i qu\u00fd hi\u1ebfm",
+        "code": "07300"
+    },
+    {
+        "name": "Khai kho\u00e1ng kh\u00e1c",
+        "code": "08"
+    },
+    {
+        "name": "Khai th\u00e1c \u0111\u00e1, c\u00e1t, s\u1ecfi, \u0111\u1ea5t s\u00e9t",
+        "code": "0810"
+    },
+    {
+        "name": "Khai th\u00e1c \u0111\u00e1",
+        "code": "08101"
+    },
+    {
+        "name": "Khai th\u00e1c c\u00e1t, s\u1ecfi",
+        "code": "08102"
+    },
+    {
+        "name": "Khai th\u00e1c \u0111\u1ea5t s\u00e9t",
+        "code": "08103"
+    },
+    {
+        "name": "Khai kho\u00e1ng ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "089"
+    },
+    {
+        "name": "Khai th\u00e1c kho\u00e1ng ho\u00e1 ch\u1ea5t v\u00e0 kho\u00e1ng ph\u00e2n b\u00f3n",
+        "code": "08910"
+    },
+    {
+        "name": "Khai th\u00e1c v\u00e0 thu gom than b\u00f9n",
+        "code": "08920"
+    },
+    {
+        "name": "Khai th\u00e1c mu\u1ed1i",
+        "code": "08930"
+    },
+    {
+        "name": "Khai kho\u00e1ng kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "08990"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 khai kho\u00e1ng",
+        "code": "09"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 khai th\u00e1c d\u1ea7u th\u00f4 v\u00e0 kh\u00ed t\u1ef1 nhi\u00ean",
+        "code": "09100"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 khai kho\u00e1ng kh\u00e1c",
+        "code": "09900"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t, ch\u1ebf bi\u1ebfn th\u1ef1c ph\u1ea9m",
+        "code": "10"
+    },
+    {
+        "name": "Ch\u1ebf bi\u1ebfn, b\u1ea3o qu\u1ea3n th\u1ecbt v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m t\u1eeb th\u1ecbt",
+        "code": "1010"
+    },
+    {
+        "name": "Gi\u1ebft m\u1ed5 gia s\u00fac, gia c\u1ea7m",
+        "code": "10101"
+    },
+    {
+        "name": "Ch\u1ebf bi\u1ebfn v\u00e0 b\u1ea3o qu\u1ea3n th\u1ecbt",
+        "code": "10102"
+    },
+    {
+        "name": "Ch\u1ebf bi\u1ebfn v\u00e0 b\u1ea3o qu\u1ea3n c\u00e1c s\u1ea3n ph\u1ea9m t\u1eeb th\u1ecbt",
+        "code": "10109"
+    },
+    {
+        "name": "Ch\u1ebf bi\u1ebfn, b\u1ea3o qu\u1ea3n thu\u1ef7 s\u1ea3n v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m t\u1eeb thu\u1ef7 s\u1ea3n",
+        "code": "1020"
+    },
+    {
+        "name": "Ch\u1ebf bi\u1ebfn v\u00e0 b\u1ea3o qu\u1ea3n th\u1ee7y s\u1ea3n \u0111\u00f4ng l\u1ea1nh",
+        "code": "10201"
+    },
+    {
+        "name": "Ch\u1ebf bi\u1ebfn v\u00e0 b\u1ea3o qu\u1ea3n th\u1ee7y s\u1ea3n kh\u00f4",
+        "code": "10202"
+    },
+    {
+        "name": "Ch\u1ebf bi\u1ebfn v\u00e0 b\u1ea3o qu\u1ea3n n\u01b0\u1edbc m\u1eafm",
+        "code": "10203"
+    },
+    {
+        "name": "Ch\u1ebf bi\u1ebfn v\u00e0 b\u1ea3o qu\u1ea3n c\u00e1c s\u1ea3n ph\u1ea9m kh\u00e1c t\u1eeb th\u1ee7y s\u1ea3n",
+        "code": "10209"
+    },
+    {
+        "name": "Ch\u1ebf bi\u1ebfn v\u00e0 b\u1ea3o qu\u1ea3n rau qu\u1ea3",
+        "code": "1030"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t n\u01b0\u1edbc \u00e9p t\u1eeb rau qu\u1ea3",
+        "code": "10301"
+    },
+    {
+        "name": "Ch\u1ebf bi\u1ebfn v\u00e0 b\u1ea3o qu\u1ea3n rau qu\u1ea3 kh\u00e1c",
+        "code": "10309"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t d\u1ea7u, m\u1ee1 \u0111\u1ed9ng, th\u1ef1c v\u1eadt",
+        "code": "1040"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t d\u1ea7u, m\u1ee1 \u0111\u1ed9ng v\u1eadt",
+        "code": "10401"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t d\u1ea7u, b\u01a1 th\u1ef1c v\u1eadt",
+        "code": "10402"
+    },
+    {
+        "name": "Ch\u1ebf bi\u1ebfn s\u1eefa v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m t\u1eeb s\u1eefa",
+        "code": "10500"
+    },
+    {
+        "name": "Xay x\u00e1t v\u00e0 s\u1ea3n xu\u1ea5t b\u1ed9t",
+        "code": "106"
+    },
+    {
+        "name": "Xay x\u00e1t v\u00e0 s\u1ea3n xu\u1ea5t b\u1ed9t th\u00f4",
+        "code": "1061"
+    },
+    {
+        "name": "Xay x\u00e1t",
+        "code": "10611"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t b\u1ed9t th\u00f4",
+        "code": "10612"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t tinh b\u1ed9t v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m t\u1eeb tinh b\u1ed9t",
+        "code": "10620"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t th\u1ef1c ph\u1ea9m kh\u00e1c",
+        "code": "107"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t c\u00e1c lo\u1ea1i b\u00e1nh t\u1eeb b\u1ed9t",
+        "code": "10710"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111\u01b0\u1eddng",
+        "code": "10720"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t ca cao, s\u00f4c\u00f4la v\u00e0 b\u00e1nh k\u1eb9o",
+        "code": "10730"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00ec \u1ed1ng, m\u1ef3 s\u1ee3i v\u00e0 s\u1ea3n ph\u1ea9m t\u01b0\u01a1ng t\u1ef1",
+        "code": "10740"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00f3n \u0103n, th\u1ee9c \u0103n ch\u1ebf bi\u1ebfn s\u1eb5n",
+        "code": "1075"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00f3n \u0103n, th\u1ee9c \u0103n ch\u1ebf bi\u1ebfn s\u1eb5n t\u1eeb th\u1ecbt",
+        "code": "10751"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00f3n \u0103n, th\u1ee9c \u0103n ch\u1ebf bi\u1ebfn s\u1eb5n t\u1eeb th\u1ee7y s\u1ea3n",
+        "code": "10752"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00f3n \u0103n, th\u1ee9c \u0103n ch\u1ebf bi\u1ebfn s\u1eb5n kh\u00e1c",
+        "code": "10759"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t ch\u00e8",
+        "code": "10760"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t c\u00e0 ph\u00ea",
+        "code": "10770"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t th\u1ef1c ph\u1ea9m kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "10790"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t th\u1ee9c \u0103n gia s\u00fac, gia c\u1ea7m v\u00e0 thu\u1ef7 s\u1ea3n",
+        "code": "10800"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111\u1ed3 u\u1ed1ng",
+        "code": "110"
+    },
+    {
+        "name": "Ch\u01b0ng, tinh c\u1ea5t v\u00e0 pha ch\u1ebf c\u00e1c lo\u1ea1i r\u01b0\u1ee3u m\u1ea1nh",
+        "code": "11010"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t r\u01b0\u1ee3u vang",
+        "code": "11020"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t bia v\u00e0 m\u1ea1ch nha \u1ee7 men bia",
+        "code": "11030"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111\u1ed3 u\u1ed1ng kh\u00f4ng c\u1ed3n, n\u01b0\u1edbc kho\u00e1ng",
+        "code": "1104"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t n\u01b0\u1edbc kho\u00e1ng, n\u01b0\u1edbc tinh khi\u1ebft \u0111\u00f3ng chai",
+        "code": "11041"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111\u1ed3 u\u1ed1ng kh\u00f4ng c\u1ed3n",
+        "code": "11042"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m thu\u1ed1c l\u00e1",
+        "code": "1200"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thu\u1ed1c l\u00e1",
+        "code": "12001"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thu\u1ed1c h\u00fat kh\u00e1c",
+        "code": "12009"
+    },
+    {
+        "name": "D\u1ec7t",
+        "code": "13"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ee3i, v\u1ea3i d\u1ec7t thoi v\u00e0 ho\u00e0n thi\u1ec7n s\u1ea3n ph\u1ea9m d\u1ec7t",
+        "code": "131"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ee3i",
+        "code": "13110"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t v\u1ea3i d\u1ec7t thoi",
+        "code": "13120"
+    },
+    {
+        "name": "Ho\u00e0n thi\u1ec7n s\u1ea3n ph\u1ea9m d\u1ec7t",
+        "code": "13130"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t h\u00e0ng d\u1ec7t kh\u00e1c",
+        "code": "139"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t v\u1ea3i d\u1ec7t kim, v\u1ea3i \u0111an m\u00f3c v\u00e0 v\u1ea3i kh\u00f4ng d\u1ec7t kh\u00e1c",
+        "code": "13910"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t h\u00e0ng d\u1ec7t s\u1eb5n (tr\u1eeb trang ph\u1ee5c)",
+        "code": "13920"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t th\u1ea3m, ch\u0103n, \u0111\u1ec7m",
+        "code": "13930"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t c\u00e1c lo\u1ea1i d\u00e2y b\u1ec7n v\u00e0 l\u01b0\u1edbi",
+        "code": "13940"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t c\u00e1c lo\u1ea1i h\u00e0ng d\u1ec7t kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "13990"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t trang ph\u1ee5c",
+        "code": "14"
+    },
+    {
+        "name": "May trang ph\u1ee5c (tr\u1eeb trang ph\u1ee5c t\u1eeb da l\u00f4ng th\u00fa)",
+        "code": "14100"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m t\u1eeb da l\u00f4ng th\u00fa",
+        "code": "14200"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t trang ph\u1ee5c d\u1ec7t kim, \u0111an m\u00f3c",
+        "code": "14300"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t da v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m c\u00f3 li\u00ean quan",
+        "code": "15"
+    },
+    {
+        "name": "Thu\u1ed9c, s\u01a1 ch\u1ebf da; s\u1ea3n xu\u1ea5t va li, t\u00fai x\u00e1ch, y\u00ean \u0111\u1ec7m; s\u01a1 ch\u1ebf v\u00e0 nhu\u1ed9m da l\u00f4ng th\u00fa",
+        "code": "151"
+    },
+    {
+        "name": "Thu\u1ed9c, s\u01a1 ch\u1ebf da; s\u01a1 ch\u1ebf v\u00e0 nhu\u1ed9m da l\u00f4ng th\u00fa",
+        "code": "15110"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t vali, t\u00fai x\u00e1ch v\u00e0 c\u00e1c lo\u1ea1i t\u01b0\u01a1ng t\u1ef1, s\u1ea3n xu\u1ea5t y\u00ean \u0111\u1ec7m",
+        "code": "15120"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t gi\u00e0y, d\u00e9p",
+        "code": "15200"
+    },
+    {
+        "name": "Ch\u1ebf bi\u1ebfn g\u1ed7 v\u00e0 s\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m t\u1eeb g\u1ed7, tre, n\u1ee9a (tr\u1eeb gi\u01b0\u1eddng, t\u1ee7, b\u00e0n, gh\u1ebf); s\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m t\u1eeb r\u01a1m, r\u1ea1 v\u00e0 v\u1eadt li\u1ec7u t\u1ebft b\u1ec7n",
+        "code": "16"
+    },
+    {
+        "name": "C\u01b0a, x\u1ebb, b\u00e0o g\u1ed7 v\u00e0 b\u1ea3o qu\u1ea3n g\u1ed7",
+        "code": "1610"
+    },
+    {
+        "name": "C\u01b0a, x\u1ebb v\u00e0 b\u00e0o g\u1ed7",
+        "code": "16101"
+    },
+    {
+        "name": "B\u1ea3o qu\u1ea3n g\u1ed7",
+        "code": "16102"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m t\u1eeb g\u1ed7, tre, n\u1ee9a (tr\u1eeb gi\u01b0\u1eddng, t\u1ee7, b\u00e0n, gh\u1ebf); s\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m t\u1eeb r\u01a1m, r\u1ea1 v\u00e0 v\u1eadt li\u1ec7u t\u1ebft b\u1ec7n",
+        "code": "162"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t g\u1ed7 d\u00e1n, g\u1ed7 l\u1ea1ng, v\u00e1n \u00e9p v\u00e0 v\u00e1n m\u1ecfng kh\u00e1c",
+        "code": "16210"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111\u1ed3 g\u1ed7 x\u00e2y d\u1ef1ng",
+        "code": "16220"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t bao b\u00ec b\u1eb1ng g\u1ed7",
+        "code": "16230"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m kh\u00e1c t\u1eeb g\u1ed7; s\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m t\u1eeb tre, n\u1ee9a, r\u01a1m, r\u1ea1 v\u00e0 v\u1eadt li\u1ec7u t\u1ebft b\u1ec7n",
+        "code": "1629"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m kh\u00e1c t\u1eeb g\u1ed7",
+        "code": "16291"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m t\u1eeb l\u00e2m s\u1ea3n (tr\u1eeb g\u1ed7), c\u00f3i v\u00e0 v\u1eadt li\u1ec7u t\u1ebft b\u1ec7n",
+        "code": "16292"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t gi\u1ea5y v\u00e0 s\u1ea3n ph\u1ea9m t\u1eeb gi\u1ea5y",
+        "code": "170"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t b\u1ed9t gi\u1ea5y, gi\u1ea5y v\u00e0 b\u00eca",
+        "code": "17010"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t gi\u1ea5y nh\u0103n, b\u00eca nh\u0103n, bao b\u00ec t\u1eeb gi\u1ea5y v\u00e0 b\u00eca",
+        "code": "1702"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t bao b\u00ec b\u1eb1ng gi\u1ea5y, b\u00eca",
+        "code": "17021"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t gi\u1ea5y nh\u0103n v\u00e0 b\u00eca nh\u0103n",
+        "code": "17022"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t c\u00e1c s\u1ea3n ph\u1ea9m kh\u00e1c t\u1eeb gi\u1ea5y v\u00e0 b\u00eca ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "17090"
+    },
+    {
+        "name": "In, sao ch\u00e9p b\u1ea3n ghi c\u00e1c lo\u1ea1i",
+        "code": "18"
+    },
+    {
+        "name": "In \u1ea5n v\u00e0 d\u1ecbch v\u1ee5 li\u00ean quan \u0111\u1ebfn in",
+        "code": "181"
+    },
+    {
+        "name": "In \u1ea5n",
+        "code": "18110"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 li\u00ean quan \u0111\u1ebfn in",
+        "code": "18120"
+    },
+    {
+        "name": "Sao ch\u00e9p b\u1ea3n ghi c\u00e1c lo\u1ea1i",
+        "code": "18200"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t than c\u1ed1c, s\u1ea3n ph\u1ea9m d\u1ea7u m\u1ecf tinh ch\u1ebf",
+        "code": "19"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t than c\u1ed1c",
+        "code": "19100"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m d\u1ea7u m\u1ecf tinh ch\u1ebf",
+        "code": "19200"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t ho\u00e1 ch\u1ea5t v\u00e0 s\u1ea3n ph\u1ea9m ho\u00e1 ch\u1ea5t",
+        "code": "20"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t ho\u00e1 ch\u1ea5t c\u01a1 b\u1ea3n, ph\u00e2n b\u00f3n v\u00e0 h\u1ee3p ch\u1ea5t ni t\u01a1; s\u1ea3n xu\u1ea5t plastic v\u00e0 cao su t\u1ed5ng h\u1ee3p d\u1ea1ng nguy\u00ean sinh",
+        "code": "201"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t ho\u00e1 ch\u1ea5t c\u01a1 b\u1ea3n",
+        "code": "2011"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t kh\u00ed c\u00f4ng nghi\u1ec7p",
+        "code": "20111"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t ch\u1ea5t nhu\u1ed9m v\u00e0 ch\u1ea5t m\u00e0u",
+        "code": "20112"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t h\u00f3a ch\u1ea5t v\u00f4 c\u01a1 c\u01a1 b\u1ea3n kh\u00e1c",
+        "code": "20113"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t ho\u00e1 ch\u1ea5t h\u1eefu c\u01a1 c\u01a1 b\u1ea3n kh\u00e1c",
+        "code": "20114"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t h\u00f3a ch\u1ea5t c\u01a1 b\u1ea3n kh\u00e1c",
+        "code": "20119"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t ph\u00e2n b\u00f3n v\u00e0 h\u1ee3p ch\u1ea5t ni t\u01a1",
+        "code": "20120"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t plastic v\u00e0 cao su t\u1ed5ng h\u1ee3p d\u1ea1ng nguy\u00ean sinh",
+        "code": "2013"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t plastic nguy\u00ean sinh",
+        "code": "20131"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t cao su t\u1ed5ng h\u1ee3p d\u1ea1ng nguy\u00ean sinh",
+        "code": "20132"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m ho\u00e1 ch\u1ea5t kh\u00e1c",
+        "code": "202"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thu\u1ed1c tr\u1eeb s\u00e2u v\u00e0 s\u1ea3n ph\u1ea9m ho\u00e1 ch\u1ea5t kh\u00e1c d\u00f9ng trong n\u00f4ng nghi\u1ec7p",
+        "code": "20210"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u01a1n, v\u00e9c ni v\u00e0 c\u00e1c ch\u1ea5t s\u01a1n, qu\u00e9t t\u01b0\u01a1ng t\u1ef1; s\u1ea3n xu\u1ea5t m\u1ef1c in v\u00e0 ma t\u00edt",
+        "code": "2022"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u01a1n, v\u00e9c ni v\u00e0 c\u00e1c ch\u1ea5t s\u01a1n, qu\u00e9t t\u01b0\u01a1ng t\u1ef1, ma t\u00edt",
+        "code": "20221"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u1ef1c in",
+        "code": "20222"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u1ef9 ph\u1ea9m, x\u00e0 ph\u00f2ng, ch\u1ea5t t\u1ea9y r\u1eeda, l\u00e0m b\u00f3ng v\u00e0 ch\u1ebf ph\u1ea9m v\u1ec7 sinh",
+        "code": "2023"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u1ef9 ph\u1ea9m",
+        "code": "20231"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t x\u00e0 ph\u00f2ng, ch\u1ea5t t\u1ea9y r\u1eeda, l\u00e0m b\u00f3ng v\u00e0 ch\u1ebf ph\u1ea9m v\u1ec7 sinh",
+        "code": "20232"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m ho\u00e1 ch\u1ea5t kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "20290"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ee3i nh\u00e2n t\u1ea1o",
+        "code": "20300"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thu\u1ed1c, ho\u00e1 d\u01b0\u1ee3c v\u00e0 d\u01b0\u1ee3c li\u1ec7u",
+        "code": "21"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thu\u1ed1c, ho\u00e1 d\u01b0\u1ee3c v\u00e0 d\u01b0\u1ee3c li\u1ec7u",
+        "code": "2100"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thu\u1ed1c c\u00e1c lo\u1ea1i",
+        "code": "21001"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t ho\u00e1 d\u01b0\u1ee3c v\u00e0 d\u01b0\u1ee3c li\u1ec7u",
+        "code": "21002"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m t\u1eeb cao su v\u00e0 plastic",
+        "code": "22"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m t\u1eeb cao su",
+        "code": "221"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u0103m, l\u1ed1p cao su; \u0111\u1eafp v\u00e0 t\u00e1i ch\u1ebf l\u1ed1p cao su",
+        "code": "22110"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m kh\u00e1c t\u1eeb cao su",
+        "code": "22190"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m t\u1eeb plastic",
+        "code": "2220"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t bao b\u00ec t\u1eeb plastic",
+        "code": "22201"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m kh\u00e1c t\u1eeb plastic",
+        "code": "22209"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m t\u1eeb kho\u00e1ng phi kim lo\u1ea1i kh\u00e1c",
+        "code": "23"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thu\u1ef7 tinh v\u00e0 s\u1ea3n ph\u1ea9m t\u1eeb thu\u1ef7 tinh",
+        "code": "2310"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t th\u1ee7y tinh ph\u1eb3ng v\u00e0 s\u1ea3n ph\u1ea9m t\u1eeb th\u1ee7y tinh ph\u1eb3ng",
+        "code": "23101"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t th\u1ee7y tinh r\u1ed7ng v\u00e0 s\u1ea3n ph\u1ea9m t\u1eeb th\u1ee7y tinh r\u1ed7ng",
+        "code": "23102"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ee3i th\u1ee7y tinh v\u00e0 s\u1ea3n ph\u1ea9m t\u1eeb s\u1ee3i th\u1ee7y tinh",
+        "code": "23103"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t th\u1ee7y tinh kh\u00e1c v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m t\u1eeb th\u1ee7y tinh",
+        "code": "23109"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m t\u1eeb kho\u00e1ng phi kim lo\u1ea1i ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "239"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m ch\u1ecbu l\u1eeda",
+        "code": "23910"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t v\u1eadt li\u1ec7u x\u00e2y d\u1ef1ng t\u1eeb \u0111\u1ea5t s\u00e9t",
+        "code": "23920"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m g\u1ed1m s\u1ee9 kh\u00e1c",
+        "code": "23930"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t xi m\u0103ng, v\u00f4i v\u00e0 th\u1ea1ch cao",
+        "code": "2394"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t xi m\u0103ng",
+        "code": "23941"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t v\u00f4i",
+        "code": "23942"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t th\u1ea1ch cao",
+        "code": "23943"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t b\u00ea t\u00f4ng v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m t\u1eeb b\u00ea t\u00f4ng, xi m\u0103ng v\u00e0 th\u1ea1ch cao",
+        "code": "23950"
+    },
+    {
+        "name": "C\u1eaft t\u1ea1o d\u00e1ng v\u00e0 ho\u00e0n thi\u1ec7n \u0111\u00e1",
+        "code": "23960"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m t\u1eeb ch\u1ea5t kho\u00e1ng phi kim lo\u1ea1i kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "23990"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t kim lo\u1ea1i",
+        "code": "24"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1eaft, th\u00e9p, gang",
+        "code": "24100"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t kim lo\u1ea1i qu\u00fd v\u00e0 kim lo\u1ea1i m\u00e0u",
+        "code": "2420"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t kim lo\u1ea1i qu\u00fd",
+        "code": "24201"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t kim lo\u1ea1i m\u00e0u",
+        "code": "24202"
+    },
+    {
+        "name": "\u0110\u00fac kim lo\u1ea1i",
+        "code": "243"
+    },
+    {
+        "name": "\u0110\u00fac s\u1eaft, th\u00e9p",
+        "code": "24310"
+    },
+    {
+        "name": "\u0110\u00fac kim lo\u1ea1i m\u00e0u",
+        "code": "24320"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m t\u1eeb kim lo\u1ea1i \u0111\u00fac s\u1eb5n (tr\u1eeb m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb)",
+        "code": "25"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t c\u00e1c c\u1ea5u ki\u1ec7n kim lo\u1ea1i, th\u00f9ng, b\u1ec3 ch\u1ee9a v\u00e0 n\u1ed3i h\u01a1i",
+        "code": "251"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t c\u00e1c c\u1ea5u ki\u1ec7n kim lo\u1ea1i",
+        "code": "25110"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t th\u00f9ng, b\u1ec3 ch\u1ee9a v\u00e0 d\u1ee5ng c\u1ee5 ch\u1ee9a \u0111\u1ef1ng b\u1eb1ng kim lo\u1ea1i",
+        "code": "25120"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t n\u1ed3i h\u01a1i (tr\u1eeb n\u1ed3i h\u01a1i trung t\u00e2m)",
+        "code": "25130"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t v\u0169 kh\u00ed v\u00e0 \u0111\u1ea1n d\u01b0\u1ee3c",
+        "code": "25200"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m kh\u00e1c b\u1eb1ng kim lo\u1ea1i; c\u00e1c d\u1ecbch v\u1ee5 x\u1eed l\u00fd, gia c\u00f4ng kim lo\u1ea1i",
+        "code": "259"
+    },
+    {
+        "name": "R\u00e8n, d\u1eadp, \u00e9p v\u00e0 c\u00e1n kim lo\u1ea1i; luy\u1ec7n b\u1ed9t kim lo\u1ea1i",
+        "code": "25910"
+    },
+    {
+        "name": "Gia c\u00f4ng c\u01a1 kh\u00ed; x\u1eed l\u00fd v\u00e0 tr\u00e1ng ph\u1ee7 kim lo\u1ea1i",
+        "code": "25920"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t dao k\u00e9o, d\u1ee5ng c\u1ee5 c\u1ea7m tay v\u00e0 \u0111\u1ed3 kim lo\u1ea1i th\u00f4ng d\u1ee5ng",
+        "code": "25930"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m kh\u00e1c b\u1eb1ng kim lo\u1ea1i ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "2599"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111\u1ed3 d\u00f9ng b\u1eb1ng kim lo\u1ea1i cho nh\u00e0 b\u1ebfp, nh\u00e0 v\u1ec7 sinh v\u00e0 nh\u00e0 \u0103n",
+        "code": "25991"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m kh\u00e1c c\u00f2n l\u1ea1i b\u1eb1ng kim lo\u1ea1i ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "25999"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m \u0111i\u1ec7n t\u1eed, m\u00e1y vi t\u00ednh v\u00e0 s\u1ea3n ph\u1ea9m quang h\u1ecdc",
+        "code": "26"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t linh ki\u1ec7n \u0111i\u1ec7n t\u1eed",
+        "code": "26100"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y vi t\u00ednh v\u00e0 thi\u1ebft b\u1ecb ngo\u1ea1i vi c\u1ee7a m\u00e1y vi t\u00ednh",
+        "code": "26200"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thi\u1ebft b\u1ecb truy\u1ec1n th\u00f4ng",
+        "code": "26300"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m \u0111i\u1ec7n t\u1eed d\u00e2n d\u1ee5ng",
+        "code": "26400"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thi\u1ebft b\u1ecb \u0111o l\u01b0\u1eddng, ki\u1ec3m tra, \u0111\u1ecbnh h\u01b0\u1edbng v\u00e0 \u0111i\u1ec1u khi\u1ec3n; s\u1ea3n xu\u1ea5t \u0111\u1ed3ng h\u1ed3",
+        "code": "265"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thi\u1ebft b\u1ecb \u0111o l\u01b0\u1eddng, ki\u1ec3m tra, \u0111\u1ecbnh h\u01b0\u1edbng v\u00e0 \u0111i\u1ec1u khi\u1ec3n",
+        "code": "26510"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111\u1ed3ng h\u1ed3",
+        "code": "26520"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thi\u1ebft b\u1ecb b\u1ee9c x\u1ea1, thi\u1ebft b\u1ecb \u0111i\u1ec7n t\u1eed trong y h\u1ecdc, \u0111i\u1ec7n li\u1ec7u ph\u00e1p",
+        "code": "26600"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thi\u1ebft b\u1ecb v\u00e0 d\u1ee5ng c\u1ee5 quang h\u1ecdc",
+        "code": "26700"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t b\u0103ng, \u0111\u0129a t\u1eeb t\u00ednh v\u00e0 quang h\u1ecdc",
+        "code": "26800"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thi\u1ebft b\u1ecb \u0111i\u1ec7n",
+        "code": "27"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00f4 t\u01a1, m\u00e1y ph\u00e1t, bi\u1ebfn th\u1ebf \u0111i\u1ec7n, thi\u1ebft b\u1ecb ph\u00e2n ph\u1ed1i v\u00e0 \u0111i\u1ec1u khi\u1ec3n \u0111i\u1ec7n",
+        "code": "2710"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00f4 t\u01a1, m\u00e1y ph\u00e1t",
+        "code": "27101"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t bi\u1ebfn th\u1ebf \u0111i\u1ec7n, thi\u1ebft b\u1ecb ph\u00e2n ph\u1ed1i v\u00e0 \u0111i\u1ec1u khi\u1ec3n \u0111i\u1ec7n",
+        "code": "27102"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t pin v\u00e0 \u1eafc quy",
+        "code": "27200"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t d\u00e2y v\u00e0 thi\u1ebft b\u1ecb d\u00e2y d\u1eabn",
+        "code": "273"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t d\u00e2y c\u00e1p, s\u1ee3i c\u00e1p quang h\u1ecdc",
+        "code": "27310"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t d\u00e2y, c\u00e1p \u0111i\u1ec7n v\u00e0 \u0111i\u1ec7n t\u1eed kh\u00e1c",
+        "code": "27320"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thi\u1ebft b\u1ecb d\u00e2y d\u1eabn \u0111i\u1ec7n c\u00e1c lo\u1ea1i",
+        "code": "27330"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thi\u1ebft b\u1ecb \u0111i\u1ec7n chi\u1ebfu s\u00e1ng",
+        "code": "27400"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111\u1ed3 \u0111i\u1ec7n d\u00e2n d\u1ee5ng",
+        "code": "27500"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thi\u1ebft b\u1ecb \u0111i\u1ec7n kh\u00e1c",
+        "code": "27900"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "28"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y th\u00f4ng d\u1ee5ng",
+        "code": "281"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111\u1ed9ng c\u01a1, tua bin (tr\u1eeb \u0111\u1ed9ng c\u01a1 m\u00e1y bay, \u00f4 t\u00f4, m\u00f4 t\u00f4 v\u00e0 xe m\u00e1y)",
+        "code": "28110"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thi\u1ebft b\u1ecb s\u1eed d\u1ee5ng n\u0103ng l\u01b0\u1ee3ng chi\u1ebft l\u01b0u",
+        "code": "28120"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y b\u01a1m, m\u00e1y n\u00e9n, v\u00f2i v\u00e0 van kh\u00e1c",
+        "code": "28130"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t bi, b\u00e1nh r\u0103ng, h\u1ed9p s\u1ed1, c\u00e1c b\u1ed9 ph\u1eadn \u0111i\u1ec1u khi\u1ec3n v\u00e0 truy\u1ec1n chuy\u1ec3n \u0111\u1ed9ng",
+        "code": "28140"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t l\u00f2 n\u01b0\u1edbng, l\u00f2 luy\u1ec7n v\u00e0 l\u00f2 nung",
+        "code": "28150"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t c\u00e1c thi\u1ebft b\u1ecb n\u00e2ng, h\u1ea1 v\u00e0 b\u1ed1c x\u1ebfp",
+        "code": "28160"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y m\u00f3c v\u00e0 thi\u1ebft b\u1ecb v\u0103n ph\u00f2ng (tr\u1eeb m\u00e1y vi t\u00ednh v\u00e0 thi\u1ebft b\u1ecb ngo\u1ea1i vi c\u1ee7a m\u00e1y vi t\u00ednh)",
+        "code": "28170"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t d\u1ee5ng c\u1ee5 c\u1ea7m tay ch\u1ea1y b\u1eb1ng m\u00f4 t\u01a1 ho\u1eb7c kh\u00ed n\u00e9n",
+        "code": "28180"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y th\u00f4ng d\u1ee5ng kh\u00e1c",
+        "code": "28190"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y chuy\u00ean d\u1ee5ng",
+        "code": "282"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y n\u00f4ng nghi\u1ec7p v\u00e0 l\u00e2m nghi\u1ec7p",
+        "code": "28210"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y c\u00f4ng c\u1ee5 v\u00e0 m\u00e1y t\u1ea1o h\u00ecnh kim lo\u1ea1i",
+        "code": "28220"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y luy\u1ec7n kim",
+        "code": "28230"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y khai th\u00e1c m\u1ecf v\u00e0 x\u00e2y d\u1ef1ng",
+        "code": "28240"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y ch\u1ebf bi\u1ebfn th\u1ef1c ph\u1ea9m, \u0111\u1ed3 u\u1ed1ng v\u00e0 thu\u1ed1c l\u00e1",
+        "code": "28250"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y cho ng\u00e0nh d\u1ec7t, may v\u00e0 da",
+        "code": "28260"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y chuy\u00ean d\u1ee5ng kh\u00e1c",
+        "code": "2829"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y s\u1ea3n xu\u1ea5t v\u1eadt li\u1ec7u x\u00e2y d\u1ef1ng",
+        "code": "28291"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y chuy\u00ean d\u1ee5ng kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "28299"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u00f4 t\u00f4 v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "29"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u00f4 t\u00f4 v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "29100"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t th\u00e2n xe \u00f4 t\u00f4 v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c, r\u01a1 mo\u00f3c v\u00e0 b\u00e1n r\u01a1 mo\u00f3c",
+        "code": "29200"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t ph\u1ee5 t\u00f9ng v\u00e0 b\u1ed9 ph\u1eadn ph\u1ee5 tr\u1ee3 cho xe \u00f4 t\u00f4 v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "29300"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t ph\u01b0\u01a1ng ti\u1ec7n v\u1eadn t\u1ea3i kh\u00e1c",
+        "code": "30"
+    },
+    {
+        "name": "\u0110\u00f3ng t\u00e0u v\u00e0 thuy\u1ec1n",
+        "code": "301"
+    },
+    {
+        "name": "\u0110\u00f3ng t\u00e0u v\u00e0 c\u1ea5u ki\u1ec7n n\u1ed5i",
+        "code": "30110"
+    },
+    {
+        "name": "\u0110\u00f3ng thuy\u1ec1n, xu\u1ed3ng th\u1ec3 thao v\u00e0 gi\u1ea3i tr\u00ed",
+        "code": "30120"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111\u1ea7u m\u00e1y xe l\u1eeda, xe \u0111i\u1ec7n v\u00e0 toa xe",
+        "code": "30200"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00e1y bay, t\u00e0u v\u0169 tr\u1ee5 v\u00e0 m\u00e1y m\u00f3c li\u00ean quan",
+        "code": "30300"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t xe c\u01a1 gi\u1edbi chi\u1ebfn \u0111\u1ea5u d\u00f9ng trong qu\u00e2n \u0111\u1ed9i",
+        "code": "30400"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t ph\u01b0\u01a1ng ti\u1ec7n v\u00e0 thi\u1ebft b\u1ecb v\u1eadn t\u1ea3i ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "309"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t m\u00f4 t\u00f4, xe m\u00e1y",
+        "code": "30910"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t xe \u0111\u1ea1p v\u00e0 xe cho ng\u01b0\u1eddi khuy\u1ebft t\u1eadt",
+        "code": "30920"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t ph\u01b0\u01a1ng ti\u1ec7n v\u00e0 thi\u1ebft b\u1ecb v\u1eadn t\u1ea3i kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "30990"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t gi\u01b0\u1eddng, t\u1ee7, b\u00e0n, gh\u1ebf",
+        "code": "3100"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t gi\u01b0\u1eddng, t\u1ee7, b\u00e0n, gh\u1ebf b\u1eb1ng g\u1ed7",
+        "code": "31001"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t gi\u01b0\u1eddng, t\u1ee7, b\u00e0n, gh\u1ebf b\u1eb1ng kim lo\u1ea1i",
+        "code": "31002"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t gi\u01b0\u1eddng, t\u1ee7, b\u00e0n, gh\u1ebf b\u1eb1ng v\u1eadt li\u1ec7u kh\u00e1c",
+        "code": "31009"
+    },
+    {
+        "name": "C\u00f4ng nghi\u1ec7p ch\u1ebf bi\u1ebfn, ch\u1ebf t\u1ea1o kh\u00e1c",
+        "code": "32"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111\u1ed3 kim ho\u00e0n, \u0111\u1ed3 gi\u1ea3 kim ho\u00e0n v\u00e0 c\u00e1c chi ti\u1ebft li\u00ean quan",
+        "code": "321"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111\u1ed3 kim ho\u00e0n v\u00e0 chi ti\u1ebft li\u00ean quan",
+        "code": "32110"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111\u1ed3 gi\u1ea3 kim ho\u00e0n v\u00e0 chi ti\u1ebft li\u00ean quan",
+        "code": "32120"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t nh\u1ea1c c\u1ee5",
+        "code": "32200"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t d\u1ee5ng c\u1ee5 th\u1ec3 d\u1ee5c, th\u1ec3 thao",
+        "code": "32300"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111\u1ed3 ch\u01a1i, tr\u00f2 ch\u01a1i",
+        "code": "32400"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thi\u1ebft b\u1ecb, d\u1ee5ng c\u1ee5 y t\u1ebf, nha khoa, ch\u1ec9nh h\u00ecnh v\u00e0 ph\u1ee5c h\u1ed3i ch\u1ee9c n\u0103ng",
+        "code": "3250"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t thi\u1ebft b\u1ecb, d\u1ee5ng c\u1ee5 y t\u1ebf, nha khoa",
+        "code": "32501"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t d\u1ee5ng c\u1ee5 ch\u1ec9nh h\u00ecnh, ph\u1ee5c h\u1ed3i ch\u1ee9c n\u0103ng",
+        "code": "32502"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "32900"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa, b\u1ea3o d\u01b0\u1ee1ng v\u00e0 l\u1eafp \u0111\u1eb7t m\u00e1y m\u00f3c v\u00e0 thi\u1ebft b\u1ecb",
+        "code": "33"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa v\u00e0 b\u1ea3o d\u01b0\u1ee1ng m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb v\u00e0 s\u1ea3n ph\u1ea9m kim lo\u1ea1i \u0111\u00fac s\u1eb5n",
+        "code": "331"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa c\u00e1c s\u1ea3n ph\u1ea9m kim lo\u1ea1i \u0111\u00fac s\u1eb5n",
+        "code": "33110"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb",
+        "code": "33120"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa thi\u1ebft b\u1ecb \u0111i\u1ec7n t\u1eed v\u00e0 quang h\u1ecdc",
+        "code": "33130"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa thi\u1ebft b\u1ecb \u0111i\u1ec7n",
+        "code": "33140"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa v\u00e0 b\u1ea3o d\u01b0\u1ee1ng ph\u01b0\u01a1ng ti\u1ec7n v\u1eadn t\u1ea3i (tr\u1eeb \u00f4 t\u00f4, m\u00f4 t\u00f4, xe m\u00e1y v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c)",
+        "code": "33150"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa thi\u1ebft b\u1ecb kh\u00e1c",
+        "code": "33190"
+    },
+    {
+        "name": "L\u1eafp \u0111\u1eb7t m\u00e1y m\u00f3c v\u00e0 thi\u1ebft b\u1ecb c\u00f4ng nghi\u1ec7p",
+        "code": "33200"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t v\u00e0 ph\u00e2n ph\u1ed1i \u0111i\u1ec7n, kh\u00ed \u0111\u1ed1t, n\u01b0\u1edbc n\u00f3ng, h\u01a1i n\u01b0\u1edbc v\u00e0 \u0111i\u1ec1u ho\u00e0 kh\u00f4ng kh\u00ed",
+        "code": "35"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t, truy\u1ec1n t\u1ea3i v\u00e0 ph\u00e2n ph\u1ed1i \u0111i\u1ec7n",
+        "code": "351"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t \u0111i\u1ec7n",
+        "code": "3511"
+    },
+    {
+        "name": "Th\u1ee7y \u0111i\u1ec7n",
+        "code": "35111"
+    },
+    {
+        "name": "Nhi\u1ec7t \u0111i\u1ec7n than",
+        "code": "35112"
+    },
+    {
+        "name": "Nhi\u1ec7t \u0111i\u1ec7n kh\u00ed",
+        "code": "35113"
+    },
+    {
+        "name": "\u0110i\u1ec7n h\u1ea1t nh\u00e2n",
+        "code": "35114"
+    },
+    {
+        "name": "\u0110i\u1ec7n gi\u00f3",
+        "code": "35115"
+    },
+    {
+        "name": "\u0110i\u1ec7n m\u1eb7t tr\u1eddi",
+        "code": "35116"
+    },
+    {
+        "name": "\u0110i\u1ec7n kh\u00e1c",
+        "code": "35119"
+    },
+    {
+        "name": "Truy\u1ec1n t\u1ea3i v\u00e0 ph\u00e2n ph\u1ed1i \u0111i\u1ec7n",
+        "code": "3512"
+    },
+    {
+        "name": "Truy\u1ec1n t\u1ea3i \u0111i\u1ec7n",
+        "code": "35121"
+    },
+    {
+        "name": "Ph\u00e2n ph\u1ed1i \u0111i\u1ec7n",
+        "code": "35122"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t kh\u00ed \u0111\u1ed1t, ph\u00e2n ph\u1ed1i nhi\u00ean li\u1ec7u kh\u00ed b\u1eb1ng \u0111\u01b0\u1eddng \u1ed1ng",
+        "code": "3520"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t kh\u00ed \u0111\u1ed1t",
+        "code": "35201"
+    },
+    {
+        "name": "Ph\u00e2n ph\u1ed1i nhi\u00ean li\u1ec7u kh\u00ed b\u1eb1ng \u0111\u01b0\u1eddng \u1ed1ng",
+        "code": "35202"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t, ph\u00e2n ph\u1ed1i h\u01a1i n\u01b0\u1edbc, n\u01b0\u1edbc n\u00f3ng, \u0111i\u1ec1u ho\u00e0 kh\u00f4ng kh\u00ed v\u00e0 s\u1ea3n xu\u1ea5t n\u01b0\u1edbc \u0111\u00e1",
+        "code": "3530"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t, ph\u00e2n ph\u1ed1i h\u01a1i n\u01b0\u1edbc, n\u01b0\u1edbc n\u00f3ng v\u00e0 \u0111i\u1ec1u ho\u00e0 kh\u00f4ng kh\u00ed",
+        "code": "35301"
+    },
+    {
+        "name": "S\u1ea3n xu\u1ea5t n\u01b0\u1edbc \u0111\u00e1",
+        "code": "35302"
+    },
+    {
+        "name": "Khai th\u00e1c, x\u1eed l\u00fd v\u00e0 cung c\u1ea5p n\u01b0\u1edbc",
+        "code": "36000"
+    },
+    {
+        "name": "Tho\u00e1t n\u01b0\u1edbc v\u00e0 x\u1eed l\u00fd n\u01b0\u1edbc th\u1ea3i",
+        "code": "3700"
+    },
+    {
+        "name": "Tho\u00e1t n\u01b0\u1edbc",
+        "code": "37001"
+    },
+    {
+        "name": "X\u1eed l\u00fd n\u01b0\u1edbc th\u1ea3i",
+        "code": "37002"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng thu gom, x\u1eed l\u00fd v\u00e0 ti\u00eau hu\u1ef7 r\u00e1c th\u1ea3i; t\u00e1i ch\u1ebf ph\u1ebf li\u1ec7u",
+        "code": "38"
+    },
+    {
+        "name": "Thu gom r\u00e1c th\u1ea3i",
+        "code": "381"
+    },
+    {
+        "name": "Thu gom r\u00e1c th\u1ea3i kh\u00f4ng \u0111\u1ed9c h\u1ea1i",
+        "code": "38110"
+    },
+    {
+        "name": "Thu gom r\u00e1c th\u1ea3i \u0111\u1ed9c h\u1ea1i",
+        "code": "3812"
+    },
+    {
+        "name": "Thu gom r\u00e1c th\u1ea3i y t\u1ebf",
+        "code": "38121"
+    },
+    {
+        "name": "Thu gom r\u00e1c th\u1ea3i \u0111\u1ed9c h\u1ea1i kh\u00e1c",
+        "code": "38129"
+    },
+    {
+        "name": "X\u1eed l\u00fd v\u00e0 ti\u00eau hu\u1ef7 r\u00e1c th\u1ea3i",
+        "code": "382"
+    },
+    {
+        "name": "X\u1eed l\u00fd v\u00e0 ti\u00eau hu\u1ef7 r\u00e1c th\u1ea3i kh\u00f4ng \u0111\u1ed9c h\u1ea1i",
+        "code": "38210"
+    },
+    {
+        "name": "X\u1eed l\u00fd v\u00e0 ti\u00eau hu\u1ef7 r\u00e1c th\u1ea3i \u0111\u1ed9c h\u1ea1i",
+        "code": "3822"
+    },
+    {
+        "name": "X\u1eed l\u00fd v\u00e0 ti\u00eau hu\u1ef7 r\u00e1c th\u1ea3i y t\u1ebf",
+        "code": "38221"
+    },
+    {
+        "name": "X\u1eed l\u00fd v\u00e0 ti\u00eau hu\u1ef7 r\u00e1c th\u1ea3i \u0111\u1ed9c h\u1ea1i kh\u00e1c",
+        "code": "38229"
+    },
+    {
+        "name": "T\u00e1i ch\u1ebf ph\u1ebf li\u1ec7u",
+        "code": "3830"
+    },
+    {
+        "name": "T\u00e1i ch\u1ebf ph\u1ebf li\u1ec7u kim lo\u1ea1i",
+        "code": "38301"
+    },
+    {
+        "name": "T\u00e1i ch\u1ebf ph\u1ebf li\u1ec7u phi kim lo\u1ea1i",
+        "code": "38302"
+    },
+    {
+        "name": "X\u1eed l\u00fd \u00f4 nhi\u1ec5m v\u00e0 ho\u1ea1t \u0111\u1ed9ng qu\u1ea3n l\u00fd ch\u1ea5t th\u1ea3i kh\u00e1c",
+        "code": "39000"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng nh\u00e0 c\u00e1c lo\u1ea1i",
+        "code": "410"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng nh\u00e0 \u0111\u1ec3 \u1edf",
+        "code": "41010"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng nh\u00e0 kh\u00f4ng \u0111\u1ec3 \u1edf",
+        "code": "41020"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh k\u1ef9 thu\u1eadt d\u00e2n d\u1ee5ng",
+        "code": "42"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh \u0111\u01b0\u1eddng s\u1eaft v\u00e0 \u0111\u01b0\u1eddng b\u1ed9",
+        "code": "421"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh \u0111\u01b0\u1eddng s\u1eaft",
+        "code": "42110"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh \u0111\u01b0\u1eddng b\u1ed9",
+        "code": "42120"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh c\u00f4ng \u00edch",
+        "code": "422"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh \u0111i\u1ec7n",
+        "code": "42210"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh c\u1ea5p, tho\u00e1t n\u01b0\u1edbc",
+        "code": "42220"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh vi\u1ec5n th\u00f4ng, th\u00f4ng tin li\u00ean l\u1ea1c",
+        "code": "42230"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh c\u00f4ng \u00edch kh\u00e1c",
+        "code": "42290"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh k\u1ef9 thu\u1eadt d\u00e2n d\u1ee5ng kh\u00e1c",
+        "code": "429"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh th\u1ee7y",
+        "code": "42910"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh khai kho\u00e1ng",
+        "code": "42920"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh ch\u1ebf bi\u1ebfn, ch\u1ebf t\u1ea1o",
+        "code": "42930"
+    },
+    {
+        "name": "X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh k\u1ef9 thu\u1eadt d\u00e2n d\u1ee5ng kh\u00e1c",
+        "code": "42990"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng x\u00e2y d\u1ef1ng chuy\u00ean d\u1ee5ng",
+        "code": "43"
+    },
+    {
+        "name": "Ph\u00e1 d\u1ee1 v\u00e0 chu\u1ea9n b\u1ecb m\u1eb7t b\u1eb1ng",
+        "code": "431"
+    },
+    {
+        "name": "Ph\u00e1 d\u1ee1",
+        "code": "43110"
+    },
+    {
+        "name": "Chu\u1ea9n b\u1ecb m\u1eb7t b\u1eb1ng",
+        "code": "43120"
+    },
+    {
+        "name": "L\u1eafp \u0111\u1eb7t h\u1ec7 th\u1ed1ng \u0111i\u1ec7n, h\u1ec7 th\u1ed1ng c\u1ea5p tho\u00e1t n\u01b0\u1edbc v\u00e0 l\u1eafp \u0111\u1eb7t x\u00e2y d\u1ef1ng kh\u00e1c",
+        "code": "432"
+    },
+    {
+        "name": "L\u1eafp \u0111\u1eb7t h\u1ec7 th\u1ed1ng \u0111i\u1ec7n",
+        "code": "43210"
+    },
+    {
+        "name": "L\u1eafp \u0111\u1eb7t h\u1ec7 th\u1ed1ng c\u1ea5p, tho\u00e1t n\u01b0\u1edbc, h\u1ec7 th\u1ed1ng s\u01b0\u1edfi v\u00e0 \u0111i\u1ec1u ho\u00e0 kh\u00f4ng kh\u00ed",
+        "code": "4322"
+    },
+    {
+        "name": "L\u1eafp \u0111\u1eb7t h\u1ec7 th\u1ed1ng c\u1ea5p, tho\u00e1t n\u01b0\u1edbc",
+        "code": "43221"
+    },
+    {
+        "name": "L\u1eafp \u0111\u1eb7t h\u1ec7 th\u1ed1ng s\u01b0\u1edfi v\u00e0 \u0111i\u1ec1u ho\u00e0 kh\u00f4ng kh\u00ed",
+        "code": "43222"
+    },
+    {
+        "name": "L\u1eafp \u0111\u1eb7t h\u1ec7 th\u1ed1ng x\u00e2y d\u1ef1ng kh\u00e1c",
+        "code": "43290"
+    },
+    {
+        "name": "Ho\u00e0n thi\u1ec7n c\u00f4ng tr\u00ecnh x\u00e2y d\u1ef1ng",
+        "code": "43300"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng x\u00e2y d\u1ef1ng chuy\u00ean d\u1ee5ng kh\u00e1c",
+        "code": "43900"
+    },
+    {
+        "name": "B\u00e1n, s\u1eeda ch\u1eefa \u00f4 t\u00f4, m\u00f4 t\u00f4, xe m\u00e1y v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "45"
+    },
+    {
+        "name": "B\u00e1n \u00f4 t\u00f4 v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "451"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n \u00f4 t\u00f4 v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "4511"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n \u00f4 t\u00f4 con (lo\u1ea1i 9 ch\u1ed7 ng\u1ed3i tr\u1edf xu\u1ed1ng)",
+        "code": "45111"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "45119"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb \u00f4 t\u00f4 con (lo\u1ea1i 9 ch\u1ed7 ng\u1ed3i tr\u1edf xu\u1ed1ng)",
+        "code": "45120"
+    },
+    {
+        "name": "\u0110\u1ea1i l\u00fd \u00f4 t\u00f4 v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "4513"
+    },
+    {
+        "name": "\u0110\u1ea1i l\u00fd \u00f4 t\u00f4 con (lo\u1ea1i 9 ch\u1ed7 ng\u1ed3i tr\u1edf xu\u1ed1ng)",
+        "code": "45131"
+    },
+    {
+        "name": "\u0110\u1ea1i l\u00fd xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "45139"
+    },
+    {
+        "name": "B\u1ea3o d\u01b0\u1ee1ng, s\u1eeda ch\u1eefa \u00f4 t\u00f4 v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "45200"
+    },
+    {
+        "name": "B\u00e1n ph\u1ee5 t\u00f9ng v\u00e0 c\u00e1c b\u1ed9 ph\u1eadn ph\u1ee5 tr\u1ee3 c\u1ee7a \u00f4 t\u00f4 v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "4530"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n ph\u1ee5 t\u00f9ng v\u00e0 c\u00e1c b\u1ed9 ph\u1eadn ph\u1ee5 tr\u1ee3 c\u1ee7a \u00f4 t\u00f4 v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "45301"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb ph\u1ee5 t\u00f9ng v\u00e0 c\u00e1c b\u1ed9 ph\u1eadn ph\u1ee5 tr\u1ee3 c\u1ee7a \u00f4 t\u00f4 con (lo\u1ea1i 9 ch\u1ed7 ng\u1ed3i tr\u1edf xu\u1ed1ng)",
+        "code": "45302"
+    },
+    {
+        "name": "\u0110\u1ea1i l\u00fd ph\u1ee5 t\u00f9ng v\u00e0 c\u00e1c b\u1ed9 ph\u1eadn ph\u1ee5 tr\u1ee3 c\u1ee7a \u00f4 t\u00f4 v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "45303"
+    },
+    {
+        "name": "B\u00e1n, b\u1ea3o d\u01b0\u1ee1ng v\u00e0 s\u1eeda ch\u1eefa m\u00f4 t\u00f4, xe m\u00e1y, ph\u1ee5 t\u00f9ng v\u00e0 c\u00e1c b\u1ed9 ph\u1eadn ph\u1ee5 tr\u1ee3 c\u1ee7a m\u00f4 t\u00f4, xe m\u00e1y",
+        "code": "454"
+    },
+    {
+        "name": "B\u00e1n m\u00f4 t\u00f4, xe m\u00e1y",
+        "code": "4541"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n m\u00f4 t\u00f4, xe m\u00e1y",
+        "code": "45411"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb m\u00f4 t\u00f4, xe m\u00e1y",
+        "code": "45412"
+    },
+    {
+        "name": "\u0110\u1ea1i l\u00fd m\u00f4 t\u00f4, xe m\u00e1y",
+        "code": "45413"
+    },
+    {
+        "name": "B\u1ea3o d\u01b0\u1ee1ng v\u00e0 s\u1eeda ch\u1eefa m\u00f4 t\u00f4, xe m\u00e1y",
+        "code": "45420"
+    },
+    {
+        "name": "B\u00e1n ph\u1ee5 t\u00f9ng v\u00e0 c\u00e1c b\u1ed9 ph\u1eadn ph\u1ee5 tr\u1ee3 c\u1ee7a m\u00f4 t\u00f4, xe m\u00e1y",
+        "code": "4543"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n ph\u1ee5 t\u00f9ng v\u00e0 c\u00e1c b\u1ed9 ph\u1eadn ph\u1ee5 tr\u1ee3 c\u1ee7a m\u00f4 t\u00f4, xe m\u00e1y",
+        "code": "45431"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb ph\u1ee5 t\u00f9ng v\u00e0 c\u00e1c b\u1ed9 ph\u1eadn ph\u1ee5 tr\u1ee3 c\u1ee7a m\u00f4 t\u00f4, xe m\u00e1y",
+        "code": "45432"
+    },
+    {
+        "name": "\u0110\u1ea1i l\u00fd ph\u1ee5 t\u00f9ng v\u00e0 c\u00e1c b\u1ed9 ph\u1eadn ph\u1ee5 tr\u1ee3 c\u1ee7a m\u00f4 t\u00f4, xe m\u00e1y",
+        "code": "45433"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n (tr\u1eeb \u00f4 t\u00f4, m\u00f4 t\u00f4, xe m\u00e1y v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c)",
+        "code": "46"
+    },
+    {
+        "name": "\u0110\u1ea1i l\u00fd, m\u00f4i gi\u1edbi, \u0111\u1ea5u gi\u00e1 h\u00e0ng h\u00f3a",
+        "code": "4610"
+    },
+    {
+        "name": "\u0110\u1ea1i l\u00fd b\u00e1n h\u00e0ng h\u00f3a",
+        "code": "46101"
+    },
+    {
+        "name": "M\u00f4i gi\u1edbi mua b\u00e1n h\u00e0ng h\u00f3a",
+        "code": "46102"
+    },
+    {
+        "name": "\u0110\u1ea5u gi\u00e1 h\u00e0ng h\u00f3a",
+        "code": "46103"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n n\u00f4ng, l\u00e2m s\u1ea3n nguy\u00ean li\u1ec7u (tr\u1eeb g\u1ed7, tre, n\u1ee9a) v\u00e0 \u0111\u1ed9ng v\u1eadt s\u1ed1ng",
+        "code": "4620"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n th\u00f3c, ng\u00f4 v\u00e0 c\u00e1c lo\u1ea1i h\u1ea1t ng\u0169 c\u1ed1c kh\u00e1c",
+        "code": "46201"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n hoa v\u00e0 c\u00e2y",
+        "code": "46202"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n \u0111\u1ed9ng v\u1eadt s\u1ed1ng",
+        "code": "46203"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n th\u1ee9c \u0103n v\u00e0 nguy\u00ean li\u1ec7u l\u00e0m th\u1ee9c \u0103n cho gia s\u00fac, gia c\u1ea7m v\u00e0 thu\u1ef7 s\u1ea3n",
+        "code": "46204"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n n\u00f4ng, l\u00e2m s\u1ea3n nguy\u00ean li\u1ec7u kh\u00e1c (tr\u1eeb g\u1ed7, tre, n\u1ee9a)",
+        "code": "46209"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n l\u01b0\u01a1ng th\u1ef1c, th\u1ef1c ph\u1ea9m, \u0111\u1ed3 u\u1ed1ng v\u00e0 s\u1ea3n ph\u1ea9m thu\u1ed1c l\u00e1, thu\u1ed1c l\u00e0o",
+        "code": "463"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n g\u1ea1o, l\u00faa m\u1ef3, h\u1ea1t ng\u0169 c\u1ed1c kh\u00e1c, b\u1ed9t m\u1ef3",
+        "code": "46310"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n th\u1ef1c ph\u1ea9m",
+        "code": "4632"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n th\u1ecbt v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m t\u1eeb th\u1ecbt",
+        "code": "46321"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n th\u1ee7y s\u1ea3n",
+        "code": "46322"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n rau, qu\u1ea3",
+        "code": "46323"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n c\u00e0 ph\u00ea",
+        "code": "46324"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n ch\u00e8",
+        "code": "46325"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n \u0111\u01b0\u1eddng, s\u1eefa v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m s\u1eefa, b\u00e1nh k\u1eb9o v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m ch\u1ebf bi\u1ebfn t\u1eeb ng\u0169 c\u1ed1c, b\u1ed9t, tinh b\u1ed9t",
+        "code": "46326"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n th\u1ef1c ph\u1ea9m kh\u00e1c",
+        "code": "46329"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n \u0111\u1ed3 u\u1ed1ng",
+        "code": "4633"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n \u0111\u1ed3 u\u1ed1ng c\u00f3 c\u1ed3n",
+        "code": "46331"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n \u0111\u1ed3 u\u1ed1ng kh\u00f4ng c\u00f3 c\u1ed3n",
+        "code": "46332"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n s\u1ea3n ph\u1ea9m thu\u1ed1c l\u00e1, thu\u1ed1c l\u00e0o",
+        "code": "46340"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n \u0111\u1ed3 d\u00f9ng gia \u0111\u00ecnh",
+        "code": "464"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n v\u1ea3i, h\u00e0ng may m\u1eb7c, gi\u00e0y d\u00e9p",
+        "code": "4641"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n v\u1ea3i",
+        "code": "46411"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n th\u1ea3m, \u0111\u1ec7m, ch\u0103n, m\u00e0n, r\u00e8m, ga tr\u1ea3i gi\u01b0\u1eddng, g\u1ed1i v\u00e0 h\u00e0ng d\u1ec7t kh\u00e1c",
+        "code": "46412"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n h\u00e0ng may m\u1eb7c",
+        "code": "46413"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n gi\u00e0y d\u00e9p",
+        "code": "46414"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n \u0111\u1ed3 d\u00f9ng kh\u00e1c cho gia \u0111\u00ecnh",
+        "code": "4649"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n vali, c\u1eb7p, t\u00fai, v\u00ed, h\u00e0ng da v\u00e0 gi\u1ea3 da kh\u00e1c",
+        "code": "46491"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n d\u01b0\u1ee3c ph\u1ea9m v\u00e0 d\u1ee5ng c\u1ee5 y t\u1ebf",
+        "code": "46492"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n n\u01b0\u1edbc hoa, h\u00e0ng m\u1ef9 ph\u1ea9m v\u00e0 ch\u1ebf ph\u1ea9m v\u1ec7 sinh",
+        "code": "46493"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n h\u00e0ng g\u1ed1m, s\u1ee9, th\u1ee7y tinh",
+        "code": "46494"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n \u0111\u1ed3 \u0111i\u1ec7n gia d\u1ee5ng, \u0111\u00e8n v\u00e0 b\u1ed9 \u0111\u00e8n \u0111i\u1ec7n",
+        "code": "46495"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n gi\u01b0\u1eddng, t\u1ee7, b\u00e0n gh\u1ebf v\u00e0 \u0111\u1ed3 d\u00f9ng n\u1ed9i th\u1ea5t t\u01b0\u01a1ng t\u1ef1",
+        "code": "46496"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n s\u00e1ch, b\u00e1o, t\u1ea1p ch\u00ed, v\u0103n ph\u00f2ng ph\u1ea9m",
+        "code": "46497"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n d\u1ee5ng c\u1ee5 th\u1ec3 d\u1ee5c, th\u1ec3 thao",
+        "code": "46498"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n \u0111\u1ed3 d\u00f9ng kh\u00e1c cho gia \u0111\u00ecnh ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "46499"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb v\u00e0 ph\u1ee5 t\u00f9ng m\u00e1y",
+        "code": "465"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n m\u00e1y vi t\u00ednh, thi\u1ebft b\u1ecb ngo\u1ea1i vi v\u00e0 ph\u1ea7n m\u1ec1m",
+        "code": "46510"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n thi\u1ebft b\u1ecb v\u00e0 linh ki\u1ec7n \u0111i\u1ec7n t\u1eed, vi\u1ec5n th\u00f4ng",
+        "code": "46520"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb v\u00e0 ph\u1ee5 t\u00f9ng m\u00e1y n\u00f4ng nghi\u1ec7p",
+        "code": "46530"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb v\u00e0 ph\u1ee5 t\u00f9ng m\u00e1y kh\u00e1c",
+        "code": "4659"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb v\u00e0 ph\u1ee5 t\u00f9ng m\u00e1y khai kho\u00e1ng, x\u00e2y d\u1ef1ng",
+        "code": "46591"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb \u0111i\u1ec7n, v\u1eadt li\u1ec7u \u0111i\u1ec7n (m\u00e1y ph\u00e1t \u0111i\u1ec7n, \u0111\u1ed9ng c\u01a1 \u0111i\u1ec7n, d\u00e2y \u0111i\u1ec7n v\u00e0 thi\u1ebft b\u1ecb kh\u00e1c d\u00f9ng trong m\u1ea1ch \u0111i\u1ec7n)",
+        "code": "46592"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb v\u00e0 ph\u1ee5 t\u00f9ng m\u00e1y d\u1ec7t, may, da gi\u00e0y",
+        "code": "46593"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb v\u00e0 ph\u1ee5 t\u00f9ng m\u00e1y v\u0103n ph\u00f2ng (tr\u1eeb m\u00e1y vi t\u00ednh v\u00e0 thi\u1ebft b\u1ecb ngo\u1ea1i vi)",
+        "code": "46594"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb y t\u1ebf",
+        "code": "46595"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb v\u00e0 ph\u1ee5 t\u00f9ng m\u00e1y kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "46599"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n chuy\u00ean doanh kh\u00e1c",
+        "code": "466"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n nhi\u00ean li\u1ec7u r\u1eafn, l\u1ecfng, kh\u00ed v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m li\u00ean quan",
+        "code": "4661"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n than \u0111\u00e1 v\u00e0 nhi\u00ean li\u1ec7u r\u1eafn kh\u00e1c",
+        "code": "46611"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n d\u1ea7u th\u00f4",
+        "code": "46612"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n x\u0103ng d\u1ea7u v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m li\u00ean quan",
+        "code": "46613"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n kh\u00ed \u0111\u1ed1t v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m li\u00ean quan",
+        "code": "46614"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n kim lo\u1ea1i v\u00e0 qu\u1eb7ng kim lo\u1ea1i",
+        "code": "4662"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n qu\u1eb7ng kim lo\u1ea1i",
+        "code": "46621"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n s\u1eaft, th\u00e9p",
+        "code": "46622"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n kim lo\u1ea1i kh\u00e1c",
+        "code": "46623"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n v\u00e0ng, b\u1ea1c v\u00e0 kim lo\u1ea1i qu\u00fd kh\u00e1c",
+        "code": "46624"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n v\u1eadt li\u1ec7u, thi\u1ebft b\u1ecb l\u1eafp \u0111\u1eb7t kh\u00e1c trong x\u00e2y d\u1ef1ng",
+        "code": "4663"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n tre, n\u1ee9a, g\u1ed7 c\u00e2y v\u00e0 g\u1ed7 ch\u1ebf bi\u1ebfn",
+        "code": "46631"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n xi m\u0103ng",
+        "code": "46632"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n g\u1ea1ch x\u00e2y, ng\u00f3i, \u0111\u00e1, c\u00e1t, s\u1ecfi",
+        "code": "46633"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n k\u00ednh x\u00e2y d\u1ef1ng",
+        "code": "46634"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n s\u01a1n, v\u00e9cni",
+        "code": "46635"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n g\u1ea1ch \u1ed1p l\u00e1t v\u00e0 thi\u1ebft b\u1ecb v\u1ec7 sinh",
+        "code": "46636"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n \u0111\u1ed3 ng\u0169 kim",
+        "code": "46637"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n v\u1eadt li\u1ec7u, thi\u1ebft b\u1ecb l\u1eafp \u0111\u1eb7t kh\u00e1c trong x\u00e2y d\u1ef1ng",
+        "code": "46639"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n chuy\u00ean doanh kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "4669"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n ph\u00e2n b\u00f3n, thu\u1ed1c tr\u1eeb s\u00e2u v\u00e0 h\u00f3a ch\u1ea5t kh\u00e1c s\u1eed d\u1ee5ng trong n\u00f4ng nghi\u1ec7p",
+        "code": "46691"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n h\u00f3a ch\u1ea5t kh\u00e1c (tr\u1eeb lo\u1ea1i s\u1eed d\u1ee5ng trong n\u00f4ng nghi\u1ec7p)",
+        "code": "46692"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n ch\u1ea5t d\u1ebbo d\u1ea1ng nguy\u00ean sinh",
+        "code": "46693"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n cao su",
+        "code": "46694"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n t\u01a1, x\u01a1, s\u1ee3i d\u1ec7t",
+        "code": "46695"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n ph\u1ee5 li\u1ec7u may m\u1eb7c v\u00e0 gi\u00e0y d\u00e9p",
+        "code": "46696"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n ph\u1ebf li\u1ec7u, ph\u1ebf th\u1ea3i kim lo\u1ea1i, phi kim lo\u1ea1i",
+        "code": "46697"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n chuy\u00ean doanh kh\u00e1c c\u00f2n l\u1ea1i ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "46699"
+    },
+    {
+        "name": "B\u00e1n bu\u00f4n t\u1ed5ng h\u1ee3p",
+        "code": "46900"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb (tr\u1eeb \u00f4 t\u00f4, m\u00f4 t\u00f4, xe m\u00e1y v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c)",
+        "code": "47"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb trong c\u00e1c c\u1eeda h\u00e0ng kinh doanh t\u1ed5ng h\u1ee3p",
+        "code": "471"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb l\u01b0\u01a1ng th\u1ef1c, th\u1ef1c ph\u1ea9m, \u0111\u1ed3 u\u1ed1ng, thu\u1ed1c l\u00e1, thu\u1ed1c l\u00e0o chi\u1ebfm t\u1ef7 tr\u1ecdng l\u1edbn trong c\u00e1c c\u1eeda h\u00e0ng kinh doanh t\u1ed5ng h\u1ee3p",
+        "code": "4711"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb trong si\u00eau th\u1ecb (Supermarket)",
+        "code": "47111"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb trong c\u1eeda h\u00e0ng ti\u1ec7n l\u1ee3i (Minimarket)",
+        "code": "47112"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb trong c\u1eeda h\u00e0ng kinh doanh t\u1ed5ng h\u1ee3p kh\u00e1c",
+        "code": "47119"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb kh\u00e1c trong c\u00e1c c\u1eeda h\u00e0ng kinh doanh t\u1ed5ng h\u1ee3p",
+        "code": "4719"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb trong si\u00eau th\u1ecb (Supermarket)",
+        "code": "47191"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb trong c\u1eeda h\u00e0ng ti\u1ec7n l\u1ee3i (Minimarket)",
+        "code": "47192"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb trong c\u1eeda h\u00e0ng kinh doanh t\u1ed5ng h\u1ee3p kh\u00e1c",
+        "code": "47199"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb l\u01b0\u01a1ng th\u1ef1c, th\u1ef1c ph\u1ea9m, \u0111\u1ed3 u\u1ed1ng ho\u1eb7c thu\u1ed1c l\u00e1, thu\u1ed1c l\u00e0o trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "472"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb l\u01b0\u01a1ng th\u1ef1c trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47210"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb th\u1ef1c ph\u1ea9m trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "4722"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb th\u1ecbt v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m th\u1ecbt trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47221"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb th\u1ee7y s\u1ea3n trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47222"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb rau, qu\u1ea3 trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47223"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb \u0111\u01b0\u1eddng, s\u1eefa v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m s\u1eefa, b\u00e1nh, m\u1ee9t, k\u1eb9o v\u00e0 c\u00e1c s\u1ea3n ph\u1ea9m ch\u1ebf bi\u1ebfn t\u1eeb ng\u0169 c\u1ed1c, b\u1ed9t, tinh b\u1ed9t trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47224"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb th\u1ef1c ph\u1ea9m kh\u00e1c trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47229"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb \u0111\u1ed3 u\u1ed1ng trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47230"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb s\u1ea3n ph\u1ea9m thu\u1ed1c l\u00e1, thu\u1ed1c l\u00e0o trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47240"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb nhi\u00ean li\u1ec7u \u0111\u1ed9ng c\u01a1 trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47300"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb thi\u1ebft b\u1ecb c\u00f4ng ngh\u1ec7 th\u00f4ng tin li\u00ean l\u1ea1c trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "474"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb m\u00e1y vi t\u00ednh, thi\u1ebft b\u1ecb ngo\u1ea1i vi, ph\u1ea7n m\u1ec1m v\u00e0 thi\u1ebft b\u1ecb vi\u1ec5n th\u00f4ng trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "4741"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb m\u00e1y vi t\u00ednh, thi\u1ebft b\u1ecb ngo\u1ea1i vi, ph\u1ea7n m\u1ec1m trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47411"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb thi\u1ebft b\u1ecb vi\u1ec5n th\u00f4ng trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47412"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb thi\u1ebft b\u1ecb nghe nh\u00ecn trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47420"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb thi\u1ebft b\u1ecb gia \u0111\u00ecnh kh\u00e1c trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "475"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb v\u1ea3i, len, s\u1ee3i, ch\u1ec9 kh\u00e2u v\u00e0 h\u00e0ng d\u1ec7t kh\u00e1c trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "4751"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb v\u1ea3i trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47511"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb len, s\u1ee3i, ch\u1ec9 kh\u00e2u v\u00e0 h\u00e0ng d\u1ec7t kh\u00e1c trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47519"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb \u0111\u1ed3 ng\u0169 kim, s\u01a1n, k\u00ednh v\u00e0 thi\u1ebft b\u1ecb l\u1eafp \u0111\u1eb7t kh\u00e1c trong x\u00e2y d\u1ef1ng trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "4752"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb \u0111\u1ed3 ng\u0169 kim trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47521"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb s\u01a1n, m\u00e0u, v\u00e9c ni trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47522"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb k\u00ednh x\u00e2y d\u1ef1ng trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47523"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb xi m\u0103ng, g\u1ea1ch x\u00e2y, ng\u00f3i, \u0111\u00e1, c\u00e1t s\u1ecfi, s\u1eaft th\u00e9p v\u00e0 v\u1eadt li\u1ec7u x\u00e2y d\u1ef1ng kh\u00e1c trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47524"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb g\u1ea1ch \u1ed1p l\u00e1t, thi\u1ebft b\u1ecb v\u1ec7 sinh trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47525"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb thi\u1ebft b\u1ecb l\u1eafp \u0111\u1eb7t kh\u00e1c trong x\u00e2y d\u1ef1ng trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47529"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb th\u1ea3m, \u0111\u1ec7m, ch\u0103n, m\u00e0n, r\u00e8m, v\u1eadt li\u1ec7u ph\u1ee7 t\u01b0\u1eddng v\u00e0 s\u00e0n trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47530"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb \u0111\u1ed3 \u0111i\u1ec7n gia d\u1ee5ng, gi\u01b0\u1eddng, t\u1ee7, b\u00e0n, gh\u1ebf v\u00e0 \u0111\u1ed3 n\u1ed9i th\u1ea5t t\u01b0\u01a1ng t\u1ef1, \u0111\u00e8n v\u00e0 b\u1ed9 \u0111\u00e8n \u0111i\u1ec7n, \u0111\u1ed3 d\u00f9ng gia \u0111\u00ecnh kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "4759"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb \u0111\u1ed3 \u0111i\u1ec7n gia d\u1ee5ng, \u0111\u00e8n v\u00e0 b\u1ed9 \u0111\u00e8n \u0111i\u1ec7n trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47591"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb gi\u01b0\u1eddng, t\u1ee7, b\u00e0n, gh\u1ebf v\u00e0 \u0111\u1ed3 d\u00f9ng n\u1ed9i th\u1ea5t t\u01b0\u01a1ng t\u1ef1 trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47592"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb \u0111\u1ed3 d\u00f9ng gia \u0111\u00ecnh b\u1eb1ng g\u1ed1m, s\u1ee9, th\u1ee7y tinh trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47593"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb nh\u1ea1c c\u1ee5 trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47594"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb \u0111\u1ed3 d\u00f9ng gia \u0111\u00ecnh kh\u00e1c c\u00f2n l\u1ea1i ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47599"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng v\u0103n h\u00f3a, gi\u1ea3i tr\u00ed trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "476"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb s\u00e1ch, b\u00e1o, t\u1ea1p ch\u00ed v\u0103n ph\u00f2ng ph\u1ea9m trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47610"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb b\u0103ng \u0111\u0129a \u00e2m thanh, h\u00ecnh \u1ea3nh (k\u1ec3 c\u1ea3 b\u0103ng, \u0111\u0129a tr\u1eafng) trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47620"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb thi\u1ebft b\u1ecb, d\u1ee5ng c\u1ee5 th\u1ec3 d\u1ee5c, th\u1ec3 thao trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47630"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb tr\u00f2 ch\u01a1i, \u0111\u1ed3 ch\u01a1i trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47640"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng h\u00f3a kh\u00e1c trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "477"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng may m\u1eb7c, gi\u00e0y d\u00e9p, h\u00e0ng da v\u00e0 gi\u1ea3 da trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "4771"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng may m\u1eb7c trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47711"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb gi\u00e0y d\u00e9p trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47712"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb c\u1eb7p, t\u00fai, v\u00ed, h\u00e0ng da v\u00e0 gi\u1ea3 da kh\u00e1c trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47713"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb thu\u1ed1c, d\u1ee5ng c\u1ee5 y t\u1ebf, m\u1ef9 ph\u1ea9m v\u00e0 v\u1eadt ph\u1ea9m v\u1ec7 sinh trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "4772"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb d\u01b0\u1ee3c ph\u1ea9m, d\u1ee5ng c\u1ee5 y t\u1ebf trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47721"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb n\u01b0\u1edbc hoa, m\u1ef9 ph\u1ea9m v\u00e0 v\u1eadt ph\u1ea9m v\u1ec7 sinh trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47722"
+    },
+    {
+        "name": "B\u00e1n thu\u1ed1c \u0111\u00f4ng y, b\u00e1n thu\u1ed1c nam trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47723"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng h\u00f3a kh\u00e1c m\u1edbi trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "4773"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb hoa, c\u00e2y c\u1ea3nh, c\u00e1 c\u1ea3nh, chim c\u1ea3nh, v\u1eadt nu\u00f4i c\u1ea3nh trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47731"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb v\u00e0ng, b\u1ea1c, \u0111\u00e1 qu\u00ed v\u00e0 \u0111\u00e1 b\u00e1n qu\u00ed, \u0111\u1ed3 trang s\u1ee9c trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47732"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng l\u01b0u ni\u1ec7m, h\u00e0ng \u0111an l\u00e1t, h\u00e0ng th\u1ee7 c\u00f4ng m\u1ef9 ngh\u1ec7 trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47733"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb tranh, \u1ea3nh v\u00e0 c\u00e1c t\u00e1c ph\u1ea9m ngh\u1ec7 thu\u1eadt kh\u00e1c (tr\u1eeb \u0111\u1ed3 c\u1ed5) trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47734"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb d\u1ea7u ho\u1ea3, gas, than nhi\u00ean li\u1ec7u d\u00f9ng cho gia \u0111\u00ecnh trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47735"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb \u0111\u1ed3ng h\u1ed3, k\u00ednh m\u1eaft trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47736"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb m\u00e1y \u1ea3nh, phim \u1ea3nh v\u00e0 v\u1eadt li\u1ec7u \u1ea3nh trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47737"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb xe \u0111\u1ea1p v\u00e0 ph\u1ee5 t\u00f9ng trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47738"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng h\u00f3a kh\u00e1c m\u1edbi ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47739"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng h\u00f3a \u0111\u00e3 qua s\u1eed d\u1ee5ng trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "4774"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng may m\u1eb7c \u0111\u00e3 qua s\u1eed d\u1ee5ng trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47741"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng h\u00f3a kh\u00e1c \u0111\u00e3 qua s\u1eed d\u1ee5ng trong c\u00e1c c\u1eeda h\u00e0ng chuy\u00ean doanh",
+        "code": "47749"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb l\u01b0u \u0111\u1ed9ng ho\u1eb7c b\u00e1n t\u1ea1i ch\u1ee3",
+        "code": "478"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb l\u01b0\u01a1ng th\u1ef1c, th\u1ef1c ph\u1ea9m, \u0111\u1ed3 u\u1ed1ng, thu\u1ed1c l\u00e1, thu\u1ed1c l\u00e0o l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "4781"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb l\u01b0\u01a1ng th\u1ef1c l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47811"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb th\u1ef1c ph\u1ea9m kh\u00f4, th\u1ef1c ph\u1ea9m c\u00f4ng nghi\u1ec7p, \u0111\u01b0\u1eddng s\u1eefa b\u00e1nh k\u1eb9o l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47812"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb \u0111\u1ed3 u\u1ed1ng l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47813"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb s\u1ea3n ph\u1ea9m thu\u1ed1c l\u00e1, thu\u1ed1c l\u00e0o l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47814"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb th\u1ecbt gia s\u00fac, gia c\u1ea7m t\u01b0\u01a1i s\u1ed1ng, \u0111\u00f4ng l\u1ea1nh l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47815"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb th\u1ee7y s\u1ea3n t\u01b0\u01a1i s\u1ed1ng, \u0111\u00f4ng l\u1ea1nh l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47816"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb rau qu\u1ea3 l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47817"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb th\u1ef1c ph\u1ea9m ch\u00edn l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47818"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb th\u1ef1c ph\u1ea9m lo\u1ea1i kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "47819"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng d\u1ec7t, may s\u1eb5n, gi\u00e0y d\u00e9p l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "4782"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng d\u1ec7t l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47821"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng may m\u1eb7c l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47822"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb gi\u00e0y d\u00e9p l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47823"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb thi\u1ebft b\u1ecb c\u00f4ng ngh\u1ec7 th\u00f4ng tin li\u00ean l\u1ea1c l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47830"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb thi\u1ebft b\u1ecb gia \u0111\u00ecnh kh\u00e1c l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "4784"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb \u0111\u1ed3 ng\u0169 kim, s\u01a1n, k\u00ednh v\u00e0 thi\u1ebft b\u1ecb l\u1eafp \u0111\u1eb7t kh\u00e1c trong x\u00e2y d\u1ef1ng l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47841"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb th\u1ea3m, \u0111\u1ec7m, ch\u0103n, m\u00e0n, r\u00e8m, v\u1eadt li\u1ec7u ph\u1ee7 t\u01b0\u1eddng v\u00e0 s\u00e0n l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47842"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb \u0111\u1ed3 \u0111i\u1ec7n gia d\u1ee5ng, gi\u01b0\u1eddng, t\u1ee7, b\u00e0n, gh\u1ebf v\u00e0 \u0111\u1ed3 n\u1ed9i th\u1ea5t t\u01b0\u01a1ng t\u1ef1, \u0111\u00e8n v\u00e0 b\u1ed9 \u0111\u00e8n \u0111i\u1ec7n, \u0111\u1ed3 d\u00f9ng gia \u0111\u00ecnh kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47843"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng v\u0103n h\u00f3a, gi\u1ea3i tr\u00ed l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47850"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng h\u00f3a kh\u00e1c l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "4789"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb m\u1ef9 ph\u1ea9m v\u00e0 v\u1eadt ph\u1ea9m v\u1ec7 sinh l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47891"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng g\u1ed1m s\u1ee9, th\u1ee7y tinh l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47892"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb hoa t\u01b0\u01a1i, c\u00e2y c\u1ea3nh l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47893"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb v\u00e0ng, b\u1ea1c, \u0111\u00e1 qu\u00ed v\u00e0 \u0111\u00e1 b\u00e1n qu\u00ed, \u0111\u1ed3 trang s\u1ee9c l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47894"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng l\u01b0u ni\u1ec7m, h\u00e0ng \u0111an l\u00e1t, h\u00e0ng th\u1ee7 c\u00f4ng m\u1ef9 ngh\u1ec7 l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47895"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb \u0111\u1ed3ng h\u1ed3, k\u00ednh m\u1eaft l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47896"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb xe \u0111\u1ea1p v\u00e0 ph\u1ee5 t\u00f9ng l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47897"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng h\u00f3a \u0111\u00e3 qua s\u1eed d\u1ee5ng l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47898"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00e0ng h\u00f3a kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u, l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3",
+        "code": "47899"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00ecnh th\u1ee9c kh\u00e1c (tr\u1eeb b\u00e1n l\u1ebb t\u1ea1i c\u1eeda h\u00e0ng, l\u01b0u \u0111\u1ed9ng ho\u1eb7c t\u1ea1i ch\u1ee3)",
+        "code": "479"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb theo y\u00eau c\u1ea7u \u0111\u1eb7t h\u00e0ng qua b\u01b0u \u0111i\u1ec7n ho\u1eb7c internet",
+        "code": "47910"
+    },
+    {
+        "name": "B\u00e1n l\u1ebb h\u00ecnh th\u1ee9c kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "47990"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i \u0111\u01b0\u1eddng s\u1eaft, \u0111\u01b0\u1eddng b\u1ed9 v\u00e0 v\u1eadn t\u1ea3i \u0111\u01b0\u1eddng \u1ed1ng",
+        "code": "49"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i \u0111\u01b0\u1eddng s\u1eaft",
+        "code": "491"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch \u0111\u01b0\u1eddng s\u1eaft",
+        "code": "49110"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a \u0111\u01b0\u1eddng s\u1eaft",
+        "code": "49120"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch b\u1eb1ng xe bu\u00fdt",
+        "code": "492"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch b\u1eb1ng xe bu\u00fdt trong n\u1ed9i th\u00e0nh",
+        "code": "49210"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch b\u1eb1ng xe bu\u00fdt gi\u1eefa n\u1ed9i th\u00e0nh v\u00e0 ngo\u1ea1i th\u00e0nh, li\u00ean t\u1ec9nh",
+        "code": "49220"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch b\u1eb1ng xe bu\u00fdt lo\u1ea1i kh\u00e1c",
+        "code": "49290"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i \u0111\u01b0\u1eddng b\u1ed9 kh\u00e1c",
+        "code": "493"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch \u0111\u01b0\u1eddng b\u1ed9 trong n\u1ed9i th\u00e0nh, ngo\u1ea1i th\u00e0nh (tr\u1eeb v\u1eadn t\u1ea3i b\u1eb1ng xe bu\u00fdt)",
+        "code": "4931"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch b\u1eb1ng h\u1ec7 th\u1ed1ng \u0111\u01b0\u1eddng s\u1eaft ng\u1ea7m ho\u1eb7c \u0111\u01b0\u1eddng s\u1eaft tr\u00ean cao",
+        "code": "49311"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch b\u1eb1ng taxi",
+        "code": "49312"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch b\u1eb1ng m\u00f4 t\u00f4, xe m\u00e1y v\u00e0 xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "49313"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch \u0111\u01b0\u1eddng b\u1ed9 lo\u1ea1i kh\u00e1c trong n\u1ed9i th\u00e0nh, ngo\u1ea1i th\u00e0nh (tr\u1eeb xe bu\u00fdt)",
+        "code": "49319"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch \u0111\u01b0\u1eddng b\u1ed9 kh\u00e1c",
+        "code": "4932"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch b\u1eb1ng xe kh\u00e1ch n\u1ed9i t\u1ec9nh, li\u00ean t\u1ec9nh",
+        "code": "49321"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch \u0111\u01b0\u1eddng b\u1ed9 kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "49329"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a b\u1eb1ng \u0111\u01b0\u1eddng b\u1ed9",
+        "code": "4933"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a b\u1eb1ng \u00f4 t\u00f4 chuy\u00ean d\u1ee5ng",
+        "code": "49331"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a b\u1eb1ng \u00f4 t\u00f4 lo\u1ea1i kh\u00e1c (tr\u1eeb \u00f4 t\u00f4 chuy\u00ean d\u1ee5ng)",
+        "code": "49332"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a b\u1eb1ng xe c\u00f3 \u0111\u1ed9ng c\u01a1 lo\u1ea1i kh\u00e1c",
+        "code": "49333"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a b\u1eb1ng xe th\u00f4 s\u01a1",
+        "code": "49334"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a b\u1eb1ng ph\u01b0\u01a1ng ti\u1ec7n \u0111\u01b0\u1eddng b\u1ed9 kh\u00e1c",
+        "code": "49339"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i \u0111\u01b0\u1eddng \u1ed1ng",
+        "code": "49400"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i \u0111\u01b0\u1eddng th\u1ee7y",
+        "code": "50"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i ven bi\u1ec3n v\u00e0 vi\u1ec5n d\u01b0\u01a1ng",
+        "code": "501"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch ven bi\u1ec3n v\u00e0 vi\u1ec5n d\u01b0\u01a1ng",
+        "code": "5011"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch ven bi\u1ec3n",
+        "code": "50111"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch vi\u1ec5n d\u01b0\u01a1ng",
+        "code": "50112"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a ven bi\u1ec3n v\u00e0 vi\u1ec5n d\u01b0\u01a1ng",
+        "code": "5012"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a ven bi\u1ec3n",
+        "code": "50121"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a vi\u1ec5n d\u01b0\u01a1ng",
+        "code": "50122"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i \u0111\u01b0\u1eddng thu\u1ef7 n\u1ed9i \u0111\u1ecba",
+        "code": "502"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch \u0111\u01b0\u1eddng thu\u1ef7 n\u1ed9i \u0111\u1ecba",
+        "code": "5021"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch \u0111\u01b0\u1eddng thu\u1ef7 n\u1ed9i \u0111\u1ecba b\u1eb1ng ph\u01b0\u01a1ng ti\u1ec7n c\u01a1 gi\u1edbi",
+        "code": "50211"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch \u0111\u01b0\u1eddng thu\u1ef7 n\u1ed9i \u0111\u1ecba b\u1eb1ng ph\u01b0\u01a1ng ti\u1ec7n th\u00f4 s\u01a1",
+        "code": "50212"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a \u0111\u01b0\u1eddng thu\u1ef7 n\u1ed9i \u0111\u1ecba",
+        "code": "5022"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a \u0111\u01b0\u1eddng thu\u1ef7 n\u1ed9i \u0111\u1ecba b\u1eb1ng ph\u01b0\u01a1ng ti\u1ec7n c\u01a1 gi\u1edbi",
+        "code": "50221"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a \u0111\u01b0\u1eddng thu\u1ef7 n\u1ed9i \u0111\u1ecba b\u1eb1ng ph\u01b0\u01a1ng ti\u1ec7n th\u00f4 s\u01a1",
+        "code": "50222"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng kh\u00f4ng",
+        "code": "51"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch h\u00e0ng kh\u00f4ng",
+        "code": "5110"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch h\u00e0ng kh\u00f4ng theo tuy\u1ebfn v\u00e0 l\u1ecbch tr\u00ecnh c\u1ed1 \u0111\u1ecbnh",
+        "code": "51101"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0nh kh\u00e1ch h\u00e0ng kh\u00f4ng lo\u1ea1i kh\u00e1c",
+        "code": "51109"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a h\u00e0ng kh\u00f4ng",
+        "code": "5120"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a h\u00e0ng kh\u00f4ng theo tuy\u1ebfn v\u00e0 l\u1ecbch tr\u00ecnh c\u1ed1 \u0111\u1ecbnh",
+        "code": "51201"
+    },
+    {
+        "name": "V\u1eadn t\u1ea3i h\u00e0ng h\u00f3a h\u00e0ng kh\u00f4ng lo\u1ea1i kh\u00e1c",
+        "code": "51209"
+    },
+    {
+        "name": "Kho b\u00e3i v\u00e0 c\u00e1c ho\u1ea1t \u0111\u1ed9ng h\u1ed7 tr\u1ee3 cho v\u1eadn t\u1ea3i",
+        "code": "52"
+    },
+    {
+        "name": "Kho b\u00e3i v\u00e0 l\u01b0u gi\u1eef h\u00e0ng h\u00f3a",
+        "code": "5210"
+    },
+    {
+        "name": "Kho b\u00e3i v\u00e0 l\u01b0u gi\u1eef h\u00e0ng h\u00f3a trong kho ngo\u1ea1i quan",
+        "code": "52101"
+    },
+    {
+        "name": "Kho b\u00e3i v\u00e0 l\u01b0u gi\u1eef h\u00e0ng h\u00f3a trong kho \u0111\u00f4ng l\u1ea1nh (tr\u1eeb kho ngo\u1ea1i quan)",
+        "code": "52102"
+    },
+    {
+        "name": "Kho b\u00e3i v\u00e0 l\u01b0u gi\u1eef h\u00e0ng h\u00f3a trong kho lo\u1ea1i kh\u00e1c",
+        "code": "52109"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 cho v\u1eadn t\u1ea3i",
+        "code": "522"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 tr\u1ef1c ti\u1ebfp cho v\u1eadn t\u1ea3i \u0111\u01b0\u1eddng s\u1eaft",
+        "code": "52210"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 tr\u1ef1c ti\u1ebfp cho v\u1eadn t\u1ea3i \u0111\u01b0\u1eddng th\u1ee7y",
+        "code": "5222"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng \u0111i\u1ec1u h\u00e0nh c\u1ea3ng bi\u1ec3n",
+        "code": "52221"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 li\u00ean quan \u0111\u1ebfn v\u1eadn t\u1ea3i ven bi\u1ec3n v\u00e0 vi\u1ec5n d\u01b0\u01a1ng",
+        "code": "52222"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng \u0111i\u1ec1u h\u00e0nh c\u1ea3ng \u0111\u01b0\u1eddng th\u1ee7y n\u1ed9i \u0111\u1ecba",
+        "code": "52223"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 li\u00ean quan \u0111\u1ebfn v\u1eadn t\u1ea3i \u0111\u01b0\u1eddng th\u1ee7y n\u1ed9i \u0111\u1ecba",
+        "code": "52224"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 tr\u1ef1c ti\u1ebfp cho v\u1eadn t\u1ea3i h\u00e0ng kh\u00f4ng",
+        "code": "5223"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 \u0111i\u1ec1u h\u00e0nh bay",
+        "code": "52231"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 \u0111i\u1ec1u h\u00e0nh ho\u1ea1t \u0111\u1ed9ng c\u1ea3ng h\u00e0ng kh\u00f4ng",
+        "code": "52232"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 li\u00ean quan \u0111\u1ebfn v\u1eadn t\u1ea3i h\u00e0ng kh\u00f4ng",
+        "code": "52239"
+    },
+    {
+        "name": "B\u1ed1c x\u1ebfp h\u00e0ng h\u00f3a",
+        "code": "5224"
+    },
+    {
+        "name": "B\u1ed1c x\u1ebfp h\u00e0ng h\u00f3a ga \u0111\u01b0\u1eddng s\u1eaft",
+        "code": "52241"
+    },
+    {
+        "name": "B\u1ed1c x\u1ebfp h\u00e0ng h\u00f3a \u0111\u01b0\u1eddng b\u1ed9",
+        "code": "52242"
+    },
+    {
+        "name": "B\u1ed1c x\u1ebfp h\u00e0ng h\u00f3a c\u1ea3ng bi\u1ec3n",
+        "code": "52243"
+    },
+    {
+        "name": "B\u1ed1c x\u1ebfp h\u00e0ng h\u00f3a c\u1ea3ng s\u00f4ng",
+        "code": "52244"
+    },
+    {
+        "name": "B\u1ed1c x\u1ebfp h\u00e0ng h\u00f3a c\u1ea3ng h\u00e0ng kh\u00f4ng",
+        "code": "52245"
+    },
+    {
+        "name": "B\u1ed1c x\u1ebfp h\u00e0ng h\u00f3a lo\u1ea1i kh\u00e1c",
+        "code": "52249"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 tr\u1ef1c ti\u1ebfp cho v\u1eadn t\u1ea3i \u0111\u01b0\u1eddng b\u1ed9",
+        "code": "5225"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng \u0111i\u1ec1u h\u00e0nh b\u1ebfn xe",
+        "code": "52251"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng qu\u1ea3n l\u00fd, \u0111i\u1ec1u h\u00e0nh \u0111\u01b0\u1eddng cao t\u1ed1c, c\u1ea7u, h\u1ea7m \u0111\u01b0\u1eddng b\u1ed9",
+        "code": "52252"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng qu\u1ea3n l\u00fd b\u00e3i \u0111\u1ed7, tr\u00f4ng gi\u1eef ph\u01b0\u01a1ng ti\u1ec7n \u0111\u01b0\u1eddng b\u1ed9",
+        "code": "52253"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 kh\u00e1c h\u1ed7 tr\u1ee3 li\u00ean quan \u0111\u1ebfn v\u1eadn t\u1ea3i \u0111\u01b0\u1eddng b\u1ed9",
+        "code": "52259"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 kh\u00e1c li\u00ean quan \u0111\u1ebfn v\u1eadn t\u1ea3i",
+        "code": "5229"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 \u0111\u1ea1i l\u00fd, giao nh\u1eadn v\u1eadn chuy\u1ec3n",
+        "code": "52291"
+    },
+    {
+        "name": "Logistics",
+        "code": "52292"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 kh\u00e1c li\u00ean quan \u0111\u1ebfn v\u1eadn t\u1ea3i ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "52299"
+    },
+    {
+        "name": "B\u01b0u ch\u00ednh v\u00e0 chuy\u1ec3n ph\u00e1t",
+        "code": "53"
+    },
+    {
+        "name": "B\u01b0u ch\u00ednh",
+        "code": "53100"
+    },
+    {
+        "name": "Chuy\u1ec3n ph\u00e1t",
+        "code": "53200"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa",
+        "code": "55"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 l\u01b0u tr\u00fa ng\u1eafn ng\u00e0y",
+        "code": "5510"
+    },
+    {
+        "name": "Kh\u00e1ch s\u1ea1n",
+        "code": "55101"
+    },
+    {
+        "name": "Bi\u1ec7t th\u1ef1 ho\u1eb7c c\u0103n h\u1ed9 kinh doanh d\u1ecbch v\u1ee5 l\u01b0u tr\u00fa ng\u1eafn ng\u00e0y",
+        "code": "55102"
+    },
+    {
+        "name": "Nh\u00e0 kh\u00e1ch, nh\u00e0 ngh\u1ec9 kinh doanh d\u1ecbch v\u1ee5 l\u01b0u tr\u00fa ng\u1eafn ng\u00e0y",
+        "code": "55103"
+    },
+    {
+        "name": "Nh\u00e0 tr\u1ecd, ph\u00f2ng tr\u1ecd v\u00e0 c\u00e1c c\u01a1 s\u1edf l\u01b0u tr\u00fa ng\u1eafn ng\u00e0y t\u01b0\u01a1ng t\u1ef1",
+        "code": "55104"
+    },
+    {
+        "name": "C\u01a1 s\u1edf l\u01b0u tr\u00fa kh\u00e1c",
+        "code": "5590"
+    },
+    {
+        "name": "K\u00fd t\u00fac x\u00e1 h\u1ecdc sinh, sinh vi\u00ean",
+        "code": "55901"
+    },
+    {
+        "name": "Ch\u1ed7 ngh\u1ec9 tr\u1ecd tr\u00ean xe l\u01b0u \u0111\u1ed9ng, l\u1ec1u qu\u00e1n, tr\u1ea1i d\u00f9ng \u0111\u1ec3 ngh\u1ec9 t\u1ea1m",
+        "code": "55902"
+    },
+    {
+        "name": "C\u01a1 s\u1edf l\u01b0u tr\u00fa kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "55909"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng",
+        "code": "56"
+    },
+    {
+        "name": "Nh\u00e0 h\u00e0ng v\u00e0 c\u00e1c d\u1ecbch v\u1ee5 \u0103n u\u1ed1ng ph\u1ee5c v\u1ee5 l\u01b0u \u0111\u1ed9ng",
+        "code": "5610"
+    },
+    {
+        "name": "Nh\u00e0 h\u00e0ng, qu\u00e1n \u0103n, h\u00e0ng \u0103n u\u1ed1ng (tr\u1eeb c\u1eeda h\u00e0ng \u0103n u\u1ed1ng thu\u1ed9c chu\u1ed7i c\u1eeda h\u00e0ng \u0103n nhanh)",
+        "code": "56101"
+    },
+    {
+        "name": "C\u1eeda h\u00e0ng \u0103n u\u1ed1ng thu\u1ed9c chu\u1ed7i c\u1eeda h\u00e0ng \u0103n nhanh",
+        "code": "56102"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng ph\u1ee5c v\u1ee5 l\u01b0u \u0111\u1ed9ng kh\u00e1c",
+        "code": "56109"
+    },
+    {
+        "name": "Cung c\u1ea5p d\u1ecbch v\u1ee5 \u0103n u\u1ed1ng theo h\u1ee3p \u0111\u1ed3ng kh\u00f4ng th\u01b0\u1eddng xuy\u00ean v\u00e0 d\u1ecbch v\u1ee5 \u0103n u\u1ed1ng kh\u00e1c",
+        "code": "562"
+    },
+    {
+        "name": "Cung c\u1ea5p d\u1ecbch v\u1ee5 \u0103n u\u1ed1ng theo h\u1ee3p \u0111\u1ed3ng kh\u00f4ng th\u01b0\u1eddng xuy\u00ean v\u1edbi kh\u00e1ch h\u00e0ng",
+        "code": "56210"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng kh\u00e1c",
+        "code": "56290"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 ph\u1ee5c v\u1ee5 \u0111\u1ed3 u\u1ed1ng",
+        "code": "5630"
+    },
+    {
+        "name": "Qu\u00e1n r\u01b0\u1ee3u, bia, qu\u1ea7y bar",
+        "code": "56301"
+    },
+    {
+        "name": "Qu\u00e1n c\u00e0 ph\u00ea, gi\u1ea3i kh\u00e1t",
+        "code": "56302"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 ph\u1ee5c v\u1ee5 \u0111\u1ed3 u\u1ed1ng kh\u00e1c",
+        "code": "56309"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng xu\u1ea5t b\u1ea3n",
+        "code": "58"
+    },
+    {
+        "name": "Xu\u1ea5t b\u1ea3n s\u00e1ch, \u1ea5n ph\u1ea9m \u0111\u1ecbnh k\u1ef3 v\u00e0 c\u00e1c ho\u1ea1t \u0111\u1ed9ng xu\u1ea5t b\u1ea3n kh\u00e1c",
+        "code": "581"
+    },
+    {
+        "name": "Xu\u1ea5t b\u1ea3n s\u00e1ch",
+        "code": "5811"
+    },
+    {
+        "name": "Xu\u1ea5t b\u1ea3n s\u00e1ch tr\u1ef1c tuy\u1ebfn",
+        "code": "58111"
+    },
+    {
+        "name": "Xu\u1ea5t b\u1ea3n s\u00e1ch kh\u00e1c",
+        "code": "58112"
+    },
+    {
+        "name": "Xu\u1ea5t b\u1ea3n c\u00e1c danh m\u1ee5c ch\u1ec9 d\u1eabn v\u00e0 \u0111\u1ecba ch\u1ec9",
+        "code": "5812"
+    },
+    {
+        "name": "Xu\u1ea5t b\u1ea3n c\u00e1c danh m\u1ee5c ch\u1ec9 d\u1eabn v\u00e0 \u0111\u1ecba ch\u1ec9 tr\u1ef1c tuy\u1ebfn",
+        "code": "58121"
+    },
+    {
+        "name": "Xu\u1ea5t b\u1ea3n c\u00e1c danh m\u1ee5c ch\u1ec9 d\u1eabn v\u00e0 \u0111\u1ecba ch\u1ec9 kh\u00e1c",
+        "code": "58122"
+    },
+    {
+        "name": "Xu\u1ea5t b\u1ea3n b\u00e1o, t\u1ea1p ch\u00ed v\u00e0 c\u00e1c \u1ea5n ph\u1ea9m \u0111\u1ecbnh k\u1ef3",
+        "code": "5813"
+    },
+    {
+        "name": "Xu\u1ea5t b\u1ea3n b\u00e1o, t\u1ea1p ch\u00ed v\u00e0 c\u00e1c \u1ea5n ph\u1ea9m \u0111\u1ecbnh k\u1ef3 tr\u1ef1c tuy\u1ebfn",
+        "code": "58131"
+    },
+    {
+        "name": "Xu\u1ea5t b\u1ea3n b\u00e1o, t\u1ea1p ch\u00ed v\u00e0 c\u00e1c \u1ea5n ph\u1ea9m \u0111\u1ecbnh k\u1ef3 kh\u00e1c",
+        "code": "58132"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng xu\u1ea5t b\u1ea3n kh\u00e1c",
+        "code": "5819"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng xu\u1ea5t b\u1ea3n tr\u1ef1c tuy\u1ebfn kh\u00e1c",
+        "code": "58191"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng xu\u1ea5t b\u1ea3n kh\u00e1c",
+        "code": "58192"
+    },
+    {
+        "name": "Xu\u1ea5t b\u1ea3n ph\u1ea7n m\u1ec1m",
+        "code": "58200"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng \u0111i\u1ec7n \u1ea3nh, s\u1ea3n xu\u1ea5t ch\u01b0\u01a1ng tr\u00ecnh truy\u1ec1n h\u00ecnh, ghi \u00e2m v\u00e0 xu\u1ea5t b\u1ea3n \u00e2m nh\u1ea1c",
+        "code": "59"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng \u0111i\u1ec7n \u1ea3nh v\u00e0 s\u1ea3n xu\u1ea5t ch\u01b0\u01a1ng tr\u00ecnh truy\u1ec1n h\u00ecnh",
+        "code": "591"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng s\u1ea3n xu\u1ea5t phim \u0111i\u1ec7n \u1ea3nh, phim video v\u00e0 ch\u01b0\u01a1ng tr\u00ecnh truy\u1ec1n h\u00ecnh",
+        "code": "5911"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng s\u1ea3n xu\u1ea5t phim \u0111i\u1ec7n \u1ea3nh",
+        "code": "59111"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng s\u1ea3n xu\u1ea5t phim video",
+        "code": "59112"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng s\u1ea3n xu\u1ea5t ch\u01b0\u01a1ng tr\u00ecnh truy\u1ec1n h\u00ecnh",
+        "code": "59113"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng h\u1eadu k\u1ef3",
+        "code": "59120"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ph\u00e1t h\u00e0nh phim \u0111i\u1ec7n \u1ea3nh, phim video v\u00e0 ch\u01b0\u01a1ng tr\u00ecnh truy\u1ec1n h\u00ecnh",
+        "code": "59130"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng chi\u1ebfu phim",
+        "code": "5914"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng chi\u1ebfu phim c\u1ed1 \u0111\u1ecbnh",
+        "code": "59141"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng chi\u1ebfu phim l\u01b0u \u0111\u1ed9ng",
+        "code": "59142"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ghi \u00e2m v\u00e0 xu\u1ea5t b\u1ea3n \u00e2m nh\u1ea1c",
+        "code": "59200"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ph\u00e1t thanh, truy\u1ec1n h\u00ecnh",
+        "code": "60"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ph\u00e1t thanh",
+        "code": "60100"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng truy\u1ec1n h\u00ecnh v\u00e0 cung c\u1ea5p ch\u01b0\u01a1ng tr\u00ecnh thu\u00ea bao",
+        "code": "602"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng truy\u1ec1n h\u00ecnh",
+        "code": "60210"
+    },
+    {
+        "name": "Ch\u01b0\u01a1ng tr\u00ecnh c\u00e1p, v\u1ec7 tinh v\u00e0 c\u00e1c ch\u01b0\u01a1ng tr\u00ecnh thu\u00ea bao kh\u00e1c",
+        "code": "60220"
+    },
+    {
+        "name": "Vi\u1ec5n th\u00f4ng",
+        "code": "61"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng vi\u1ec5n th\u00f4ng c\u00f3 d\u00e2y",
+        "code": "6110"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng cung c\u1ea5p tr\u1ef1c ti\u1ebfp d\u1ecbch v\u1ee5 vi\u1ec5n th\u00f4ng c\u00f3 d\u00e2y",
+        "code": "61101"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng cung c\u1ea5p d\u1ecbch v\u1ee5 vi\u1ec5n th\u00f4ng c\u00f3 d\u00e2y s\u1eed d\u1ee5ng quy\u1ec1n truy c\u1eadp h\u1ea1 t\u1ea7ng vi\u1ec5n th\u00f4ng c\u1ee7a \u0111\u01a1n v\u1ecb kh\u00e1c",
+        "code": "61102"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng vi\u1ec5n th\u00f4ng kh\u00f4ng d\u00e2y",
+        "code": "6120"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng cung c\u1ea5p tr\u1ef1c ti\u1ebfp d\u1ecbch v\u1ee5 vi\u1ec5n th\u00f4ng kh\u00f4ng d\u00e2y",
+        "code": "61201"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng cung c\u1ea5p d\u1ecbch v\u1ee5 vi\u1ec5n th\u00f4ng kh\u00f4ng d\u00e2y s\u1eed d\u1ee5ng quy\u1ec1n truy c\u1eadp h\u1ea1 t\u1ea7ng vi\u1ec5n th\u00f4ng c\u1ee7a \u0111\u01a1n v\u1ecb kh\u00e1c",
+        "code": "61202"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng vi\u1ec5n th\u00f4ng v\u1ec7 tinh",
+        "code": "61300"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng vi\u1ec5n th\u00f4ng kh\u00e1c",
+        "code": "6190"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c \u0111i\u1ec3m truy c\u1eadp internet",
+        "code": "61901"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng vi\u1ec5n th\u00f4ng kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "61909"
+    },
+    {
+        "name": "L\u1eadp tr\u00ecnh m\u00e1y vi t\u00ednh, d\u1ecbch v\u1ee5 t\u01b0 v\u1ea5n v\u00e0 c\u00e1c ho\u1ea1t \u0111\u1ed9ng kh\u00e1c li\u00ean quan \u0111\u1ebfn m\u00e1y vi t\u00ednh",
+        "code": "620"
+    },
+    {
+        "name": "L\u1eadp tr\u00ecnh m\u00e1y vi t\u00ednh",
+        "code": "62010"
+    },
+    {
+        "name": "T\u01b0 v\u1ea5n m\u00e1y vi t\u00ednh v\u00e0 qu\u1ea3n tr\u1ecb h\u1ec7 th\u1ed1ng m\u00e1y vi t\u00ednh",
+        "code": "62020"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 c\u00f4ng ngh\u1ec7 th\u00f4ng tin v\u00e0 d\u1ecbch v\u1ee5 kh\u00e1c li\u00ean quan \u0111\u1ebfn m\u00e1y vi t\u00ednh",
+        "code": "62090"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 th\u00f4ng tin",
+        "code": "63"
+    },
+    {
+        "name": "X\u1eed l\u00fd d\u1eef li\u1ec7u, cho thu\u00ea v\u00e0 c\u00e1c ho\u1ea1t \u0111\u1ed9ng li\u00ean quan; c\u1ed5ng th\u00f4ng tin",
+        "code": "631"
+    },
+    {
+        "name": "X\u1eed l\u00fd d\u1eef li\u1ec7u, cho thu\u00ea v\u00e0 c\u00e1c ho\u1ea1t \u0111\u1ed9ng li\u00ean quan",
+        "code": "63110"
+    },
+    {
+        "name": "C\u1ed5ng th\u00f4ng tin",
+        "code": "63120"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 th\u00f4ng tin kh\u00e1c",
+        "code": "639"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng th\u00f4ng t\u1ea5n",
+        "code": "63910"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 th\u00f4ng tin kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "63990"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 t\u00e0i ch\u00ednh (tr\u1eeb b\u1ea3o hi\u1ec3m v\u00e0 b\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i)",
+        "code": "64"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng trung gian ti\u1ec1n t\u1ec7",
+        "code": "641"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ng\u00e2n h\u00e0ng trung \u01b0\u01a1ng",
+        "code": "64110"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng trung gian ti\u1ec1n t\u1ec7 kh\u00e1c",
+        "code": "64190"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u00f4ng ty n\u1eafm gi\u1eef t\u00e0i s\u1ea3n",
+        "code": "64200"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng qu\u1ef9 t\u00edn th\u00e1c, c\u00e1c qu\u1ef9 v\u00e0 c\u00e1c t\u1ed5 ch\u1ee9c t\u00e0i ch\u00ednh kh\u00e1c",
+        "code": "64300"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 t\u00e0i ch\u00ednh kh\u00e1c (tr\u1eeb b\u1ea3o hi\u1ec3m v\u00e0 b\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i)",
+        "code": "649"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng cho thu\u00ea t\u00e0i ch\u00ednh",
+        "code": "64910"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ea5p t\u00edn d\u1ee5ng kh\u00e1c",
+        "code": "64920"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 t\u00e0i ch\u00ednh kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u (tr\u1eeb b\u1ea3o hi\u1ec3m v\u00e0 b\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i)",
+        "code": "64990"
+    },
+    {
+        "name": "B\u1ea3o hi\u1ec3m, t\u00e1i b\u1ea3o hi\u1ec3m v\u00e0 b\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i (tr\u1eeb b\u1ea3o \u0111\u1ea3m x\u00e3 h\u1ed9i b\u1eaft bu\u1ed9c)",
+        "code": "65"
+    },
+    {
+        "name": "B\u1ea3o hi\u1ec3m",
+        "code": "651"
+    },
+    {
+        "name": "B\u1ea3o hi\u1ec3m nh\u00e2n th\u1ecd",
+        "code": "65110"
+    },
+    {
+        "name": "B\u1ea3o hi\u1ec3m phi nh\u00e2n th\u1ecd",
+        "code": "65120"
+    },
+    {
+        "name": "B\u1ea3o hi\u1ec3m s\u1ee9c kh\u1ecfe",
+        "code": "6513"
+    },
+    {
+        "name": "B\u1ea3o hi\u1ec3m y t\u1ebf",
+        "code": "65131"
+    },
+    {
+        "name": "B\u1ea3o hi\u1ec3m s\u1ee9c kh\u1ecfe kh\u00e1c",
+        "code": "65139"
+    },
+    {
+        "name": "T\u00e1i b\u1ea3o hi\u1ec3m",
+        "code": "65200"
+    },
+    {
+        "name": "B\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i",
+        "code": "65300"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng t\u00e0i ch\u00ednh kh\u00e1c",
+        "code": "66"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng h\u1ed7 tr\u1ee3 d\u1ecbch v\u1ee5 t\u00e0i ch\u00ednh (tr\u1eeb b\u1ea3o hi\u1ec3m v\u00e0 b\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i)",
+        "code": "661"
+    },
+    {
+        "name": "Qu\u1ea3n l\u00fd th\u1ecb tr\u01b0\u1eddng t\u00e0i ch\u00ednh",
+        "code": "66110"
+    },
+    {
+        "name": "M\u00f4i gi\u1edbi h\u1ee3p \u0111\u1ed3ng h\u00e0ng ho\u00e1 v\u00e0 ch\u1ee9ng kho\u00e1n",
+        "code": "66120"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng h\u1ed7 tr\u1ee3 d\u1ecbch v\u1ee5 t\u00e0i ch\u00ednh ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "66190"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng h\u1ed7 tr\u1ee3 b\u1ea3o hi\u1ec3m v\u00e0 b\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i",
+        "code": "662"
+    },
+    {
+        "name": "\u0110\u00e1nh gi\u00e1 r\u1ee7i ro v\u00e0 thi\u1ec7t h\u1ea1i",
+        "code": "66210"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a \u0111\u1ea1i l\u00fd v\u00e0 m\u00f4i gi\u1edbi b\u1ea3o hi\u1ec3m",
+        "code": "66220"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng h\u1ed7 tr\u1ee3 kh\u00e1c cho b\u1ea3o hi\u1ec3m v\u00e0 b\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i",
+        "code": "66290"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng qu\u1ea3n l\u00fd qu\u1ef9",
+        "code": "66300"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng kinh doanh b\u1ea5t \u0111\u1ed9ng s\u1ea3n",
+        "code": "68"
+    },
+    {
+        "name": "Kinh doanh b\u1ea5t \u0111\u1ed9ng s\u1ea3n, quy\u1ec1n s\u1eed d\u1ee5ng \u0111\u1ea5t thu\u1ed9c ch\u1ee7 s\u1edf h\u1eefu, ch\u1ee7 s\u1eed d\u1ee5ng ho\u1eb7c \u0111i thu\u00ea",
+        "code": "6810"
+    },
+    {
+        "name": "Mua, b\u00e1n nh\u00e0 \u1edf v\u00e0 quy\u1ec1n s\u1eed d\u1ee5ng \u0111\u1ea5t \u1edf",
+        "code": "68101"
+    },
+    {
+        "name": "Mua, b\u00e1n nh\u00e0 v\u00e0 quy\u1ec1n s\u1eed d\u1ee5ng \u0111\u1ea5t kh\u00f4ng \u0111\u1ec3 \u1edf",
+        "code": "68102"
+    },
+    {
+        "name": "Cho thu\u00ea, \u0111i\u1ec1u h\u00e0nh, qu\u1ea3n l\u00fd nh\u00e0 v\u00e0 \u0111\u1ea5t \u1edf",
+        "code": "68103"
+    },
+    {
+        "name": "Cho thu\u00ea, \u0111i\u1ec1u h\u00e0nh, qu\u1ea3n l\u00fd nh\u00e0 v\u00e0 \u0111\u1ea5t kh\u00f4ng \u0111\u1ec3 \u1edf",
+        "code": "68104"
+    },
+    {
+        "name": "Kinh doanh b\u1ea5t \u0111\u1ed9ng s\u1ea3n kh\u00e1c",
+        "code": "68109"
+    },
+    {
+        "name": "T\u01b0 v\u1ea5n, m\u00f4i gi\u1edbi, \u0111\u1ea5u gi\u00e1 b\u1ea5t \u0111\u1ed9ng s\u1ea3n, \u0111\u1ea5u gi\u00e1 quy\u1ec1n s\u1eed d\u1ee5ng \u0111\u1ea5t",
+        "code": "6820"
+    },
+    {
+        "name": "T\u01b0 v\u1ea5n, m\u00f4i gi\u1edbi b\u1ea5t \u0111\u1ed9ng s\u1ea3n, quy\u1ec1n s\u1eed d\u1ee5ng \u0111\u1ea5t",
+        "code": "68201"
+    },
+    {
+        "name": "\u0110\u1ea5u gi\u00e1 b\u1ea5t \u0111\u1ed9ng s\u1ea3n, quy\u1ec1n s\u1eed d\u1ee5ng \u0111\u1ea5t",
+        "code": "68202"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ph\u00e1p lu\u1eadt, k\u1ebf to\u00e1n v\u00e0 ki\u1ec3m to\u00e1n",
+        "code": "69"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ph\u00e1p lu\u1eadt",
+        "code": "6910"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng \u0111\u1ea1i di\u1ec7n, t\u01b0 v\u1ea5n ph\u00e1p lu\u1eadt",
+        "code": "69101"
+    },
+    {
+        "name": "H\u01b0\u1edbng d\u1eabn chung v\u00e0 t\u01b0 v\u1ea5n, chu\u1ea9n b\u1ecb c\u00e1c t\u00e0i li\u1ec7u ph\u00e1p l\u00fd",
+        "code": "69102"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ph\u00e1p lu\u1eadt kh\u00e1c",
+        "code": "69109"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng li\u00ean quan \u0111\u1ebfn k\u1ebf to\u00e1n, ki\u1ec3m to\u00e1n v\u00e0 t\u01b0 v\u1ea5n v\u1ec1 thu\u1ebf",
+        "code": "69200"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a tr\u1ee5 s\u1edf v\u0103n ph\u00f2ng; ho\u1ea1t \u0111\u1ed9ng t\u01b0 v\u1ea5n qu\u1ea3n l\u00fd",
+        "code": "70"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a tr\u1ee5 s\u1edf v\u0103n ph\u00f2ng",
+        "code": "70100"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng t\u01b0 v\u1ea5n qu\u1ea3n l\u00fd",
+        "code": "70200"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ki\u1ebfn tr\u00fac; ki\u1ec3m tra v\u00e0 ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt",
+        "code": "71"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ki\u1ebfn tr\u00fac v\u00e0 t\u01b0 v\u1ea5n k\u1ef9 thu\u1eadt c\u00f3 li\u00ean quan",
+        "code": "7110"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ki\u1ebfn tr\u00fac",
+        "code": "71101"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng \u0111o \u0111\u1ea1c v\u00e0 b\u1ea3n \u0111\u1ed3",
+        "code": "71102"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng th\u0103m d\u00f2 \u0111\u1ecba ch\u1ea5t, ngu\u1ed3n n\u01b0\u1edbc",
+        "code": "71103"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng t\u01b0 v\u1ea5n k\u1ef9 thu\u1eadt c\u00f3 li\u00ean quan kh\u00e1c",
+        "code": "71109"
+    },
+    {
+        "name": "Ki\u1ec3m tra v\u00e0 ph\u00e2n t\u00edch k\u1ef9 thu\u1eadt",
+        "code": "71200"
+    },
+    {
+        "name": "Nghi\u00ean c\u1ee9u khoa h\u1ecdc v\u00e0 ph\u00e1t tri\u1ec3n c\u00f4ng ngh\u1ec7",
+        "code": "72"
+    },
+    {
+        "name": "Nghi\u00ean c\u1ee9u khoa h\u1ecdc v\u00e0 ph\u00e1t tri\u1ec3n c\u00f4ng ngh\u1ec7 trong l\u0129nh v\u1ef1c khoa h\u1ecdc t\u1ef1 nhi\u00ean v\u00e0 k\u1ef9 thu\u1eadt",
+        "code": "721"
+    },
+    {
+        "name": "Nghi\u00ean c\u1ee9u khoa h\u1ecdc v\u00e0 ph\u00e1t tri\u1ec3n c\u00f4ng ngh\u1ec7 trong l\u0129nh v\u1ef1c khoa h\u1ecdc t\u1ef1 nhi\u00ean",
+        "code": "72110"
+    },
+    {
+        "name": "Nghi\u00ean c\u1ee9u khoa h\u1ecdc v\u00e0 ph\u00e1t tri\u1ec3n c\u00f4ng ngh\u1ec7 trong l\u0129nh v\u1ef1c khoa h\u1ecdc k\u1ef9 thu\u1eadt v\u00e0 c\u00f4ng ngh\u1ec7",
+        "code": "72120"
+    },
+    {
+        "name": "Nghi\u00ean c\u1ee9u khoa h\u1ecdc v\u00e0 ph\u00e1t tri\u1ec3n c\u00f4ng ngh\u1ec7 trong l\u0129nh v\u1ef1c khoa h\u1ecdc y, d\u01b0\u1ee3c",
+        "code": "72130"
+    },
+    {
+        "name": "Nghi\u00ean c\u1ee9u khoa h\u1ecdc v\u00e0 ph\u00e1t tri\u1ec3n c\u00f4ng ngh\u1ec7 trong l\u0129nh v\u1ef1c khoa h\u1ecdc n\u00f4ng nghi\u1ec7p",
+        "code": "72140"
+    },
+    {
+        "name": "Nghi\u00ean c\u1ee9u khoa h\u1ecdc v\u00e0 ph\u00e1t tri\u1ec3n c\u00f4ng ngh\u1ec7 trong l\u0129nh v\u1ef1c khoa h\u1ecdc x\u00e3 h\u1ed9i v\u00e0 nh\u00e2n v\u0103n",
+        "code": "722"
+    },
+    {
+        "name": "Nghi\u00ean c\u1ee9u khoa h\u1ecdc v\u00e0 ph\u00e1t tri\u1ec3n c\u00f4ng ngh\u1ec7 trong l\u0129nh v\u1ef1c khoa h\u1ecdc x\u00e3 h\u1ed9i",
+        "code": "72210"
+    },
+    {
+        "name": "Nghi\u00ean c\u1ee9u khoa h\u1ecdc v\u00e0 ph\u00e1t tri\u1ec3n c\u00f4ng ngh\u1ec7 trong l\u0129nh v\u1ef1c khoa h\u1ecdc nh\u00e2n v\u0103n",
+        "code": "72220"
+    },
+    {
+        "name": "Qu\u1ea3ng c\u00e1o v\u00e0 nghi\u00ean c\u1ee9u th\u1ecb tr\u01b0\u1eddng",
+        "code": "73"
+    },
+    {
+        "name": "Qu\u1ea3ng c\u00e1o",
+        "code": "73100"
+    },
+    {
+        "name": "Nghi\u00ean c\u1ee9u th\u1ecb tr\u01b0\u1eddng v\u00e0 th\u0103m d\u00f2 d\u01b0 lu\u1eadn",
+        "code": "73200"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng chuy\u00ean m\u00f4n, khoa h\u1ecdc v\u00e0 c\u00f4ng ngh\u1ec7 kh\u00e1c",
+        "code": "74"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng thi\u1ebft k\u1ebf chuy\u00ean d\u1ee5ng",
+        "code": "74100"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng nhi\u1ebfp \u1ea3nh",
+        "code": "74200"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng chuy\u00ean m\u00f4n, khoa h\u1ecdc v\u00e0 c\u00f4ng ngh\u1ec7 kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "7490"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng kh\u00ed t\u01b0\u1ee3ng thu\u1ef7 v\u0103n",
+        "code": "74901"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng chuy\u00ean m\u00f4n, khoa h\u1ecdc v\u00e0 c\u00f4ng ngh\u1ec7 kh\u00e1c c\u00f2n l\u1ea1i ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "74909"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng th\u00fa y",
+        "code": "75000"
+    },
+    {
+        "name": "Cho thu\u00ea m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb (kh\u00f4ng k\u00e8m ng\u01b0\u1eddi \u0111i\u1ec1u khi\u1ec3n); cho thu\u00ea \u0111\u1ed3 d\u00f9ng c\u00e1 nh\u00e2n v\u00e0 gia \u0111\u00ecnh; cho thu\u00ea t\u00e0i s\u1ea3n v\u00f4 h\u00ecnh phi t\u00e0i ch\u00ednh",
+        "code": "77"
+    },
+    {
+        "name": "Cho thu\u00ea xe c\u00f3 \u0111\u1ed9ng c\u01a1",
+        "code": "7710"
+    },
+    {
+        "name": "Cho thu\u00ea \u00f4t\u00f4",
+        "code": "77101"
+    },
+    {
+        "name": "Cho thu\u00ea xe c\u00f3 \u0111\u1ed9ng c\u01a1 kh\u00e1c",
+        "code": "77109"
+    },
+    {
+        "name": "Cho thu\u00ea \u0111\u1ed3 d\u00f9ng c\u00e1 nh\u00e2n v\u00e0 gia \u0111\u00ecnh",
+        "code": "772"
+    },
+    {
+        "name": "Cho thu\u00ea thi\u1ebft b\u1ecb th\u1ec3 thao, vui ch\u01a1i gi\u1ea3i tr\u00ed",
+        "code": "77210"
+    },
+    {
+        "name": "Cho thu\u00ea b\u0103ng, \u0111\u0129a video",
+        "code": "77220"
+    },
+    {
+        "name": "Cho thu\u00ea \u0111\u1ed3 d\u00f9ng c\u00e1 nh\u00e2n v\u00e0 gia \u0111\u00ecnh kh\u00e1c",
+        "code": "77290"
+    },
+    {
+        "name": "Cho thu\u00ea m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb v\u00e0 \u0111\u1ed3 d\u00f9ng h\u1eefu h\u00ecnh kh\u00e1c kh\u00f4ng k\u00e8m ng\u01b0\u1eddi \u0111i\u1ec1u khi\u1ec3n",
+        "code": "7730"
+    },
+    {
+        "name": "Cho thu\u00ea m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb n\u00f4ng, l\u00e2m nghi\u1ec7p kh\u00f4ng k\u00e8m ng\u01b0\u1eddi \u0111i\u1ec1u khi\u1ec3n",
+        "code": "77301"
+    },
+    {
+        "name": "Cho thu\u00ea m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb x\u00e2y d\u1ef1ng kh\u00f4ng k\u00e8m ng\u01b0\u1eddi \u0111i\u1ec1u khi\u1ec3n",
+        "code": "77302"
+    },
+    {
+        "name": "Cho thu\u00ea m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb v\u0103n ph\u00f2ng (k\u1ec3 c\u1ea3 m\u00e1y vi t\u00ednh) kh\u00f4ng k\u00e8m ng\u01b0\u1eddi \u0111i\u1ec1u khi\u1ec3n",
+        "code": "77303"
+    },
+    {
+        "name": "Cho thu\u00ea m\u00e1y bay, ph\u01b0\u01a1ng ti\u1ec7n bay kh\u00f4ng k\u00e8m ng\u01b0\u1eddi \u0111i\u1ec1u khi\u1ec3n",
+        "code": "77304"
+    },
+    {
+        "name": "Cho thu\u00ea t\u00e0u, thuy\u1ec1n v\u00e0 k\u1ebft c\u1ea5u n\u1ed5i kh\u00f4ng k\u00e8m ng\u01b0\u1eddi \u0111i\u1ec1u khi\u1ec3n",
+        "code": "77305"
+    },
+    {
+        "name": "Cho thu\u00ea m\u00e1y m\u00f3c, thi\u1ebft b\u1ecb v\u00e0 \u0111\u1ed3 d\u00f9ng h\u1eefu h\u00ecnh kh\u00e1c, kh\u00f4ng k\u00e8m ng\u01b0\u1eddi \u0111i\u1ec1u khi\u1ec3n ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "77309"
+    },
+    {
+        "name": "Cho thu\u00ea t\u00e0i s\u1ea3n v\u00f4 h\u00ecnh phi t\u00e0i ch\u00ednh",
+        "code": "77400"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 lao \u0111\u1ed9ng v\u00e0 vi\u1ec7c l\u00e0m",
+        "code": "78"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c trung t\u00e2m, \u0111\u1ea1i l\u00fd t\u01b0 v\u1ea5n, gi\u1edbi thi\u1ec7u v\u00e0 m\u00f4i gi\u1edbi lao \u0111\u1ed9ng, vi\u1ec7c l\u00e0m",
+        "code": "78100"
+    },
+    {
+        "name": "Cung \u1ee9ng lao \u0111\u1ed9ng t\u1ea1m th\u1eddi",
+        "code": "78200"
+    },
+    {
+        "name": "Cung \u1ee9ng v\u00e0 qu\u1ea3n l\u00fd ngu\u1ed3n lao \u0111\u1ed9ng",
+        "code": "7830"
+    },
+    {
+        "name": "Cung \u1ee9ng v\u00e0 qu\u1ea3n l\u00fd ngu\u1ed3n lao \u0111\u1ed9ng trong n\u01b0\u1edbc",
+        "code": "78301"
+    },
+    {
+        "name": "Cung \u1ee9ng v\u00e0 qu\u1ea3n l\u00fd ngu\u1ed3n lao \u0111\u1ed9ng \u0111i l\u00e0m vi\u1ec7c \u1edf n\u01b0\u1edbc ngo\u00e0i",
+        "code": "78302"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c \u0111\u1ea1i l\u00fd du l\u1ecbch, kinh doanh tua du l\u1ecbch v\u00e0 c\u00e1c d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3, li\u00ean quan \u0111\u1ebfn qu\u1ea3ng b\u00e1 v\u00e0 t\u1ed5 ch\u1ee9c tua du l\u1ecbch",
+        "code": "79"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c \u0111\u1ea1i l\u00fd du l\u1ecbch, kinh doanh tua du l\u1ecbch",
+        "code": "791"
+    },
+    {
+        "name": "\u0110\u1ea1i l\u00fd du l\u1ecbch",
+        "code": "79110"
+    },
+    {
+        "name": "\u0110i\u1ec1u h\u00e0nh tua du l\u1ecbch",
+        "code": "79120"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 \u0111\u1eb7t ch\u1ed7 v\u00e0 c\u00e1c d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 li\u00ean quan \u0111\u1ebfn qu\u1ea3ng b\u00e1 v\u00e0 t\u1ed5 ch\u1ee9c tua du l\u1ecbch",
+        "code": "79900"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng \u0111i\u1ec1u tra b\u1ea3o \u0111\u1ea3m an to\u00e0n",
+        "code": "80"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng b\u1ea3o v\u1ec7 t\u01b0 nh\u00e2n",
+        "code": "80100"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 h\u1ec7 th\u1ed1ng b\u1ea3o \u0111\u1ea3m an to\u00e0n",
+        "code": "80200"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 \u0111i\u1ec1u tra",
+        "code": "80300"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 v\u1ec7 sinh nh\u00e0 c\u1eeda, c\u00f4ng tr\u00ecnh v\u00e0 c\u1ea3nh quan",
+        "code": "81"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 t\u1ed5ng h\u1ee3p",
+        "code": "81100"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 v\u1ec7 sinh",
+        "code": "812"
+    },
+    {
+        "name": "V\u1ec7 sinh chung nh\u00e0 c\u1eeda",
+        "code": "81210"
+    },
+    {
+        "name": "V\u1ec7 sinh c\u00f4ng nghi\u1ec7p v\u00e0 c\u00e1c c\u00f4ng tr\u00ecnh chuy\u00ean bi\u1ec7t",
+        "code": "81290"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 ch\u0103m s\u00f3c v\u00e0 duy tr\u00ec c\u1ea3nh quan",
+        "code": "81300"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng h\u00e0nh ch\u00ednh, h\u1ed7 tr\u1ee3 v\u0103n ph\u00f2ng v\u00e0 c\u00e1c ho\u1ea1t \u0111\u1ed9ng h\u1ed7 tr\u1ee3 kinh doanh kh\u00e1c",
+        "code": "82"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng h\u00e0nh ch\u00ednh v\u00e0 h\u1ed7 tr\u1ee3 v\u0103n ph\u00f2ng",
+        "code": "821"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 h\u00e0nh ch\u00ednh v\u0103n ph\u00f2ng t\u1ed5ng h\u1ee3p",
+        "code": "82110"
+    },
+    {
+        "name": "Photo, chu\u1ea9n b\u1ecb t\u00e0i li\u1ec7u v\u00e0 c\u00e1c ho\u1ea1t \u0111\u1ed9ng h\u1ed7 tr\u1ee3 v\u0103n ph\u00f2ng \u0111\u1eb7c bi\u1ec7t kh\u00e1c",
+        "code": "8219"
+    },
+    {
+        "name": "Photo, chu\u1ea9n b\u1ecb t\u00e0i li\u1ec7u",
+        "code": "82191"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng h\u1ed7 tr\u1ee3 v\u0103n ph\u00f2ng \u0111\u1eb7c bi\u1ec7t kh\u00e1c",
+        "code": "82199"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 li\u00ean quan \u0111\u1ebfn c\u00e1c cu\u1ed9c g\u1ecdi",
+        "code": "82200"
+    },
+    {
+        "name": "T\u1ed5 ch\u1ee9c gi\u1edbi thi\u1ec7u v\u00e0 x\u00fac ti\u1ebfn th\u01b0\u01a1ng m\u1ea1i",
+        "code": "82300"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 kinh doanh kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "829"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 thanh to\u00e1n, t\u00edn d\u1ee5ng",
+        "code": "82910"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 \u0111\u00f3ng g\u00f3i",
+        "code": "82920"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 kinh doanh kh\u00e1c c\u00f2n l\u1ea1i ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "82990"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a \u0110\u1ea3ng c\u1ed9ng s\u1ea3n, t\u1ed5 ch\u1ee9c ch\u00ednh tr\u1ecb - x\u00e3 h\u1ed9i, qu\u1ea3n l\u00fd nh\u00e0 n\u01b0\u1edbc, an ninh qu\u1ed1c ph\u00f2ng, \u0111\u1ed1i ngo\u1ea1i v\u00e0 b\u1ea3o \u0111\u1ea3m x\u00e3 h\u1ed9i b\u1eaft bu\u1ed9c",
+        "code": "84"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a \u0110\u1ea3ng c\u1ed9ng s\u1ea3n, t\u1ed5 ch\u1ee9c ch\u00ednh tr\u1ecb - x\u00e3 h\u1ed9i, qu\u1ea3n l\u00fd nh\u00e0 n\u01b0\u1edbc v\u00e0 qu\u1ea3n l\u00fd ch\u00ednh s\u00e1ch kinh t\u1ebf, x\u00e3 h\u1ed9i",
+        "code": "841"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a \u0110\u1ea3ng c\u1ed9ng s\u1ea3n, t\u1ed5 ch\u1ee9c ch\u00ednh tr\u1ecb - x\u00e3 h\u1ed9i, ho\u1ea1t \u0111\u1ed9ng qu\u1ea3n l\u00fd nh\u00e0 n\u01b0\u1edbc n\u00f3i chung v\u00e0 kinh t\u1ebf t\u1ed5ng h\u1ee3p",
+        "code": "8411"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a \u0110\u1ea3ng c\u1ed9ng s\u1ea3n, t\u1ed5 ch\u1ee9c ch\u00ednh tr\u1ecb - x\u00e3 h\u1ed9i",
+        "code": "84111"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng qu\u1ea3n l\u00fd nh\u00e0 n\u01b0\u1edbc n\u00f3i chung v\u00e0 kinh t\u1ebf t\u1ed5ng h\u1ee3p",
+        "code": "84112"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng qu\u1ea3n l\u00fd nh\u00e0 n\u01b0\u1edbc trong c\u00e1c l\u0129nh v\u1ef1c y t\u1ebf, gi\u00e1o d\u1ee5c, v\u0103n ho\u00e1 v\u00e0 c\u00e1c d\u1ecbch v\u1ee5 x\u00e3 h\u1ed9i kh\u00e1c (tr\u1eeb b\u1ea3o \u0111\u1ea3m x\u00e3 h\u1ed9i b\u1eaft bu\u1ed9c)",
+        "code": "84120"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng qu\u1ea3n l\u00fd nh\u00e0 n\u01b0\u1edbc trong c\u00e1c l\u0129nh v\u1ef1c kinh t\u1ebf chuy\u00ean ng\u00e0nh",
+        "code": "84130"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ph\u1ee5c v\u1ee5 chung cho to\u00e0n \u0111\u1ea5t n\u01b0\u1edbc",
+        "code": "842"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng \u0111\u1ed1i ngo\u1ea1i",
+        "code": "84210"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng qu\u1ed1c ph\u00f2ng",
+        "code": "84220"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng an ninh, tr\u1eadt t\u1ef1 an to\u00e0n x\u00e3 h\u1ed9i",
+        "code": "84230"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng b\u1ea3o \u0111\u1ea3m x\u00e3 h\u1ed9i b\u1eaft bu\u1ed9c",
+        "code": "84300"
+    },
+    {
+        "name": "Gi\u00e1o d\u1ee5c v\u00e0 \u0111\u00e0o t\u1ea1o",
+        "code": "85"
+    },
+    {
+        "name": "Gi\u00e1o d\u1ee5c m\u1ea7m non",
+        "code": "851"
+    },
+    {
+        "name": "Gi\u00e1o d\u1ee5c nh\u00e0 tr\u1ebb",
+        "code": "85110"
+    },
+    {
+        "name": "Gi\u00e1o d\u1ee5c m\u1eabu gi\u00e1o",
+        "code": "85120"
+    },
+    {
+        "name": "Gi\u00e1o d\u1ee5c ph\u1ed5 th\u00f4ng",
+        "code": "852"
+    },
+    {
+        "name": "Gi\u00e1o d\u1ee5c ti\u1ec3u h\u1ecdc",
+        "code": "85210"
+    },
+    {
+        "name": "Gi\u00e1o d\u1ee5c trung h\u1ecdc c\u01a1 s\u1edf",
+        "code": "85220"
+    },
+    {
+        "name": "Gi\u00e1o d\u1ee5c trung h\u1ecdc ph\u1ed5 th\u00f4ng",
+        "code": "85230"
+    },
+    {
+        "name": "Gi\u00e1o d\u1ee5c ngh\u1ec1 nghi\u1ec7p",
+        "code": "853"
+    },
+    {
+        "name": "\u0110\u00e0o t\u1ea1o s\u01a1 c\u1ea5p",
+        "code": "85310"
+    },
+    {
+        "name": "\u0110\u00e0o t\u1ea1o trung c\u1ea5p",
+        "code": "85320"
+    },
+    {
+        "name": "\u0110\u00e0o t\u1ea1o cao \u0111\u1eb3ng",
+        "code": "85330"
+    },
+    {
+        "name": "Gi\u00e1o d\u1ee5c \u0111\u1ea1i h\u1ecdc",
+        "code": "854"
+    },
+    {
+        "name": "\u0110\u00e0o t\u1ea1o \u0111\u1ea1i h\u1ecdc",
+        "code": "85410"
+    },
+    {
+        "name": "\u0110\u00e0o t\u1ea1o th\u1ea1c s\u1ef9",
+        "code": "85420"
+    },
+    {
+        "name": "\u0110\u00e0o t\u1ea1o ti\u1ebfn s\u1ef9",
+        "code": "85430"
+    },
+    {
+        "name": "Gi\u00e1o d\u1ee5c kh\u00e1c",
+        "code": "855"
+    },
+    {
+        "name": "Gi\u00e1o d\u1ee5c th\u1ec3 thao v\u00e0 gi\u1ea3i tr\u00ed",
+        "code": "85510"
+    },
+    {
+        "name": "Gi\u00e1o d\u1ee5c v\u0103n ho\u00e1 ngh\u1ec7 thu\u1eadt",
+        "code": "85520"
+    },
+    {
+        "name": "Gi\u00e1o d\u1ee5c kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "85590"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 gi\u00e1o d\u1ee5c",
+        "code": "85600"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng y t\u1ebf",
+        "code": "86"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c b\u1ec7nh vi\u1ec7n, tr\u1ea1m y t\u1ebf",
+        "code": "8610"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c b\u1ec7nh vi\u1ec7n",
+        "code": "86101"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c tr\u1ea1m y t\u1ebf v\u00e0 tr\u1ea1m y t\u1ebf b\u1ed9/ng\u00e0nh",
+        "code": "86102"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c ph\u00f2ng kh\u00e1m \u0111a khoa, chuy\u00ean khoa v\u00e0 nha khoa",
+        "code": "8620"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c ph\u00f2ng kh\u00e1m \u0111a khoa, chuy\u00ean khoa",
+        "code": "86201"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c ph\u00f2ng kh\u00e1m nha khoa",
+        "code": "86202"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng y t\u1ebf kh\u00e1c",
+        "code": "869"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng y t\u1ebf d\u1ef1 ph\u00f2ng",
+        "code": "86910"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a h\u1ec7 th\u1ed1ng c\u01a1 s\u1edf ch\u1ec9nh h\u00ecnh, ph\u1ee5c h\u1ed3i ch\u1ee9c n\u0103ng",
+        "code": "86920"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng y t\u1ebf kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "86990"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ch\u0103m s\u00f3c, \u0111i\u1ec1u d\u01b0\u1ee1ng t\u1eadp trung",
+        "code": "87"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c c\u01a1 s\u1edf nu\u00f4i d\u01b0\u1ee1ng, \u0111i\u1ec1u d\u01b0\u1ee1ng",
+        "code": "8710"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c c\u01a1 s\u1edf nu\u00f4i d\u01b0\u1ee1ng, \u0111i\u1ec1u d\u01b0\u1ee1ng th\u01b0\u01a1ng b\u1ec7nh binh",
+        "code": "87101"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c c\u01a1 s\u1edf nu\u00f4i d\u01b0\u1ee1ng, \u0111i\u1ec1u d\u01b0\u1ee1ng c\u00e1c \u0111\u1ed1i t\u01b0\u1ee3ng kh\u00e1c",
+        "code": "87109"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ch\u0103m s\u00f3c s\u1ee9c kho\u1ebb ng\u01b0\u1eddi b\u1ecb thi\u1ec3u n\u0103ng, t\u00e2m th\u1ea7n v\u00e0 ng\u01b0\u1eddi nghi\u1ec7n",
+        "code": "8720"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ch\u0103m s\u00f3c s\u1ee9c kho\u1ebb ng\u01b0\u1eddi b\u1ecb thi\u1ec3u n\u0103ng, t\u00e2m th\u1ea7n",
+        "code": "87201"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ch\u0103m s\u00f3c s\u1ee9c kho\u1ebb, cai nghi\u1ec7n ph\u1ee5c h\u1ed3i ng\u01b0\u1eddi nghi\u1ec7n",
+        "code": "87202"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ch\u0103m s\u00f3c s\u1ee9c kho\u1ebb ng\u01b0\u1eddi c\u00f3 c\u00f4ng, ng\u01b0\u1eddi gi\u00e0 v\u00e0 ng\u01b0\u1eddi khuy\u1ebft t\u1eadt kh\u00f4ng c\u00f3 kh\u1ea3 n\u0103ng t\u1ef1 ch\u0103m s\u00f3c",
+        "code": "8730"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ch\u0103m s\u00f3c s\u1ee9c kho\u1ebb ng\u01b0\u1eddi c\u00f3 c\u00f4ng (tr\u1eeb th\u01b0\u01a1ng b\u1ec7nh binh)",
+        "code": "87301"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ch\u0103m s\u00f3c s\u1ee9c kho\u1ebb ng\u01b0\u1eddi gi\u00e0",
+        "code": "87302"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ch\u0103m s\u00f3c s\u1ee9c kho\u1ebb ng\u01b0\u1eddi khuy\u1ebft t\u1eadt",
+        "code": "87303"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ch\u0103m s\u00f3c t\u1eadp trung kh\u00e1c",
+        "code": "8790"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ch\u1eefa b\u1ec7nh, ph\u1ee5c h\u1ed3i nh\u00e2n ph\u1ea9m cho \u0111\u1ed1i t\u01b0\u1ee3ng m\u1ea1i d\u00e2m",
+        "code": "87901"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng ch\u0103m s\u00f3c t\u1eadp trung kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "87909"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng tr\u1ee3 gi\u00fap x\u00e3 h\u1ed9i kh\u00f4ng t\u1eadp trung",
+        "code": "88"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng tr\u1ee3 gi\u00fap x\u00e3 h\u1ed9i kh\u00f4ng t\u1eadp trung \u0111\u1ed1i v\u1edbi ng\u01b0\u1eddi c\u00f3 c\u00f4ng, th\u01b0\u01a1ng b\u1ec7nh binh, ng\u01b0\u1eddi gi\u00e0 v\u00e0 ng\u01b0\u1eddi khuy\u1ebft t\u1eadt",
+        "code": "8810"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng tr\u1ee3 gi\u00fap x\u00e3 h\u1ed9i kh\u00f4ng t\u1eadp trung \u0111\u1ed1i v\u1edbi ng\u01b0\u1eddi c\u00f3 c\u00f4ng (tr\u1eeb th\u01b0\u01a1ng b\u1ec7nh binh)",
+        "code": "88101"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng tr\u1ee3 gi\u00fap x\u00e3 h\u1ed9i kh\u00f4ng t\u1eadp trung \u0111\u1ed1i v\u1edbi th\u01b0\u01a1ng b\u1ec7nh binh",
+        "code": "88102"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng tr\u1ee3 gi\u00fap x\u00e3 h\u1ed9i kh\u00f4ng t\u1eadp trung \u0111\u1ed1i v\u1edbi ng\u01b0\u1eddi gi\u00e0 v\u00e0 ng\u01b0\u1eddi khuy\u1ebft t\u1eadt",
+        "code": "88103"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng tr\u1ee3 gi\u00fap x\u00e3 h\u1ed9i kh\u00f4ng t\u1eadp trung kh\u00e1c",
+        "code": "88900"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng s\u00e1ng t\u00e1c, ngh\u1ec7 thu\u1eadt v\u00e0 gi\u1ea3i tr\u00ed",
+        "code": "90000"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a th\u01b0 vi\u1ec7n, l\u01b0u tr\u1eef, b\u1ea3o t\u00e0ng v\u00e0 c\u00e1c ho\u1ea1t \u0111\u1ed9ng v\u0103n ho\u00e1 kh\u00e1c",
+        "code": "91"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a th\u01b0 vi\u1ec7n, l\u01b0u tr\u1eef, b\u1ea3o t\u00e0ng v\u00e0 c\u00e1c ho\u1ea1t \u0111\u1ed9ng v\u0103n ho\u00e1 kh\u00e1c",
+        "code": "910"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng th\u01b0 vi\u1ec7n v\u00e0 l\u01b0u tr\u1eef",
+        "code": "91010"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng b\u1ea3o t\u1ed3n, b\u1ea3o t\u00e0ng",
+        "code": "91020"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c v\u01b0\u1eddn b\u00e1ch th\u1ea3o, b\u00e1ch th\u00fa v\u00e0 khu b\u1ea3o t\u1ed3n t\u1ef1 nhi\u00ean",
+        "code": "91030"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng x\u1ed5 s\u1ed1, c\u00e1 c\u01b0\u1ee3c v\u00e0 \u0111\u00e1nh b\u1ea1c",
+        "code": "9200"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng x\u1ed5 s\u1ed1",
+        "code": "92001"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u00e1 c\u01b0\u1ee3c v\u00e0 \u0111\u00e1nh b\u1ea1c",
+        "code": "92002"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng th\u1ec3 thao, vui ch\u01a1i v\u00e0 gi\u1ea3i tr\u00ed",
+        "code": "93"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng th\u1ec3 thao",
+        "code": "931"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c c\u01a1 s\u1edf th\u1ec3 thao",
+        "code": "93110"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c c\u00e2u l\u1ea1c b\u1ed9 th\u1ec3 thao",
+        "code": "93120"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng th\u1ec3 thao kh\u00e1c",
+        "code": "93190"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng vui ch\u01a1i gi\u1ea3i tr\u00ed kh\u00e1c",
+        "code": "932"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c c\u00f4ng vi\u00ean vui ch\u01a1i v\u00e0 c\u00f4ng vi\u00ean theo ch\u1ee7 \u0111\u1ec1",
+        "code": "93210"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng vui ch\u01a1i gi\u1ea3i tr\u00ed kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "93290"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c hi\u1ec7p h\u1ed9i, t\u1ed5 ch\u1ee9c kh\u00e1c",
+        "code": "94"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c hi\u1ec7p h\u1ed9i kinh doanh, nghi\u1ec7p ch\u1ee7 v\u00e0 ngh\u1ec1 nghi\u1ec7p",
+        "code": "941"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c hi\u1ec7p h\u1ed9i kinh doanh v\u00e0 nghi\u1ec7p ch\u1ee7",
+        "code": "94110"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c h\u1ed9i ngh\u1ec1 nghi\u1ec7p",
+        "code": "94120"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00f4ng \u0111o\u00e0n",
+        "code": "94200"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c t\u1ed5 ch\u1ee9c kh\u00e1c",
+        "code": "949"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c t\u1ed5 ch\u1ee9c t\u00f4n gi\u00e1o",
+        "code": "94910"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c t\u1ed5 ch\u1ee9c kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "94990"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa m\u00e1y vi t\u00ednh, \u0111\u1ed3 d\u00f9ng c\u00e1 nh\u00e2n v\u00e0 gia \u0111\u00ecnh",
+        "code": "95"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa m\u00e1y vi t\u00ednh v\u00e0 thi\u1ebft b\u1ecb li\u00ean l\u1ea1c",
+        "code": "951"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa m\u00e1y vi t\u00ednh v\u00e0 thi\u1ebft b\u1ecb ngo\u1ea1i vi",
+        "code": "95110"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa thi\u1ebft b\u1ecb li\u00ean l\u1ea1c",
+        "code": "95120"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa \u0111\u1ed3 d\u00f9ng c\u00e1 nh\u00e2n v\u00e0 gia \u0111\u00ecnh",
+        "code": "952"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa thi\u1ebft b\u1ecb nghe nh\u00ecn \u0111i\u1ec7n t\u1eed gia d\u1ee5ng",
+        "code": "95210"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa thi\u1ebft b\u1ecb, \u0111\u1ed3 d\u00f9ng gia \u0111\u00ecnh",
+        "code": "95220"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa gi\u00e0y, d\u00e9p, h\u00e0ng da v\u00e0 gi\u1ea3 da",
+        "code": "95230"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa gi\u01b0\u1eddng, t\u1ee7, b\u00e0n, gh\u1ebf v\u00e0 \u0111\u1ed3 n\u1ed9i th\u1ea5t t\u01b0\u01a1ng t\u1ef1",
+        "code": "95240"
+    },
+    {
+        "name": "S\u1eeda ch\u1eefa xe \u0111\u1ea1p, \u0111\u1ed3ng h\u1ed3, \u0111\u1ed3 d\u00f9ng c\u00e1 nh\u00e2n v\u00e0 gia \u0111\u00ecnh kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "95290"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 ph\u1ee5c v\u1ee5 c\u00e1 nh\u00e2n kh\u00e1c",
+        "code": "96"
+    },
+    {
+        "name": "D\u1ecbch v\u1ee5 t\u1eafm h\u01a1i, massage v\u00e0 c\u00e1c d\u1ecbch v\u1ee5 t\u0103ng c\u01b0\u1eddng s\u1ee9c kho\u1ebb t\u01b0\u01a1ng t\u1ef1 (tr\u1eeb ho\u1ea1t \u0111\u1ed9ng th\u1ec3 thao)",
+        "code": "96100"
+    },
+    {
+        "name": "Gi\u1eb7t l\u00e0, l\u00e0m s\u1ea1ch c\u00e1c s\u1ea3n ph\u1ea9m d\u1ec7t v\u00e0 l\u00f4ng th\u00fa",
+        "code": "96200"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 ph\u1ee5c v\u1ee5 c\u00e1 nh\u00e2n kh\u00e1c ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "963"
+    },
+    {
+        "name": "C\u1eaft t\u00f3c, l\u00e0m \u0111\u1ea7u, g\u1ed9i \u0111\u1ea7u",
+        "code": "96310"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 ph\u1ee5c v\u1ee5 tang l\u1ec5",
+        "code": "96320"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 ph\u1ee5c v\u1ee5 h\u00f4n l\u1ec5",
+        "code": "96330"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng d\u1ecbch v\u1ee5 ph\u1ee5c v\u1ee5 c\u00e1 nh\u00e2n kh\u00e1c c\u00f2n l\u1ea1i ch\u01b0a \u0111\u01b0\u1ee3c ph\u00e2n v\u00e0o \u0111\u00e2u",
+        "code": "96390"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng l\u00e0m thu\u00ea c\u00f4ng vi\u1ec7c gia \u0111\u00ecnh trong c\u00e1c h\u1ed9 gia \u0111\u00ecnh",
+        "code": "97000"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng s\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m v\u1eadt ch\u1ea5t v\u00e0 d\u1ecbch v\u1ee5 t\u1ef1 ti\u00eau d\u00f9ng c\u1ee7a h\u1ed9 gia \u0111\u00ecnh",
+        "code": "98"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng s\u1ea3n xu\u1ea5t c\u00e1c s\u1ea3n ph\u1ea9m v\u1eadt ch\u1ea5t t\u1ef1 ti\u00eau d\u00f9ng c\u1ee7a h\u1ed9 gia \u0111\u00ecnh",
+        "code": "98100"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng s\u1ea3n xu\u1ea5t c\u00e1c s\u1ea3n ph\u1ea9m d\u1ecbch v\u1ee5 t\u1ef1 ti\u00eau d\u00f9ng c\u1ee7a h\u1ed9 gia \u0111\u00ecnh",
+        "code": "98200"
+    },
+    {
+        "name": "Ho\u1ea1t \u0111\u1ed9ng c\u1ee7a c\u00e1c t\u1ed5 ch\u1ee9c v\u00e0 c\u01a1 quan qu\u1ed1c t\u1ebf",
+        "code": "99000"
+    }
+]
