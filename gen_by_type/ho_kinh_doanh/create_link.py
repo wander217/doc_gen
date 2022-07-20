@@ -86,7 +86,7 @@ def create_link(_pages: list):
 
 
 if __name__ == "__main__":
-    data_path = r'D:\python_project\doc_gen\gen_by_type\ho_kinh_doanh\image_result\4'
+    data_path = r'D:\python_project\doc_gen\gen_by_type\ho_kinh_doanh\image_result\1'
     for folder in os.listdir(data_path):
         pages = []
         for file in os.listdir(os.path.join(data_path, folder)):
@@ -94,12 +94,15 @@ if __name__ == "__main__":
                 with open(os.path.join(data_path, folder, file), 'r', encoding='utf-8') as f:
                     tmp = f.read()
                     if len(tmp) == 0:
+                        print(file)
                         continue
                     data = json.loads(tmp)
                     pages.append(data)
         links = create_link(pages)
-        pages.clear()
+        # for link in links:
+        #     print(link)
+        # raise Exception("cn")
         # print(links)
         # raise Exception("abc")
-        with open(os.path.join(data_path, folder, 'link.json'), 'w', encoding='utf-8') as f:
+        with open(os.path.join(data_path, folder, 'link.txt'), 'w', encoding='utf-8') as f:
             f.write(json.dumps(links, indent=4))
